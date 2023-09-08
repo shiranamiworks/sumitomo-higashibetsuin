@@ -1,0 +1,425 @@
+@charset "utf-8";
+/* 
+  css設定 @charsetが消されるsass仕様へのハック用コメントです。削除しないでください。新規作成時も必須！
+ */
+@import "inc/mixin.scss";
+@import "inc/functions.scss";
+@import "inc/param.scss";
+
+.location01 {
+  main img {
+    max-width: 100%;
+  }
+  .img {
+    position: relative;
+  }
+  main {
+    font-family: "RyuminPro", serif;
+  }
+  .page-annotation {
+    font-family: "Noto Sans JP", sans-serif;
+  }
+  sup {
+    vertical-align: text-top;
+  }
+  .main-visual {
+    position: relative;
+    line-height: 0;
+    border: none;
+    .page-lead {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      font-size: 54px;
+      width: 90%;
+    }
+  }
+  .sections {
+    line-height: 1;
+    .section-img {
+      position: relative;
+    }
+    .section-title {
+      font-size: 27px;
+      padding-top: 155px;
+      position: relative;
+      color: #afa471;
+      letter-spacing: 0.2em;
+      margin-bottom: 140px;
+      &::after {
+        content: "";
+        display: block;
+        width: 45px;
+        height: 170px;
+        background: url(../images/common/intro.jpg) bottom;
+        position: absolute;
+        top: 0;
+        right: 100%;
+        margin-right: 20px;
+      }
+    }
+    .inner {
+      margin: 0 auto;
+      width: 70%;
+      max-width: 1030px;
+    }
+    .box-tit {
+      text-align: center;
+      background: #b6aa74;
+      font-size: 27px;
+      color: #fff;
+      padding: 10px 0;
+      letter-spacing: 0.3em;
+      margin-bottom: 20px;
+    }
+    .annotation {
+      font-size: 10px;
+      text-align: right;
+    }
+  } //sections
+
+  .intro {
+    .lead {
+      text-align: center;
+      font-size: 54px;
+      padding-bottom: 200px;
+      line-height: 1.5;
+    }
+  } //intro
+  main {
+    padding-bottom: 140px;
+  }
+
+  .history {
+    margin-bottom: 100px;
+    .text {
+      font-size: 36px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+    .img01 {
+      margin-bottom: 40px;
+    }
+    .mini {
+      text-align: right;
+      font-size: 15px;
+      line-height: 1.4;
+      margin-top: 10px;
+    }
+    .texts {
+      margin-top: 60px;
+      .tit {
+        font-size: 32px;
+        line-height: 1.5;
+        color: #b6aa74;
+        margin-bottom: 20px;
+        border-bottom: 0.5px solid #b6aa74;
+      }
+      .lead {
+        font-size: 22px;
+        line-height: 2;
+      }
+      li {
+        vertical-align: top;
+        display: inline-block;
+        width: 48%;
+        margin-right: 2%;
+      }
+      li:last-child {
+        margin-right: auto;
+      }
+    }
+  } //history
+
+  .redevelopment {
+    margin-bottom: 100px;
+    .tit {
+      font-size: 36px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+      color: #b6aa74;
+      border-left: 8px solid #b6aa74;
+      padding-left: 20px;
+    }
+    .text {
+      font-size: 36px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+    .lead {
+      font-size: 24px;
+      line-height: 1.8;
+      margin-bottom: 10px;
+    }
+    .mini {
+      font-size: 15px;
+      line-height: 1.5;
+    }
+    .caps {
+      text-align: right;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+    .list01 {
+      li {
+        vertical-align: top;
+        display: inline-block;
+        width: 64%;
+        margin-right: 1%;
+      }
+      li:last-child {
+        width: 34%;
+        margin-right: auto;
+      }
+    }
+    .img05 {
+      margin-top: -10%;
+    }
+    .policy {
+      // margin-top: -10%;
+      margin-bottom: 100px;
+      .txt01 {
+        max-width: 370px;
+        font-size: 28px;
+        background-image: linear-gradient(90deg, #b6aa74, #fff);
+        background-repeat: no-repeat;
+        background-position: bottom;
+        background-size: 100% 40%;
+        margin-bottom: 20px;
+      }
+      .points {
+        li {
+          vertical-align: top;
+          display: inline-block;
+          width: 31%;
+          margin-right: 2%;
+          margin-bottom: 50px;
+        }
+        li:nth-child(3n) {
+          margin-right: auto;
+        }
+        .txt02 {
+          font-size: 22px;
+          color: #96365c;
+          padding: 0 0 6px 10px;
+          box-sizing: border-box;
+          border-left: 1px solid #96365c;
+          border-bottom: 1px solid #96365c;
+          margin-bottom: 10px;
+          line-height: 1.1;;
+          span {
+            color: #fff;
+            background: #96365c;
+            padding: 2px 8px;
+            margin-right: 6px;
+          }
+        }
+        .txt03 {
+          font-size: 20px;
+          line-height: 1.6;
+        }
+        .point02 {
+          .txt02 {
+            color: #983505;
+            border-left: 1px solid #983505;
+            border-bottom: 1px solid #983505;
+            span {
+              background: #983505;
+            }
+          }
+        } //point02
+        .point03 {
+          .txt02 {
+            color: #501a5a;
+            border-left: 1px solid #501a5a;
+            border-bottom: 1px solid #501a5a;
+            span {
+              background: #501a5a;
+            }
+          }
+        } //point03
+        .point04 {
+          .txt02 {
+            color: #294040;
+            border-left: 1px solid #294040;
+            border-bottom: 1px solid #294040;
+            span {
+              background: #294040;
+            }
+          }
+        } //point04
+        .point05 {
+          .txt02 {
+            color: #50428f;
+            border-left: 1px solid #50428f;
+            border-bottom: 1px solid #50428f;
+            span {
+              background: #50428f;
+            }
+          }
+        } //point05
+        .point06 {
+          .txt02 {
+            color: #5a441a;
+            border-left: 1px solid #5a441a;
+            border-bottom: 1px solid #5a441a;
+            span {
+              background: #5a441a;
+            }
+          }
+        } //point06
+      } //points
+    } //policy
+    .list02 {
+      li {
+        vertical-align: top;
+        display: inline-block;
+        width: 64%;
+        margin-right: 1%;
+        margin-top: 3%;
+      }
+      li:last-child {
+        width: 34%;
+        margin-right: auto;
+      }
+    }
+  } //redevelopment
+
+  @media screen and (max-width: 1300px) {
+  }
+  @media screen and (max-width: 1024px) {
+    .sections {
+      .box-tit {
+        font-size: 20px;
+        letter-spacing: 0.15em;
+      }
+    } //sections
+    .intro {
+      .lead {
+        text-align: left;
+        font-size: 30px;
+        padding-bottom: 40px;
+      }
+    } //intro
+    .history {
+      margin-bottom: 60px;
+      .text {
+        font-size: 24px;
+        line-height: 1.6;
+        margin-bottom: 20px;
+      }
+      .img01 {
+        margin-bottom: 20px;
+      }
+      .texts {
+        margin-top: 40px;
+        .tit {
+          font-size: 24px;
+        }
+        .lead {
+          font-size: 17px;
+        }
+      }
+    } //history
+
+    .redevelopment {
+      margin-bottom: 60px;
+      .tit {
+        font-size: 24px;
+      }
+      .text {
+        font-size: 20px;
+      }
+      .lead {
+        font-size: 17px;
+      }
+      .policy {
+        margin-bottom: 60px;
+        .txt01 {
+          font-size: 24px;
+          margin-bottom: 30px;
+        }
+        .points {
+          li {
+            display: block;
+            width: 100%;
+            margin-bottom: 30px;
+          }
+          .txt02 {
+            font-size: 20px;
+          }
+          .txt03 {
+            font-size: 17px;
+          }
+        } //points
+      } //policy
+    } //redevelopment
+  } //tb
+  @media screen and (max-width: 768px) {
+    .sections {
+      .section-title {
+        font-size: 20px;
+        padding-top: 90px;
+        margin-bottom: 60px;
+        &::after {
+          width: 40px;
+          height: 100px;
+          margin-right: 10px;
+        }
+      }
+      .inner {
+        margin: 0 auto;
+        width: 70%;
+      }
+    } //sections
+
+    .history {
+      .texts {
+        li {
+          display: block;
+          width: 100%;
+        }
+        li:last-child {
+          margin-top: 20px;
+        }
+      }
+    } //history
+
+    .redevelopment {
+      .list01 {
+        li {
+          display: block;
+          width: 100%;
+        }
+        li:last-child {
+          width: 100%;
+          margin-top: 20px;
+        }
+      }
+      .img05 {
+        margin-top: 5%;
+        margin-bottom: 10%;
+      }
+      .policy {
+        margin-top: -5%;
+        .points {
+          .txt02 {
+            font-size: 18px;
+          }
+        } //points
+      } //policy
+      .list02 {
+        li {
+          display: block;
+          width: 100%;
+          margin-top: 20px;
+        }
+        li:last-child {
+          width: 100%;
+        }
+      }
+    } //redevelopment
+  } //sp
+}

@@ -1,0 +1,550 @@
+@charset "utf-8";
+/* 
+  css設定 @charsetが消されるsass仕様へのハック用コメントです。削除しないでください。新規作成時も必須！
+ */
+@import "inc/mixin.scss";
+@import "inc/functions.scss";
+@import "inc/param.scss";
+
+.location03 {
+  main img {
+    max-width: 100%;
+  }
+  .img {
+    position: relative;
+  }
+  main {
+    font-family: "RyuminPro", serif;
+  }
+  .page-annotation {
+    font-family: "Noto Sans JP", sans-serif;
+  }
+  .main-visual {
+    position: relative;
+    line-height: 0;
+    border: none;
+    .page-lead {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      font-size: 54px;
+      width: 90%;
+    }
+  }
+  .sections {
+    line-height: 1;
+    .section-img {
+      position: relative;
+    }
+    .section-title {
+      font-size: 27px;
+      padding-top: 155px;
+      position: relative;
+      color: #afa471;
+      letter-spacing: 0.2em;
+      margin-bottom: 140px;
+      &::after {
+        content: "";
+        display: block;
+        width: 45px;
+        height: 170px;
+        background: url(../images/common/intro.jpg) bottom;
+        position: absolute;
+        top: 0;
+        right: 100%;
+        margin-right: 20px;
+      }
+    }
+    .inner {
+      margin: 0 auto;
+      width: 70%;
+      max-width: 1030px;
+    }
+    .annotation {
+      font-size: 10px;
+      text-align: right;
+    }
+  } //sections
+
+  .intro {
+    .section-lead {
+      text-align: center;
+      font-size: 54px;
+      padding-bottom: 200px;
+      line-height: 1.5;
+    }
+  } //intro
+  main {
+    padding-bottom: 140px;
+  }
+
+  .sec-contents {
+    .tit {
+      font-size: 36px;
+      margin-bottom: 30px;
+      line-height: 1.6;
+      border-left: 15px solid #afa471;
+      padding-left: 10px;
+      span {
+        font-size: 27px;
+        color: #afa471;
+      }
+    }
+    .lead {
+      font-size: 24px;
+      line-height: 1.8;
+    }
+    .name {
+      font-size: 25px;
+      line-height: 1.4;
+      margin: 20px 0 30px;
+      padding-left: 10px;
+      border-left: 5px solid;
+      span {
+        font-size: 20px;
+      }
+    }
+  } //sec-contents
+
+  .map {
+    // margin-bottom: 20px;
+    .caps {
+      text-align: right;
+      font-size: 15px;
+    }
+  } //map
+  .shopping,
+  .child {
+    margin-bottom: 100px;
+    .txt-list {
+      margin-bottom: 20px;
+      li {
+        vertical-align: top;
+        display: inline-block;
+        width: 52%;
+        margin-right: 2%;
+      }
+      li:first-child {
+        width: 100%;
+        margin-right: auto;
+      }
+      li:last-child {
+        width: 44%;
+        margin-right: auto;
+      }
+    }
+    .lis {
+      li {
+        vertical-align: top;
+        display: inline-block;
+        width: 49.6%;
+      }
+    }
+    .lis02,
+    .lis03 {
+      li {
+        vertical-align: top;
+        display: inline-block;
+        width: 32.9%;
+      }
+    }
+  } //shopping
+
+  .life-info {
+    .image {
+      position: relative;
+    }
+    .box-tit {
+      text-align: center;
+      background: #b6aa74;
+      font-size: 27px;
+      color: #fff;
+      padding: 10px 0;
+      letter-spacing: 0.3em;
+      margin-bottom: 20px;
+    }
+    .line-txt {
+      text-align: center;
+      font-size: 27px;
+      padding: 20px 0;
+      border-top: 1px solid;
+      border-bottom: 1px solid;
+      margin: 30px auto 20px;
+    }
+    .annotation {
+      font-size: 15px;
+      bottom: 2px;
+      right: 0;
+      left: 0;
+      text-align: left;
+      background: rgba(0, 0, 0, 0.7);
+      color: #fff;
+      padding: 5px 8px;
+      box-sizing: border-box;
+      margin: 0;
+      span {
+        background: #dc6c2a;
+        border-radius: 5px;
+        padding: 2px 5px;
+        margin-right: 5px;
+      }
+    }
+    .annotation01 {
+      span {
+        background: #dcb437;
+      }
+    }
+    .annotation02 {
+      span {
+        background: #8f6240;
+      }
+    }
+    .annotation03 {
+      span {
+        background: #2db4ad;
+      }
+    }
+    .annotation04 {
+      span {
+        background: #1b5394;
+      }
+    }
+
+    .bg {
+      background: #fff;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    .tab-inner {
+      display: none;
+    }
+    .tab-inner.current {
+      display: block;
+    }
+    .change-buttons {
+      text-align: center;
+      margin: 0 auto 20px;
+    }
+    .change-buttons li {
+      text-align: center;
+      float: left;
+      width: 19.2%;
+      margin-right: 1%;
+    }
+    .change-buttons li:last-child {
+      margin-right: 0;
+    }
+    .change-buttons .button {
+      display: block;
+      color: #dc6c2a;
+      font-size: 17px;
+      background: rgba(89, 87, 88, 0.4);
+      border: 4px solid;
+      &.current {
+        pointer-events: none;
+        background: #fff;
+        line-height: 0;
+      }
+      span {
+        display: inline-block;
+        padding: 16px 0;
+        line-height: 1;
+      }
+    }
+    .change-buttons .button02 {
+      color: #dcb437;
+      span {
+        padding: 8px 0;
+      }
+    }
+    .change-buttons .button03 {
+      color: #8f6240;
+    }
+    .change-buttons .button04 {
+      color: #2db4ad;
+    }
+    .change-buttons .button05 {
+      color: #1b5394;
+      span {
+        padding: 8px 0;
+      }
+    }
+    .change-buttons .button:hover {
+      opacity: 1;
+      background: #fff;
+      transition: 0.3s;
+    }
+
+    .img-list {
+      float: left;
+      width: 54%;
+      margin-right: 1%;
+      .lists li {
+        display: inline-block;
+        width: 49.4%;
+      }
+    }
+    .info-list {
+      background: #f5e4d2;
+      padding: 10px;
+      box-sizing: border-box;
+      float: right;
+      width: 45%;
+
+      .shop {
+        text-align: left;
+        font-size: 18px;
+        border-bottom: 1px solid #b0b0b0;
+        padding: 10px;
+        margin-bottom: 10px;
+        color: #000;
+        p {
+          display: inline-block;
+          vertical-align: middle;
+        }
+        .num {
+          background: #dc6c2a;
+          border-radius: 5px;
+          color: #fff;
+          padding: 2px 7px;
+          margin-right: 5px;
+        }
+        .num01 {
+          background: #dcb437;
+        }
+        .num02 {
+          background: #8f6240;
+        }
+        .num03 {
+          background: #2db4ad;
+        }
+        .num04 {
+          background: #1b5394;
+        }
+
+        .name {
+          line-height: 1;
+          .mid{
+            font-size: 14px;
+          }
+        }
+        .min {
+          padding-top: 4px;
+          font-size: 13px;
+          float: right;
+        }
+        .mini {
+          display: block;
+          font-size: 10px;
+          margin-left: 40px;
+        }
+        .sp {
+          display: none;
+        }
+        .pc {
+          display: inherit;
+        }
+      }
+    } //info-list
+    .info-list01 {
+      background: #fffde9;
+    }
+    .info-list02 {
+      background: #e8ebe5;
+    }
+    .info-list03 {
+      background: #e4f3ef;
+    }
+    .info-list04 {
+      background: #d5d6df;
+    }
+  } //life-info
+
+  @media screen and (max-width: 1024px) {
+    .intro {
+      .section-lead {
+        text-align: left;
+        font-size: 30px;
+        padding-bottom: 40px;
+      }
+    } //intro
+
+    .sec-contents {
+      .tit {
+        font-size: 20px;
+        margin-bottom: 20px;
+        span {
+          font-size: 18px;
+        }
+      }
+      .lead {
+        font-size: 17px;
+        margin-bottom: 20px;
+      }
+      .name {
+        font-size: 20px;
+        margin: 10px 0 20px;
+        span {
+          font-size: 16px;
+        }
+      }
+    } //sec-contents
+
+    .shopping,
+    .child {
+      margin-bottom: 60px;
+      .lis {
+        li {
+          width: 49%;
+        }
+      }
+      .lis02,
+      .lis03 {
+        li {
+          width: 32.5%;
+        }
+      }
+    } //shopping
+
+    .life-info {
+      .box-tit {
+        font-size: 20px;
+        letter-spacing: 0.15em;
+      }
+      .line-txt {
+        font-size: 17px;
+        line-height: 1.4;
+      }
+      .bg {
+        padding: 20px 10px;
+      }
+      .change-buttons {
+        text-align: center;
+        margin: 0 auto 10px;
+      }
+      .change-buttons li {
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+      }
+      .change-buttons .button {
+        font-size: 18px;
+        border: 2px solid;
+        span {
+          padding: 10px 0;
+        }
+      }
+      .img-list {
+        float: none;
+        width: 100%;
+        .lists li {
+          display: block;
+          width: 100%;
+        }
+        img {
+          width: 100%;
+        }
+      }
+      .info-list {
+        float: none;
+        width: 100%;
+        .info-tit {
+          font-size: 14px;
+        }
+        .shop {
+          font-size: 12px;
+          border-bottom: 1px solid #b0b0b0;
+          padding-bottom: 10px;
+          margin-bottom: 10px;
+          .num {
+            padding: 2px 5px;
+          }
+          .num06 {
+            padding: 0 3px;
+          }
+          .min {
+            font-size: 12px;
+          }
+        }
+      } //info-list
+      .info-list04 {
+        float: none;
+        width: 100%;
+        .shop {
+          height: auto;
+        }
+      }
+    } //life-info
+  } //tb
+
+  @media screen and (max-width: 768px) {
+    .sections {
+      .section-title {
+        font-size: 20px;
+        padding-top: 90px;
+        margin-bottom: 60px;
+        &::after {
+          width: 40px;
+          height: 100px;
+          margin-right: 10px;
+        }
+      }
+      .inner {
+        margin: 0 auto;
+        width: 70%;
+      }
+    } //sections
+
+    .shopping,
+    .child {
+      .txt-list {
+        li {
+          display: block;
+          width: 100%;
+        }
+        li:last-child {
+          width: 100%;
+          margin-top: 10px;
+        }
+      }
+      .lis {
+        li {
+          display: block;
+          width: 100%;
+        }
+      }
+      .lis02,
+      .lis03 {
+        li {
+          width: 100%;
+        }
+      }
+    }
+
+    .life-info {
+      width: 94%;
+      .bg {
+        padding: 10px;
+      }
+      .info-list {
+        .shop {
+          .min {
+            float: none;
+          }
+          .mini{
+            margin-left: 0;
+            margin-top: 4px;
+          }
+          .pc{
+            display: none;
+          }
+          .sp{
+            display:inherit;
+          }
+        }
+      } //info-list
+    } //life-info
+  } //sp
+}
