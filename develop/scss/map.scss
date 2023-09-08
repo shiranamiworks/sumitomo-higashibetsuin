@@ -28,7 +28,6 @@
       color: rgb(90, 90, 21);
       span {
         letter-spacing: 0;
-        margin-right: 0.2em;
         &.font-size400 {
           font-size: 400%;
         }
@@ -159,9 +158,10 @@
 
   @media (max-width: $breakpoint_sp) {
     main {
-      padding-top: 80px;
+      padding-top: 40px;
       .page-title {
         font-size: 20px;
+        padding-bottom: 20px;
       }
       .content-inner {
         max-width: auto;
@@ -169,19 +169,20 @@
         width: 92%;
       }
       .map-image {
-        padding-bottom: 40px;
-        .text01 {
-          font-size: 20px;
-          line-height: 1.8;
-          padding: 25px 10px;
-        }
+        width: 100%;
         .annotation {
           width: 90%;
           margin: 0 auto;
           font-size: 12px;
         }
       }
-    } //map-imagg
+    } //map-image
+    .text01 {
+      font-size: 20px;
+      line-height: 1.8;
+      padding: 25px 10px;
+      margin: 0 auto;
+   }
     .link-buttons {
       li {
         margin: 0 auto;

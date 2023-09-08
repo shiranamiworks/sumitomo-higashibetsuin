@@ -5,13 +5,13 @@
   "gnav_set" => "map",
   "page_class" => "",
   "url" => "map.html",
-  "title" => "現地案内図｜【公式】シティテラス登戸｜登戸の新築マンション｜住友不動産",
-  "keywords" => "現地案内図,シティテラス登戸,登戸 マンション,登戸 新築マンション,登戸,小田急小田原線,川崎市,マンション,新築マンション,分譲マンション,住友不動産",
-  "description" => "現地案内図ページ。小田急小田原線・JR南武線「登戸」まで徒歩11分。住友不動産の新築マンションが登戸に誕生。【すみふ登戸】川崎市のマンションなら住友不動産。",
+  "title" => "現地案内図｜【公式】シティタワー東別院｜東別院の新築マンション｜住友不動産",
+  "keywords" => "現地案内図,シティタワー東別院,東別院 マンション,東別院 新築マンション,東別院,東別院駅,地下鉄名城線,名古屋市中区,マンション,新築マンション,分譲マンション,住友不動産",
+  "description" => "現地案内図。地下鉄名城線「東別院駅」まで徒歩8分。住友不動産の新築マンションが東別院に誕生。【すみふ東別院】名古屋市中区のマンションなら住友不動産。",
   "add_stylesheet" => ["css/map.css"],
   "add_script" =>  ["js/map.js"],
     
-  "logo_text" => "登戸駅徒歩11分｜シティテラス登戸｜登戸 新築マンション｜現地案内図｜すみふ登戸｜住友不動産"
+  "logo_text" => "東別院駅徒歩8分｜シティタワー東別院｜東別院 新築マンション｜すみふ東別院｜住友不動産"
 );
 ?>
 
@@ -33,7 +33,7 @@
     </div> 
 
     <ul class="link-buttons js-scroll">
-      <li class="link"><a href="https://goo.gl/maps/H5tvKTZVVkfrqE4L6" target="_blank">Google Mapsで見る</a></li>
+      <li class="link"><a href="https://goo.gl/maps/dGvZc5oqvqBomWtz7" target="_blank">Google Mapsで見る</a></li>
       <li class="link02 pc"><a href="JavaScript:;" onclick="print_out(); return false;">印刷する</a></li>
     </ul>
     <p class="annotation js-scroll">※掲載の現地案内図は一部道路・施設等を抜粋して表記しています。</p>

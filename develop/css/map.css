@@ -27,7 +27,6 @@
 }
 #map main .page-title span {
   letter-spacing: 0;
-  margin-right: 0.2em;
 }
 #map main .page-title span.font-size400 {
   font-size: 400%;
@@ -144,10 +143,11 @@
 }
 @media (max-width: 768px) {
   #map main {
-    padding-top: 80px;
+    padding-top: 40px;
   }
   #map main .page-title {
     font-size: 20px;
+    padding-bottom: 20px;
   }
   #map main .content-inner {
     max-width: auto;
@@ -155,17 +155,18 @@
     width: 92%;
   }
   #map main .map-image {
-    padding-bottom: 40px;
-  }
-  #map main .map-image .text01 {
-    font-size: 20px;
-    line-height: 1.8;
-    padding: 25px 10px;
+    width: 100%;
   }
   #map main .map-image .annotation {
     width: 90%;
     margin: 0 auto;
     font-size: 12px;
+  }
+  #map .text01 {
+    font-size: 20px;
+    line-height: 1.8;
+    padding: 25px 10px;
+    margin: 0 auto;
   }
   #map .link-buttons li {
     margin: 0 auto;
