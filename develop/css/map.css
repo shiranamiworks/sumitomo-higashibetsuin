@@ -32,6 +32,10 @@
 #map main .page-title span.font-size400 {
   font-size: 400%;
 }
+#map main .map-image {
+  width: 80%;
+  margin: auto;
+}
 #map main .map-image .text01 {
   margin: 75px auto;
   color: rgb(90, 90, 21);
