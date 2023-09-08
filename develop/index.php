@@ -20,7 +20,8 @@
 <main>
 
 <header class="main-visual">
-    <div class="image"><img src="./images/top/mv01.jpg" alt="" class="pc"><img src="./images/top/mv01-sp.jpg" alt="" class="sp"><p class="annotation white">外観完成予想図</p></div>
+    <div class="image"><img src="./images/top/mv01.jpg" alt="" class="pc"><img src="./images/top/mv01-sp.jpg" alt="" class="sp"><p class="annotation white">航空写真</p></div>
+    <div class="image"><img src="./images/top/mv02.jpg" alt="" class="pc"><img src="./images/top/mv02-sp.jpg" alt="" class="sp"><p class="annotation white">外観完成予想図・東別院（約340m/徒歩5分）</p></div>
   </header><!-- main-visual -->
 
   <div class="apeal">
@@ -29,7 +30,7 @@
 
   <div class="points">
     <ul class="lists wrap">
-      <li class="list01 text02">></li>
+      <li class="list01 text02"></li>
       <li class="list02 text02"></li>
       <li class="list03 text02"></li>
     </ul>

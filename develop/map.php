@@ -29,7 +29,7 @@
           <img src="./images/map/map.jpg" class="zoomImg sp" alt=""/>
         </figure>
       </div><!-- map-image -->
-      <p class="text01 js-scroll">神奈川県川崎市多摩区登戸3816番3（地番）<span>※住戸表示ではありません。</span></p>
+      <p class="text01 js-scroll">名古屋市中区橘二丁目303番<span>※住戸表示ではありません。</span></p>
     </div> 
 
     <ul class="link-buttons js-scroll">
