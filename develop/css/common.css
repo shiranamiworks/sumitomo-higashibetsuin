@@ -243,7 +243,7 @@ img#adtag {
 
 .header-logo img {
   width: 17vw;
-  max-width: 273px;
+  min-width: 273px;
   padding: 15px;
 }
 .header-btn {
@@ -822,9 +822,11 @@ div.header-btn.bg_btn {
   .header-btn {
     display: none;
   }
+/*
   .header-logo img {
     width: 95%;
   }
+*/
   .hamburger {
     padding-top: 12px;
   }
