@@ -8,6 +8,30 @@
 #adtag {
   opacity: 0;
 }
+.top-mv{
+  background:#F1E9DC;
+}
+
+.top-mv__slide .slick-dots li {
+  width: 10px;
+  height: 10px;
+}
+
+.top-mv__slide .slick-dots li button {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border-radius: 50%;
+  background-color: #707070;
+}
+
+.top-mv__slide .slick-dots li.slick-active button {
+  background-color: rgba(80, 50, 30, 1);
+}
+
+.top-mv__slide .slick-dots li button:before {
+  display: none;
+}
 
 /************* バナースライド *************/
 
@@ -158,13 +182,13 @@
       }
      }
      .list01 {
-      width: 25%;
+      width: 33%;
      }
      .list02 {
-      width:48%;
+      width:33%;
      }
      .list03 {
-      width: 27%;
+      width: 33%;
       &::after {
         display: none;
       }
@@ -194,6 +218,7 @@
     }
   }
   .site-contents {
+    display: none;
     padding-bottom: 140px;
     .lists {
       li {
