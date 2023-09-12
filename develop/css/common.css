@@ -226,7 +226,7 @@ img#adtag {
 .header-wrapper {
   position: relative;
   height: 80px;
-/*  padding-left: 20px;*/
+  /*  padding-left: 20px;*/
   z-index: 10;
   background-color: #fff;
 }
@@ -822,7 +822,7 @@ div.header-btn.bg_btn {
   .header-btn {
     display: none;
   }
-/*
+  /*
   .header-logo img {
     width: 95%;
   }
@@ -1425,7 +1425,7 @@ div.header-btn.bg_btn {
   color: #fff;
   font-weight: 300;
   letter-spacing: 0.05em;
-  background-color: #534d44;
+  background-color: #413c34;
 }
 
 .entry h2 {
@@ -1601,6 +1601,7 @@ div.header-btn.bg_btn {
   bottom: 10px;
   right: 10px;
   font-size: 10px;
+  color: #000;
   &.bottom {
     bottom: -10px;
   }
@@ -1629,6 +1630,11 @@ a.disable {
   content: "";
   clear: both;
 }
+.annotation-area {
+  background: #fff;
+  color: #000;
+  padding: 40px 0;
+}
 .page-annotation {
   font-size: 10px;
   line-height: 1.8;
@@ -1639,6 +1645,8 @@ a.disable {
   padding: 20px 2%;
   border-top: 1px solid #f1e9dc;
   border-bottom: 1px solid #f1e9dc;
+  background: #fff;
+  color: #000;
 }
 
 .breadcrumb ul {
