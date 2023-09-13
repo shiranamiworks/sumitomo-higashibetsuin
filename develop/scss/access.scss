@@ -21,6 +21,9 @@
     color: #fff;
     font-family: "RyuminPro", serif;
     line-height: 1;
+    .image {
+      position: relative;
+    }
   }
   sp {
     display: none;
@@ -41,8 +44,8 @@
   .sections {
     .inner {
       margin: 0 auto;
-      width: 70%;
-      max-width: 1030px;
+      width: 80%;
+      max-width: 1200px;
     }
     .image {
       position: relative;
@@ -70,6 +73,7 @@
   } //intro
 
   .station {
+    margin-bottom: 200px;
     .lists {
       li {
         display: inline-block;
@@ -85,15 +89,15 @@
         padding-bottom: 6px;
         margin-bottom: 30px;
         .line {
-          font-size: 24px;
+          font-size: 22px;
         }
         .min {
-          font-size: 36px;
+          font-size: 32px;
           .name {
-            font-size: 46px;
+            font-size: 42px;
           }
           .num {
-            font-size: 64px;
+            font-size: 60px;
             color: #a2a383;
           }
         }
@@ -101,21 +105,46 @@
       .info-box {
         margin-top: 10px;
         .min {
-          font-size: 42px;
+          font-size: 38px;
           margin-bottom: 10px;
           .name {
-            font-size: 54px;
+            font-size: 48px;
           }
           .big {
-            font-size: 80px;
+            font-size: 60px;
             color: #a2a383;
           }
           .mini {
-            font-size: 30px;
+            font-size: 24px;
+          }
+        }
+        .sub {
+          font-size: 34px;
+          text-align: right;
+          display: flex;
+          align-items: center;
+          margin-bottom: 10px;
+          &:before {
+            content: "";
+            flex-grow: 1;
+            border-top: dotted 3px #fff;
+            display: block;
+          }
+          &:before {
+            margin-right: 15px;
+          }
+          .big {
+            font-size: 60px;
+            color: #a2a383;
+            display: contents;
+          }
+          .mini {
+            font-size: 20px;
+            display: contents;
           }
         }
         .sen {
-          font-size: 18px;
+          font-size: 16px;
           line-height: 1.6;
         }
       } //info-box
@@ -124,6 +153,7 @@
       margin-bottom: 40px;
     } //list01
     .list02 {
+      margin-bottom: 100px;
       li {
         display: inline-block;
         vertical-align: top;
@@ -134,7 +164,166 @@
         margin-right: auto;
       }
     } //list02
+    .airport {
+      .tit01 {
+        font-size: 32px;
+        line-height: 1.6;
+        padding-bottom: 6px;
+        border-bottom: 1px solid;
+        margin-bottom: 20px;
+      }
+      .tit02 {
+        font-size: 18px;
+        line-height: 1.6;
+        margin-bottom: 20px;
+      }
+      .lists {
+        .info-box {
+          .min {
+            font-size: 38px;
+            line-height: 1.3;
+            .mini {
+              font-size: 20px;
+            }
+          }
+          .sub {
+            font-size: 38px;
+            .big {
+              font-size: 70px;
+            }
+            .mini {
+              font-size: 24px;
+            }
+          }
+        } //info-box
+      } //lists
+      .caps {
+        font-size: 12px;
+        line-height: 1.6;
+      }
+    } //airport
   } //station
+
+  .taxi {
+    margin-bottom: 140px;
+    .tit01 {
+      font-size: 32px;
+      line-height: 1.6;
+      margin: 30px 0 20px;
+    }
+    .tit02 {
+      font-size: 18px;
+      line-height: 1.6;
+      margin-bottom: 80px;
+    }
+    .tit03 {
+      font-size: 22px;
+      line-height: 1.6;
+      padding-bottom: 10px;
+      border-bottom: 1px solid;
+      margin-bottom: 20px;
+    }
+    ul {
+      margin-bottom: 20px;
+    }
+    li {
+      vertical-align: top;
+      display: inline-block;
+      width: 31.5%;
+      margin-right: 2%;
+    }
+    li:last-child {
+      margin-right: auto;
+    }
+    .name {
+      text-align: center;
+      font-size: 24px;
+      margin: 20px auto;
+      span {
+        font-size: 36px;
+      }
+    }
+    .caps {
+      font-size: 12px;
+      line-height: 1.6;
+    }
+  } //taxi
+
+  .car {
+    margin-bottom: 140px;
+    .tit01 {
+      font-size: 32px;
+      line-height: 1.6;
+      margin: 30px 0 20px;
+    }
+    .tit02 {
+      font-size: 18px;
+      line-height: 1.6;
+      margin-bottom: 80px;
+    }
+    .tit03 {
+      font-size: 22px;
+      line-height: 1.6;
+      padding-bottom: 10px;
+      border-bottom: 1px solid;
+      margin-bottom: 20px;
+      span {
+        font-size: 40px;
+      }
+    }
+    ul {
+      margin-bottom: 20px;
+    }
+    li {
+      vertical-align: top;
+      display: inline-block;
+      width: 31.5%;
+      margin-right: 2%;
+    }
+    li:last-child {
+      margin-right: auto;
+    }
+    .info-box {
+      margin-top: 10px;
+      .min {
+        font-size: 38px;
+        line-height: 1.3;
+        margin-bottom: 10px;
+        .mini {
+          font-size: 24px;
+        }
+      }
+      .sub {
+        font-size: 34px;
+        text-align: right;
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+        &:before {
+          content: "";
+          flex-grow: 1;
+          border-top: dotted 3px #fff;
+          display: block;
+        }
+        &:before {
+          margin-right: 15px;
+        }
+        .big {
+          font-size: 60px;
+          color: #a2a383;
+          display: contents;
+        }
+        .mini {
+          font-size: 20px;
+          display: contents;
+        }
+      }
+    } //info-box
+    .caps {
+      font-size: 12px;
+      line-height: 1.6;
+    }
+  } //car
 
   @media screen and (max-width: 1300px) {
   }

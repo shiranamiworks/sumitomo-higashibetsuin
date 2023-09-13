@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1605.84 114.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bba579;
+        font-family: ShipporiMincho-Regular, 'Shippori Mincho';
+        font-size: 100px;
+      }
+
+      .cls-2 {
+        letter-spacing: .2em;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #bba579;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        letter-spacing: .32em;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_2-2" data-name="レイヤー 2">
+    <line class="cls-3" y1="113.17" x2="1605.84" y2="113.17"/>
+    <text class="cls-1" transform="translate(162.11 88)"><tspan class="cls-2" x="0" y="0">SAKA</tspan><tspan class="cls-4" x="378.7" y="0">E</tspan><tspan class="cls-2" x="482.7" y="0">area</tspan></text>
+  </g>
+</svg>

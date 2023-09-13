@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1605.84 114.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #bba579;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #bba579;
+        font-family: ShipporiMincho-Regular, 'Shippori Mincho';
+        font-size: 100px;
+        letter-spacing: .1em;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_2-2" data-name="レイヤー 2">
+    <line class="cls-1" y1="112.97" x2="1605.84" y2="112.97"/>
+    <text class="cls-2" transform="translate(160.08 88)"><tspan x="0" y="0">KANAYAMA area</tspan></text>
+  </g>
+</svg>

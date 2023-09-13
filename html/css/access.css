@@ -18,6 +18,9 @@
   font-family: "RyuminPro", serif;
   line-height: 1;
 }
+#access main .image {
+  position: relative;
+}
 #access sp {
   display: none;
 }
@@ -36,8 +39,8 @@
 }
 #access .sections .inner {
   margin: 0 auto;
-  width: 70%;
-  max-width: 1030px;
+  width: 80%;
+  max-width: 1200px;
 }
 #access .sections .image {
   position: relative;
@@ -62,6 +65,9 @@
 #access .intro .img01 {
   margin-bottom: 100px;
 }
+#access .station {
+  margin-bottom: 200px;
+}
 #access .station .lists li {
   display: inline-block;
   vertical-align: top;
@@ -77,41 +83,69 @@
   margin-bottom: 30px;
 }
 #access .station .lists .tit-box .line {
-  font-size: 24px;
+  font-size: 22px;
 }
 #access .station .lists .tit-box .min {
-  font-size: 36px;
+  font-size: 32px;
 }
 #access .station .lists .tit-box .min .name {
-  font-size: 46px;
+  font-size: 42px;
 }
 #access .station .lists .tit-box .min .num {
-  font-size: 64px;
+  font-size: 60px;
   color: #a2a383;
 }
 #access .station .lists .info-box {
   margin-top: 10px;
 }
 #access .station .lists .info-box .min {
-  font-size: 42px;
+  font-size: 38px;
   margin-bottom: 10px;
 }
 #access .station .lists .info-box .min .name {
-  font-size: 54px;
+  font-size: 48px;
 }
 #access .station .lists .info-box .min .big {
-  font-size: 80px;
+  font-size: 60px;
   color: #a2a383;
 }
 #access .station .lists .info-box .min .mini {
-  font-size: 30px;
+  font-size: 24px;
+}
+#access .station .lists .info-box .sub {
+  font-size: 34px;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+#access .station .lists .info-box .sub:before {
+  content: "";
+  flex-grow: 1;
+  border-top: dotted 3px #fff;
+  display: block;
+}
+#access .station .lists .info-box .sub:before {
+  margin-right: 15px;
+}
+#access .station .lists .info-box .sub .big {
+  font-size: 60px;
+  color: #a2a383;
+  display: contents;
+}
+#access .station .lists .info-box .sub .mini {
+  font-size: 20px;
+  display: contents;
 }
 #access .station .lists .info-box .sen {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.6;
 }
 #access .station .list01 {
   margin-bottom: 40px;
+}
+#access .station .list02 {
+  margin-bottom: 100px;
 }
 #access .station .list02 li {
   display: inline-block;
@@ -121,4 +155,155 @@
 }
 #access .station .list02 li:last-child {
   margin-right: auto;
+}
+#access .station .airport .tit01 {
+  font-size: 32px;
+  line-height: 1.6;
+  padding-bottom: 6px;
+  border-bottom: 1px solid;
+  margin-bottom: 20px;
+}
+#access .station .airport .tit02 {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+#access .station .airport .lists .info-box .min {
+  font-size: 38px;
+  line-height: 1.3;
+}
+#access .station .airport .lists .info-box .min .mini {
+  font-size: 20px;
+}
+#access .station .airport .lists .info-box .sub {
+  font-size: 38px;
+}
+#access .station .airport .lists .info-box .sub .big {
+  font-size: 70px;
+}
+#access .station .airport .lists .info-box .sub .mini {
+  font-size: 24px;
+}
+#access .station .airport .caps {
+  font-size: 12px;
+  line-height: 1.6;
+}
+#access .taxi {
+  margin-bottom: 140px;
+}
+#access .taxi .tit01 {
+  font-size: 32px;
+  line-height: 1.6;
+  margin: 30px 0 20px;
+}
+#access .taxi .tit02 {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 80px;
+}
+#access .taxi .tit03 {
+  font-size: 22px;
+  line-height: 1.6;
+  padding-bottom: 10px;
+  border-bottom: 1px solid;
+  margin-bottom: 20px;
+}
+#access .taxi ul {
+  margin-bottom: 20px;
+}
+#access .taxi li {
+  vertical-align: top;
+  display: inline-block;
+  width: 31.5%;
+  margin-right: 2%;
+}
+#access .taxi li:last-child {
+  margin-right: auto;
+}
+#access .taxi .name {
+  text-align: center;
+  font-size: 24px;
+  margin: 20px auto;
+}
+#access .taxi .name span {
+  font-size: 36px;
+}
+#access .taxi .caps {
+  font-size: 12px;
+  line-height: 1.6;
+}
+#access .car {
+  margin-bottom: 140px;
+}
+#access .car .tit01 {
+  font-size: 32px;
+  line-height: 1.6;
+  margin: 30px 0 20px;
+}
+#access .car .tit02 {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 80px;
+}
+#access .car .tit03 {
+  font-size: 22px;
+  line-height: 1.6;
+  padding-bottom: 10px;
+  border-bottom: 1px solid;
+  margin-bottom: 20px;
+}
+#access .car .tit03 span {
+  font-size: 40px;
+}
+#access .car ul {
+  margin-bottom: 20px;
+}
+#access .car li {
+  vertical-align: top;
+  display: inline-block;
+  width: 31.5%;
+  margin-right: 2%;
+}
+#access .car li:last-child {
+  margin-right: auto;
+}
+#access .car .info-box {
+  margin-top: 10px;
+}
+#access .car .info-box .min {
+  font-size: 38px;
+  line-height: 1.3;
+  margin-bottom: 10px;
+}
+#access .car .info-box .min .mini {
+  font-size: 24px;
+}
+#access .car .info-box .sub {
+  font-size: 34px;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+#access .car .info-box .sub:before {
+  content: "";
+  flex-grow: 1;
+  border-top: dotted 3px #fff;
+  display: block;
+}
+#access .car .info-box .sub:before {
+  margin-right: 15px;
+}
+#access .car .info-box .sub .big {
+  font-size: 60px;
+  color: #a2a383;
+  display: contents;
+}
+#access .car .info-box .sub .mini {
+  font-size: 20px;
+  display: contents;
+}
+#access .car .caps {
+  font-size: 12px;
+  line-height: 1.6;
 }/*# sourceMappingURL=access.css.map */

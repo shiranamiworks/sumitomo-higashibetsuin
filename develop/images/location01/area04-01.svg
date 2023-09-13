@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1601.38 114.6">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 5px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #bba579;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #bba579;
+        font-family: ShipporiMincho-Regular, 'Shippori Mincho';
+        font-size: 100px;
+        letter-spacing: .1em;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_2-2" data-name="レイヤー 2">
+    <text class="cls-3" transform="translate(164.44 88)"><tspan x="0" y="0">Address</tspan></text>
+    <line class="cls-2" y1="101.7" x2="1601.38" y2="101.7"/>
+    <line class="cls-1" x1="159.84" y1="101.79" x2="644.62" y2="101.79"/>
+  </g>
+</svg>
