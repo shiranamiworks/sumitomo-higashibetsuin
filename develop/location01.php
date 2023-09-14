@@ -261,7 +261,7 @@
               <div class="image">
                 <img src="./images/location01/area03-11.png" alt="">
               </div>
-              <p class="shop">SUIT SELECT[メンズ・ウィメンズファッション]<br>ITS'DEMO[ファッションバラエティストア]<br>Green Parks topic[レディスファッション]<br>ヴィレッジヴァンガード[書籍、バラエティ雑貨]<br>ALEX COMFORT[インポートコスメ、雑貨]<br>ほか</p>
+              <p class="shop">SUIT SELECT［メンズ・ウィメンズファッション］<br>ITS'DEMO［ファッションバラエティストア］<br>Green Parks topic［レディスファッション］<br>ヴィレッジヴァンガード［書籍、バラエティ雑貨］<br>ALEX COMFORT［インポートコスメ、雑貨］<br>ほか</p>
             </div>
           </li>
           <li>
@@ -269,11 +269,11 @@
               <div class="image">
                 <img src="./images/location01/area03-12.png" alt="">
               </div>
-              <p class="shop">SUBWAY[サンドイッチ]<br>ALOHA TABLE[ハワイアン・カフェ＆ダイナー]<br>ロンフーダイニング[麻婆豆腐、チャーハン、担々?]<br>成城石井[クオリティスーパーマーケット]<br>baguette rabbit[ベーカリー]<br>ほか</p>
+              <p class="shop">SUBWAY［サンドイッチ］<br>ALOHA TABLE［ハワイアン・カフェ＆ダイナー］<br>ロンフーダイニング［麻婆豆腐、チャーハン、担々麺］<br>成城石井［クオリティスーパーマーケット］<br>baguette rabbit［ベーカリー］<br>ほか</p>
               <div class="image">
                 <img src="./images/location01/area03-13.png" alt="">
               </div>
-              <p class="shop">新星堂[CDショップ]<br>整体・骨盤カラダファクトリー<br>[整体・骨盤調整・もみほぐし]<br>丸善[本・文具]<br>ジョイフル恵利[着物レンタル・販売]<br>ラフィネ[リラクゼーションスペース]<br>ほか</p>
+              <p class="shop">新星堂［CDショップ］<br>整体・骨盤カラダファクトリー<br>［整体・骨盤調整・もみほぐし］<br>丸善［本・文具］<br>ジョイフル恵利［着物レンタル・販売］<br>ラフィネ［リラクゼーションスペース］<br>ほか</p>
             </div>
           </li>
         </ul>

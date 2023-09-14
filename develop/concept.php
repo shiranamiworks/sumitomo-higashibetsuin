@@ -11,7 +11,7 @@
   "add_stylesheet" => ["css/concept.css"],
   "add_script" =>  [],
   
-  "logo_text" => "東別院駅徒歩8分｜シティタワー東別院｜東別院 新築マンション｜現地案内図｜すみふ東別院｜住友不動産"
+  "logo_text" => "東別院駅徒歩8分｜シティタワー東別院｜東別院 新築マンション｜コンセプト｜すみふ東別院｜住友不動産"
 );
 ?>
 
@@ -34,8 +34,7 @@
 
   <section class="intro sections clearfix">
     <div class="inner">
-      <p class="text">江戸時代から、宿場町として賑わった登戸の街。<br>早くから成熟を果たし、人々が住み継いできたこの街が<br class="pc">いま、生まれ変わろうとしている。
-      <br>土地区画整理事業<sup>※1</sup>によって整備され、より安全で快適な街へ。<br>「新宿」駅へ直通20分<sup>※2</sup>、「大手町」駅へ34分<sup>※3</sup>。<br>都心近接でありながら、多摩川<sup>※4</sup>、生田緑地<sup>※5</sup>の豊かな自然環境と、<br class="pc">利便性をも享受する快適な住環境に、<br class="pc">モダンな美しさを放つレジデンスが誕生する。 </p>
+      <p class="text">再開発で進化を続ける名古屋の3大エリア、<br class="pc">名駅、栄、金山の中心に誕生する、シティタワー東別院。<br>地下鉄名城線「東別院」駅をはじめ5駅6路線※を徒歩圏にするポジションが<br class="pc">多彩な利便と快適性を演出し、都心にありながら<br class="pc">歴史の面影や緑に彩られたロケーションが暮らしに寛ぎと潤いを届ける。<br>先進の都市性と安らぎが調和する街に際立つ、<br class="pc">地上20階建て全175邸の格調ある造形が街の新しいランドマークとなって<br class="pc">住まう方の未来と可能性を豊かに広げていく。</p>
       </div>
       <div class="image img01">
         <img src="./images/concept/intro01.jpg" alt="" class="pc"><img src="./images/concept/intro01-sp.jpg" alt="" class="sp">

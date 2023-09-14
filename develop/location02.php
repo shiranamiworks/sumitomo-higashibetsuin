@@ -120,8 +120,8 @@
   <section class="areas area02 clearfix">
     <div class="title"><img src="./images/location02/area02-01.svg" alt=""></div>
     <div class="inner">
-      <p class="text">未来を拓くターミナルシティへと飛躍する名駅エリア。</p>
-      <p class="lead">モダンな高層ビルが建ち並ぶドラマチックな景観が印象的な「名古屋」駅周辺。リニア中央新幹線開業に伴う経済圏の拡大、<br class="pc">国際的な都心拠点にふさわしい街づくりを目指し、さらなる開発が進行中です。</p>
+      <p class="text">都心にあって、庭園や参道の美しい緑景に深く潤う。</p>
+      <p class="lead">尾張徳川家二代目藩主「徳川光友公」の時代、古今和歌集にちなんで名付けられた「橘町」は、あちこちに歴史の面影が残る街。<br>時を重ねた麗しい緑を湛える公園が点在して、暮らしに安らかな寛ぎを添えてくれます。</p>
     </div><!-- inner -->
     <div class="image">
       <img src="./images/location02/area02-02.jpg" alt="">
@@ -319,13 +319,13 @@
       <li>
         <div class="image">
           <img src="./images/location02/area04-02.jpg" alt="">
-          <p class="annotation">image photo</p>
+          <p class="annotation white">image photo</p>
         </div>
       </li>
       <li>
         <div class="image">
           <img src="./images/location02/area04-03.jpg" alt="">
-          <p class="annotation">image photo</p>
+          <p class="annotation white">image photo</p>
         </div>
         <div class="image">
           <img src="./images/location02/area04-04.jpg" alt="">
