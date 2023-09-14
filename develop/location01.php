@@ -285,7 +285,6 @@
 
 
   <section class="areas area04 clearfix">
-    <div class="bg">
     <div class="title"><img src="./images/location01/area04-01.svg" alt=""></div>
     <div class="inner">
       <p class="text">名古屋の中枢を担う機能が集約した中区。</p>
@@ -295,7 +294,6 @@
       <img src="./images/location01/area04-02.jpg" alt="">
       <p class="annotation white">image photo</p>
     </div>
-    </div><!-- bg -->
     <div class="inner">
       <ul class="list06">
         <li>

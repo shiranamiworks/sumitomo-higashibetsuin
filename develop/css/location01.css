@@ -68,8 +68,8 @@
 }
 .location01 .areas .inner {
   margin: 0 auto;
-  width: 70%;
-  max-width: 1030px;
+  width: 80%;
+  max-width: 1200px;
 }
 .location01 .areas .text {
   font-size: 32px;
@@ -210,13 +210,10 @@
 }
 .location01 .area04 {
   color: #000;
-  background: #fff;
+  background: url(../images/location01/bg00.jpg) top;
+  background-size: cover;
+  padding-top: 100px;
   margin-bottom: 0;
-  padding-bottom: 100px;
-}
-.location01 .area04 .bg {
-  background: #d9d8c5;
-  padding: 100px 0 0;
 }
 .location01 .area04 .list06 {
   margin: 80px auto 40px;
