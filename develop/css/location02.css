@@ -220,6 +220,9 @@
   width: 48%;
   margin-right: 2%;
 }
+.location02 .area03 .shops .shop-list li.sp {
+  display: none;
+}
 .location02 .area03 .shops .shop-list li:last-child {
   margin-right: auto;
 }
@@ -439,9 +442,6 @@
   .location02 .intro .img01 {
     margin-bottom: 0;
   }
-  .location02 .intro .img03 {
-    margin-bottom: 10px;
-  }
   .location02 .intro .list01 li {
     float: none;
     width: 100%;
@@ -558,8 +558,17 @@
     width: 100%;
     margin-bottom: 20px;
   }
+  .location02 .area03 .shops .shop-list li.pc {
+    display: none;
+  }
+  .location02 .area03 .shops .shop-list li.sp {
+    display: block;
+  }
   .location02 .area03 .shops .shop-list li:last-child {
     margin-bottom: auto;
+  }
+  .location02 .area03 .shops .shop-list01 li.sp {
+    margin-bottom: 140px;
   }
   .location02 .area03 .shops .shop-list02 li .image {
     float: left;

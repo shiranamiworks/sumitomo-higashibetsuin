@@ -46,6 +46,10 @@
     </div>
     <ul class="list01 clearfix">
       <li>
+      <div class="image img03 sp">
+        <img src="./images/location02/intro03-sp.jpg" alt="" class="sp">
+        <p class="annotation">東別院（約340m／徒歩5分）</p>
+      </div>
       <div class="image img01">
         <img src="./images/location02/intro01.jpg" alt="" class="pc">
         <img src="./images/location02/intro01-sp.jpg" alt="" class="sp">
@@ -57,13 +61,12 @@
       </div>
       </li>
       <li>
-      <div class="image img03">
+      <div class="image img03 pc">
         <img src="./images/location02/intro03.jpg" alt="" class="pc">
-        <img src="./images/location02/intro03-sp.jpg" alt="" class="sp">
       </div>
       </li>
     </ul>
-    <div class="inner">
+    <div class="inner pc">
       <p class="mini clearfix">東別院（約340m／徒歩5分）</p>
     </div>
   </section><!-- intro -->
@@ -223,11 +226,21 @@
           </li>
         </ul>
         <ul class="shop-list shop-list02 clearfix">
+        <li class="sp">
+            <div class="image">
+              <img src="./images/location02/area03-07.jpg" alt="">
+              <p class="annotation white">image photo</p>
+            </div>
+            <div class="image">
+              <img src="./images/location02/area03-08.jpg" alt="">
+              <p class="annotation white">image photo</p>
+            </div>
+          </li>
           <li>
             <p class="shop-name">ミライエダイニング／新和食（フレンチ×和の融合）<br>（約690m／徒歩9分）</p>
             <p class="shop-info">隈研吾氏が造り出したスタイリッシュな芸術空間がもてなす“ヌーベル・キュイジーヌジャポネーズ”。フレンチとイタリアンをメインとし和の要素を加えた新ジャンルのメニューは、吟味した肉や季節の食材で織りなす繊細で美しい味わいを堪能できます。</p>
           </li>
-          <li>
+          <li class="pc">
             <div class="image">
               <img src="./images/location02/area03-07.jpg" alt="">
               <p class="annotation white">image photo</p>
@@ -273,6 +286,12 @@
       </div><!-- shops -->
       <div class="shops shop03 clearfix">
         <ul class="shop-list shop-list03 clearfix">
+          <li class="sp">
+            <div class="image">
+              <img src="./images/location02/area03-15.jpg" alt="">
+              <p class="annotation white">image photo</p>
+            </div>
+          </li>
           <li class="float">
             <div class="image">
               <img src="./images/location02/area03-13.jpg" alt="">
@@ -285,7 +304,7 @@
             <p class="shop-name clearfix">ガトー・デュラ・メール・スリアン／ケーキ（約330m／徒歩5分）</p>
             <p class="shop-info">現地よりほど近い隠れ家的なケーキショップ。シェフは数々のケーキショーで受賞歴のある栗本佳夫氏。見た目も華やかで可愛らしいケーキは、甘さは控えめ。なめらかなチョコムースの「ドームショコラ」と「マカロン」は特に人気です。</p>
           </li>
-          <li>
+          <li class="pc">
             <div class="image">
               <img src="./images/location02/area03-15.jpg" alt="">
               <p class="annotation white">image photo</p>

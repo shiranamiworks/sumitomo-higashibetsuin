@@ -237,6 +237,9 @@
           width: 48%;
           margin-right: 2%;
         }
+        li.sp{
+          display: none;
+        }
         li:last-child {
           margin-right: auto;
         }
@@ -476,9 +479,9 @@
       .img01 {
         margin-bottom: 0;
       }
-      .img03 {
-        margin-bottom: 10px;
-      }
+      // .img03 {
+      //   margin-bottom: 10px;
+      // }
       .list01 {
         li {
           float: none;
@@ -611,10 +614,21 @@
             width: 100%;
             margin-bottom: 20px;
           }
+          li.pc{
+            display: none;
+          }
+          li.sp{
+            display: block;
+          }
           li:last-child {
             margin-bottom: auto;
           }
         } //shop-list
+        .shop-list01 {
+          li.sp{
+            margin-bottom: 140px;
+          }
+        }
         .shop-list02 {
           li {
             .image {

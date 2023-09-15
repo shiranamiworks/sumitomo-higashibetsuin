@@ -36,8 +36,13 @@
     <div class="inner">
       <p class="lead">都心の主要エリアを掌中にする<br class="pc">快適なるアクセス拠点。
       <p class="text">地下鉄名城線「東別院」駅をはじめ、徒歩圏で5駅6路線<sup>※1</sup>が利用可能。栄、伏見といったオフィス街や「名古屋」駅へのスムーズなアクセスを実現します。市内屈指のターミナル「金山」駅からは、名鉄名古屋本線で中部国際空港セントレアへ、JR東海道本線で三河方面へのアクセスも軽快。行動範囲がより快適に広がります。 </p>
-      <div class="image img01">
+      <!-- <div class="image img01">
         <img src="./images/access/img01.png" alt="">
+      </div> -->
+      <div class="images image01">
+        <figure class="pc"><img src="./images/access/img01.png" class="sp-hide" alt="路線図"></figure>
+        <figure class="tb"><img src="./images/access/img01.png" class="zoomImg tb" alt=""/></figure>
+        <p class="annotation wh">現地周辺地図</p>
       </div>
     </div>
   </section><!-- intro -->
@@ -51,6 +56,10 @@
         <p class="line">地下鉄名城線</p>
         <p class="min">「<span class="name">東別院</span>」駅まで 徒歩<span class="num">8</span>分</p>
       </div>
+      <div class="tit-box sp">
+        <p class="line">地下鉄鶴舞線</p>
+        <p class="min">「<span class="name">大須観音</span>」駅まで 徒歩<span class="num">12</span>分</p>
+      </div>
       <div class="image">
         <img src="./images/access/line01.jpg" alt="" class="pc">
         <img src="./images/access/line01-sp.jpg" alt="" class="sp">
@@ -62,7 +71,7 @@
       </div>
       </li>
       <li>
-      <div class="tit-box">
+      <div class="tit-box pc">
         <p class="line">地下鉄鶴舞線</p>
         <p class="min">「<span class="name">大須観音</span>」駅まで 徒歩<span class="num">12</span>分</p>
       </div>
