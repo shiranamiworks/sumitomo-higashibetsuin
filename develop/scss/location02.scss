@@ -450,5 +450,287 @@
   @media screen and (max-width: 1024px) {
   } //tb
   @media screen and (max-width: 768px) {
+    sp {
+      display: block;
+    }
+    pc {
+      display: none;
+    }
+
+    .main-visual {
+      .annotation {
+        bottom: 60px;
+      }
+    }
+    .intro {
+      padding: 60px 0 0;
+      margin-bottom: 60px;
+      .lead {
+        font-size: 28px;
+        margin-bottom: 20px;
+      }
+      .text {
+        font-size: 18px;
+        margin-bottom: 60px;
+      }
+      .img01 {
+        margin-bottom: 0;
+      }
+      .img03 {
+        margin-bottom: 10px;
+      }
+      .list01 {
+        li {
+          float: none;
+          width: 100%;
+        }
+        li:last-child {
+          float: none;
+          width: 100%;
+        }
+      }
+    } //intro
+    .areas {
+      margin-bottom: 60px;
+      .text {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 20px 0;
+      }
+      .lead {
+        margin-bottom: 40px;
+      }
+      .lead01 {
+        font-size: 15px;
+      }
+      .bg {
+        .texts {
+          .txt01 {
+            font-size: 21px;
+          }
+        }
+      }
+      .bg01 {
+        margin-bottom: 20px;
+      }
+      .bg02 {
+        margin-bottom: 10px;
+      }
+      .list01 {
+        li {
+          float: none;
+          width: 100%;
+        }
+        li:last-child {
+          float: none;
+          width: 100%;
+        }
+      } //list01
+      .list02 {
+        li {
+          float: none;
+          width: 100%;
+        }
+        li:last-child {
+          width: 100%;
+        }
+      } //list02
+      .list03 {
+        margin: 0 auto 20px;
+        li {
+          float: none;
+          width: 100%;
+        }
+        li:last-child {
+          float: none;
+          width: 100%;
+        }
+      } //list03
+      .name {
+        font-size: 15px;
+        &.bottom {
+          margin-bottom: 20px;
+        }
+      }
+      .list04 {
+        li {
+          display: block;
+          width: 100%;
+          margin-bottom: 20px;
+        }
+        li:last-child {
+          margin-bottom: auto;
+        }
+      } //list04
+      .list05 {
+        margin: 0 auto 40px;
+        li {
+          float: none;
+          width: 100%;
+        }
+        li:last-child {
+          float: none;
+          width: 100%;
+        }
+      } //list05
+      .list06 {
+        li {
+          float: none;
+          width: 100%;
+        }
+        li:last-child {
+          float: none;
+          width: 100%;
+        }
+      } //list06
+      .list07 {
+        margin-top: 40px;
+        padding-bottom: 20px;
+        li {
+          display: block;
+          width: 100%;
+          .lead {
+            margin-bottom: 20px;
+          }
+        }
+        li:last-child {
+          display: block;
+          width: 100%;
+          width: 90%;
+          margin: 20px auto;
+        }
+      } //list07
+    } //areas
+    .area03 {
+      .shops {
+        padding-bottom: 0;
+        margin-bottom: 20px;
+        .shop-list {
+          li {
+            display: block;
+            width: 100%;
+            margin-bottom: 20px;
+          }
+          li:last-child {
+            margin-bottom: auto;
+          }
+        } //shop-list
+        .shop-list02 {
+          li {
+            .image {
+              float: left;
+              width: 50%;
+            }
+          }
+        }
+        .shop-list03 {
+          li.float {
+            .image {
+              float: left;
+              width: 50%;
+            }
+            .shop-name {
+              padding-top: 20px;
+            }
+          }
+        }
+      } //shops
+      .shop02 {
+        .shop-list02 {
+          .image {
+            margin-bottom: 20px;
+          }
+        }
+      }
+      .shop04 {
+        padding-bottom: 0;
+        margin-bottom: 0;
+        border-bottom: none;
+      }
+    } //area03
+    .area04 {
+      padding: 60px 0;
+      margin-bottom: 0;
+    } //area04
+    .life-info {
+      padding: 60px 0;
+      .inner {
+        margin: 0 auto;
+        width: 80%;
+        max-width: 1200px;
+      }
+      .title {
+        font-size: 32px;
+        margin-bottom: 30px;
+      }
+      .text {
+        text-align: left;
+        font-size: 20px;
+        margin-bottom: 30px;
+      }
+      .change-buttons {
+        text-align: center;
+        margin: 20px auto;
+        li {
+          display: block;
+          width: 100%;
+          margin-bottom: 10px;
+        }
+        .button {
+          font-size: 14px;
+          padding: 14px 0;
+        }
+      } //change-buttons
+      .lists {
+        li {
+          display: block;
+          width: 100%;
+          margin-bottom: 0;
+        }
+        li:last-child {
+          margin-bottom: auto;
+        }
+      } //lists
+      .img-list {
+        margin-top: 40px;
+        li {
+          display: block;
+          width: 100%;
+          margin-bottom: 20px;
+        }
+        li:last-child {
+          margin-bottom: auto;
+        }
+        .name {
+          font-size: 16px;
+        }
+      } //img-list
+      .img-list01 {
+        margin-top: 40px;
+        li {
+          display: block;
+          width: 100%;
+          margin-bottom: 20px;
+        }
+        li:last-child {
+          margin-bottom: auto;
+          .images li {
+            display: block;
+            width: 100%;
+          }
+        }
+        .name {
+          font-size: 18px;
+          line-height: 1.5;
+          margin-top: 10px;
+        }
+        .txt01 {
+          font-size: 16px;
+        }
+        .txt02 {
+          font-size: 14px;
+        }
+      } //img-list01
+    } //life-info
   } //sp
 }
