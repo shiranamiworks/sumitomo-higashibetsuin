@@ -55,7 +55,7 @@
       </div>
       </li>
       <li>
-      <div class="image">
+      <div class="image img03">
         <img src="./images/location02/intro03.jpg" alt="">
       </div>
       </li>
@@ -140,7 +140,7 @@
     </ul>
     <div class="inner clearfix">
       <p class="name">下茶屋公園（約550m／徒歩7分）</p>
-      <p class="lead">織田信長が13歳まで過ごした古渡城（ふるわたりじょう）の痕跡が残るこの公園は、貴重な江戸後期の庭園様式を保ち、綺麗に整備されています。桜や紫陽花、紅葉など四季折々の自然と歴史の痕跡を楽しみながら、心地よいひとときを過ごせます。</p>
+      <p class="lead lead01">織田信長が13歳まで過ごした古渡城（ふるわたりじょう）の痕跡が残るこの公園は、貴重な江戸後期の庭園様式を保ち、綺麗に整備されています。桜や紫陽花、紅葉など四季折々の自然と歴史の痕跡を楽しみながら、心地よいひとときを過ごせます。</p>
       <ul class="list04 clearfix">
         <li>
           <div class="image">
@@ -505,13 +505,13 @@
             <div class="image">
               <img src="./images/location02/info03-05.jpg" alt="">
             </div>
-            <p class="name">市立松原小学校[通学校]</p>
+            <p class="name">市立松原小学校［通学校］</p>
           </li>
           <li>
             <div class="image">
               <img src="./images/location02/info03-06.jpg" alt="">
             </div>
-            <p class="name">私立伊勢山中学校[通学校]</p>
+            <p class="name">私立伊勢山中学校［通学校］</p>
           </li>
         </ul>
       </div><!-- tab-inner  -->
