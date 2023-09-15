@@ -306,4 +306,198 @@
 #access .car .caps {
   font-size: 12px;
   line-height: 1.6;
+}
+@media screen and (max-width: 768px) {
+  #access sp {
+    display: block;
+  }
+  #access pc {
+    display: none;
+  }
+  #access .main-visual .annotation {
+    bottom: 40px;
+  }
+  #access .intro {
+    padding: 60px 0 0;
+  }
+  #access .intro .lead {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  #access .intro .text {
+    font-size: 18px;
+    margin-bottom: 60px;
+  }
+  #access .intro .img01 {
+    margin-bottom: 60px;
+  }
+  #access .station {
+    margin-bottom: 60px;
+  }
+  #access .station .lists li {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  #access .station .lists li:last-child {
+    margin-bottom: auto;
+  }
+  #access .station .lists .tit-box .line {
+    font-size: 20px;
+    margin-bottom: 6px;
+  }
+  #access .station .lists .tit-box .min {
+    font-size: 20px;
+  }
+  #access .station .lists .tit-box .min .name {
+    font-size: 26px;
+  }
+  #access .station .lists .tit-box .min .num {
+    font-size: 36px;
+  }
+  #access .station .lists .info-box .min {
+    font-size: 20px;
+  }
+  #access .station .lists .info-box .min .name {
+    font-size: 32px;
+  }
+  #access .station .lists .info-box .min .big {
+    font-size: 40px;
+  }
+  #access .station .lists .info-box .min .mini {
+    font-size: 12px;
+  }
+  #access .station .lists .info-box .sub {
+    font-size: 24px;
+  }
+  #access .station .lists .info-box .sub .big {
+    font-size: 50px;
+  }
+  #access .station .lists .info-box .sub .mini {
+    font-size: 16px;
+  }
+  #access .station .lists .info-box .sen {
+    font-size: 16px;
+  }
+  #access .station .list01 li {
+    margin-bottom: 40px;
+  }
+  #access .station .list02 {
+    margin-bottom: 80px;
+  }
+  #access .station .list02 li {
+    display: block;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  #access .station .list02 li:last-child {
+    margin-bottom: auto;
+  }
+  #access .station .airport .tit01 {
+    font-size: 24px;
+  }
+  #access .station .airport .tit02 {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  #access .station .airport .lists .info-box .min {
+    font-size: 28px;
+  }
+  #access .station .airport .lists .info-box .min .mini {
+    font-size: 18px;
+  }
+  #access .station .airport .lists .info-box .sub {
+    font-size: 24px;
+  }
+  #access .station .airport .lists .info-box .sub .big {
+    font-size: 50px;
+  }
+  #access .station .airport .lists .info-box .sub .mini {
+    font-size: 18px;
+  }
+  #access .taxi {
+    margin-bottom: 80px;
+  }
+  #access .taxi .tit01 {
+    font-size: 24px;
+  }
+  #access .taxi .tit02 {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  #access .taxi .tit03 {
+    font-size: 16px;
+  }
+  #access .taxi ul {
+    margin-bottom: 20px;
+  }
+  #access .taxi li {
+    display: block;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  #access .taxi li:last-child {
+    margin-bottom: auto;
+  }
+  #access .taxi .name {
+    font-size: 18px;
+    margin: 10px auto;
+  }
+  #access .taxi .name span {
+    font-size: 26px;
+  }
+  #access .taxi .caps {
+    font-size: 12px;
+    line-height: 1.6;
+  }
+  #access .car {
+    margin-bottom: 80px;
+  }
+  #access .car .tit01 {
+    font-size: 24px;
+  }
+  #access .car .tit02 {
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  #access .car .tit03 {
+    font-size: 16px;
+  }
+  #access .car .tit03 {
+    font-size: 16px;
+  }
+  #access .car .tit03 span {
+    font-size: 20px;
+  }
+  #access .car ul {
+    margin-bottom: 20px;
+  }
+  #access .car li {
+    display: block;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  #access .car li:last-child {
+    margin-bottom: 30px;
+  }
+  #access .car .info-box .min {
+    font-size: 28px;
+  }
+  #access .car .info-box .min .mini {
+    font-size: 18px;
+  }
+  #access .car .info-box .sub {
+    font-size: 24px;
+  }
+  #access .car .info-box .sub .big {
+    font-size: 50px;
+  }
+  #access .car .info-box .sub .mini {
+    font-size: 18px;
+  }
+  #access .car .caps {
+    font-size: 12px;
+    line-height: 1.6;
+  }
 }/*# sourceMappingURL=access.css.map */

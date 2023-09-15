@@ -103,4 +103,47 @@
   #concept pc {
     display: none;
   }
+  #concept .main-visual .annotation {
+    bottom: 40px;
+  }
+  #concept .sections .texts {
+    padding: 60px 0;
+  }
+  #concept .sections .texts .tit {
+    font-size: 20px;
+  }
+  #concept .sections .texts .line {
+    padding: 10px 20px;
+  }
+  #concept .sections .texts .txt01 {
+    font-size: 28px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  #concept .sections .texts .txt02 {
+    font-size: 18px;
+  }
+  #concept .intro {
+    padding: 60px 0 0;
+  }
+  #concept .intro .text {
+    font-size: 18px;
+    margin-bottom: 60px;
+  }
+  #concept .intro li {
+    float: none;
+    width: 100%;
+  }
+  #concept .intro li:last-child {
+    float: none;
+    margin-top: 10px;
+  }
+  #concept .urban li {
+    float: none;
+    width: 100%;
+  }
+  #concept .urban li:last-child {
+    float: none;
+    margin-top: 10px;
+  }
 }/*# sourceMappingURL=concept.css.map */

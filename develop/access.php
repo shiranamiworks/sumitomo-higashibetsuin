@@ -52,7 +52,8 @@
         <p class="min">Åu<span class="name">ìåï â@</span>ÅvâwÇ‹Ç≈ ìkï‡<span class="num">8</span>ï™</p>
       </div>
       <div class="image">
-        <img src="./images/access/line01.jpg" alt="">
+        <img src="./images/access/line01.jpg" alt="" class="pc">
+        <img src="./images/access/line01-sp.jpg" alt="" class="sp">
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box">
@@ -66,7 +67,8 @@
         <p class="min">Åu<span class="name">ëÂê{äœâπ</span>ÅvâwÇ‹Ç≈ ìkï‡<span class="num">12</span>ï™</p>
       </div>
       <div class="image">
-        <img src="./images/access/line02.jpg" alt="">
+        <img src="./images/access/line02.jpg" alt="" class="pc">
+        <img src="./images/access/line02-sp.jpg" alt="" class="sp">
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box">
@@ -78,7 +80,8 @@
     <ul class="lists list02 clearfix">
       <li>
       <div class="image">
-        <img src="./images/access/line03.jpg" alt="">
+        <img src="./images/access/line03.jpg" alt="" class="pc">
+        <img src="./images/access/line03-sp.jpg" alt="" class="sp">
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box">
@@ -89,7 +92,8 @@
       </li>
       <li>
       <div class="image">
-        <img src="./images/access/line04.jpg" alt="">
+        <img src="./images/access/line04.jpg" alt="" class="pc">
+        <img src="./images/access/line04-sp.jpg" alt="" class="sp">
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box">
@@ -100,7 +104,8 @@
       </li>
       <li>
       <div class="image">
-        <img src="./images/access/line05.jpg" alt="">
+        <img src="./images/access/line05.jpg" alt="" class="pc">
+        <img src="./images/access/line05-sp.jpg" alt="" class="sp">
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box">

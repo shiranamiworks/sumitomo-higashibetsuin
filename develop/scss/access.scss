@@ -331,5 +331,218 @@
   } //1024px
 
   @media screen and (max-width: 768px) {
-  }
+    sp {
+      display: block;
+    }
+    pc {
+      display: none;
+    }
+
+    .main-visual {
+      .annotation {
+        bottom: 40px;
+      }
+    }
+    .intro {
+      padding: 60px 0 0;
+      .lead {
+        font-size: 28px;
+        margin-bottom: 20px;
+      }
+      .text {
+        font-size: 18px;
+        margin-bottom: 60px;
+      }
+      .img01 {
+        margin-bottom: 60px;
+      }
+    } //intro
+    .station {
+      margin-bottom: 60px;
+      .lists {
+        li {
+          display: block;
+          width: 100%;
+          margin-bottom: 20px;
+        }
+        li:last-child {
+          margin-bottom: auto;
+        }
+        .tit-box {
+          .line {
+            font-size: 20px;
+            margin-bottom: 6px;
+          }
+          .min {
+            font-size: 20px;
+            .name {
+              font-size: 26px;
+            }
+            .num {
+              font-size: 36px;
+            }
+          }
+        } //tit-box
+        .info-box {
+          .min {
+            font-size: 20px;
+            .name {
+              font-size: 32px;
+            }
+            .big {
+              font-size: 40px;
+            }
+            .mini {
+              font-size: 12px;
+            }
+          }
+          .sub {
+            font-size: 24px;
+            .big {
+              font-size: 50px;
+            }
+            .mini {
+              font-size: 16px;
+            }
+          }
+          .sen {
+            font-size: 16px;
+          }
+        } //info-box
+      } //lists
+      .list01 {
+        li {
+          margin-bottom: 40px;
+        }
+      } //list01
+      .list02 {
+        margin-bottom: 80px;
+        li {
+          display: block;
+          width: 100%;
+          margin-bottom: 40px;
+        }
+        li:last-child {
+          margin-bottom: auto;
+        }
+      } //list02
+      .airport {
+        .tit01 {
+          font-size: 24px;
+        }
+        .tit02 {
+          font-size: 18px;
+          line-height: 1.6;
+          margin-bottom: 20px;
+        }
+        .lists {
+          .info-box {
+            .min {
+              font-size: 28px;
+              .mini {
+                font-size: 18px;
+              }
+            }
+            .sub {
+              font-size: 24px;
+              .big {
+                font-size: 50px;
+              }
+              .mini {
+                font-size: 18px;
+              }
+            }
+          } //info-box
+        } //lists
+      } //airport
+    } //station
+
+    .taxi {
+      margin-bottom: 80px;
+      .tit01 {
+        font-size: 24px;
+      }
+      .tit02 {
+        font-size: 18px;
+        margin-bottom: 40px;
+      }
+      .tit03 {
+        font-size: 16px;
+      }
+      ul {
+        margin-bottom: 20px;
+      }
+      li {
+        display: block;
+        width: 100%;
+        margin-bottom: 40px;
+      }
+      li:last-child {
+        margin-bottom: auto;
+      }
+      .name {
+        font-size: 18px;
+        margin: 10px auto;
+        span {
+          font-size: 26px;
+        }
+      }
+      .caps {
+        font-size: 12px;
+        line-height: 1.6;
+      }
+    } //taxi
+
+    .car {
+      margin-bottom: 80px;
+      .tit01 {
+        font-size: 24px;
+      }
+      .tit02 {
+        font-size: 18px;
+        margin-bottom: 40px;
+      }
+      .tit03 {
+        font-size: 16px;
+      }
+      .tit03 {
+        font-size: 16px;
+        span {
+          font-size: 20px;
+        }
+      }
+      ul {
+        margin-bottom: 20px;
+      }
+      li {
+        display: block;
+        width: 100%;
+        margin-bottom: 30px;
+      }
+      li:last-child {
+        margin-bottom: 30px;
+      }
+      .info-box {
+        .min {
+          font-size: 28px;
+          .mini {
+            font-size: 18px;
+          }
+        }
+        .sub {
+          font-size: 24px;
+          .big {
+            font-size: 50px;
+          }
+          .mini {
+            font-size: 18px;
+          }
+        }
+      } //info-box
+      .caps {
+        font-size: 12px;
+        line-height: 1.6;
+      }
+    } //car
+  } //sp
 }
