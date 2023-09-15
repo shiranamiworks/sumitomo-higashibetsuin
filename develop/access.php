@@ -141,7 +141,8 @@
 
   <section class="taxi clearfix">
     <div class="image">
-      <img src="./images/access/taxi01.svg" alt="">
+      <img src="./images/access/taxi01.svg" alt="" class="pc">
+      <img src="./images/access/taxi01-sp.svg" alt="" class="sp">
     </div>
     <div class="wrap">
     <p class="tit01">都心立地だからこそ、日常的に気軽にタクシー利用</p>
@@ -187,7 +188,8 @@
 
   <section class="car clearfix">
     <div class="image">
-      <img src="./images/access/car01.svg" alt="">
+      <img src="./images/access/car01.svg" alt="" class="pc">
+      <img src="./images/access/car01-sp.svg" alt="" class="sp">
     </div>
     <div class="wrap">
     <p class="tit01">名古屋高速都心環状線の入口が近く、お出かけも軽快に。</p>
