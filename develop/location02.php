@@ -46,21 +46,27 @@
     </div>
     <ul class="list01 clearfix">
       <li>
+      <div class="image img03 sp">
+        <img src="./images/location02/intro03-sp.jpg" alt="" class="sp">
+        <p class="annotation">東別院（約340m／徒歩5分）</p>
+      </div>
       <div class="image img01">
-        <img src="./images/location02/intro01.jpg" alt="">
+        <img src="./images/location02/intro01.jpg" alt="" class="pc">
+        <img src="./images/location02/intro01-sp.jpg" alt="" class="sp">
       </div>
       <div class="image img02">
-        <img src="./images/location02/intro02.jpg" alt="">
+        <img src="./images/location02/intro02.jpg" alt="" class="pc">
+        <img src="./images/location02/intro02-sp.jpg" alt="" class="sp">
         <p class="annotation">東別院参道</p>
       </div>
       </li>
       <li>
-      <div class="image img03">
-        <img src="./images/location02/intro03.jpg" alt="">
+      <div class="image img03 pc">
+        <img src="./images/location02/intro03.jpg" alt="" class="pc">
       </div>
       </li>
     </ul>
-    <div class="inner">
+    <div class="inner pc">
       <p class="mini clearfix">東別院（約340m／徒歩5分）</p>
     </div>
   </section><!-- intro -->
@@ -75,17 +81,20 @@
         <ul class="list01">
           <li>
             <div class="image">
-            <img src="./images/location02/area01-01.jpg" alt="">
+            <img src="./images/location02/area01-01.jpg" alt="" class="pc">
+            <img src="./images/location02/area01-01-sp.jpg" alt="" class="sp">
             <p class="annotation white">image photo</p>
             </div>
           </li>
           <li>
             <div class="image">
-            <img src="./images/location02/area01-02.jpg" alt="">
+            <img src="./images/location02/area01-02.jpg" alt="" class="pc">
+            <img src="./images/location02/area01-02-sp.jpg" alt="" class="sp">
             <p class="annotation">image photo</p>
             </div>
             <div class="image">
-            <img src="./images/location02/area01-03.jpg" alt="">
+            <img src="./images/location02/area01-03.jpg" alt="" class="pc">
+            <img src="./images/location02/area01-03-sp.jpg" alt="" class="sp">
             <p class="annotation">image photo</p>
             </div>
           </li>
@@ -124,17 +133,20 @@
       <p class="lead">尾張徳川家二代目藩主「徳川光友公」の時代、古今和歌集にちなんで名付けられた「橘町」は、あちこちに歴史の面影が残る街。<br>時を重ねた麗しい緑を湛える公園が点在して、暮らしに安らかな寛ぎを添えてくれます。</p>
     </div><!-- inner -->
     <div class="image">
-      <img src="./images/location02/area02-02.jpg" alt="">
+      <img src="./images/location02/area02-02.jpg" alt="" class="pc">
+      <img src="./images/location02/area02-02-sp.jpg" alt="" class="sp">
     </div>
     <ul class="list03 clearfix">
       <li>
         <div class="image">
-          <img src="./images/location02/area02-03.jpg" alt="">
+          <img src="./images/location02/area02-03.jpg" alt="" class="pc">
+          <img src="./images/location02/area02-03-sp.jpg" alt="" class="sp">
         </div>
       </li>
       <li>
         <div class="image">
-          <img src="./images/location02/area02-04.jpg" alt="">
+          <img src="./images/location02/area02-04.jpg" alt="" class="pc">
+          <img src="./images/location02/area02-04-sp.jpg" alt="" class="sp">
         </div>
       </li>
     </ul>
@@ -180,7 +192,8 @@
     <ul class="list05 clearfix">
       <li>
         <div class="image">
-          <img src="./images/location02/area03-02.jpg" alt="">
+          <img src="./images/location02/area03-02.jpg" alt="" class="pc">
+          <img src="./images/location02/area03-02-sp.jpg" alt="" class="sp">
           <p class="annotation white">image photo</p>
         </div>
       </li>
@@ -190,7 +203,8 @@
           <p class="annotation white">image photo</p>
         </div>
         <div class="image">
-          <img src="./images/location02/area03-04.jpg" alt="">
+          <img src="./images/location02/area03-04.jpg" alt="" class="pc">
+          <img src="./images/location02/area03-04-sp.jpg" alt="" class="sp">
           <p class="annotation white">image photo</p>
         </div>
       </li>
@@ -212,11 +226,21 @@
           </li>
         </ul>
         <ul class="shop-list shop-list02 clearfix">
+        <li class="sp">
+            <div class="image">
+              <img src="./images/location02/area03-07.jpg" alt="">
+              <p class="annotation white">image photo</p>
+            </div>
+            <div class="image">
+              <img src="./images/location02/area03-08.jpg" alt="">
+              <p class="annotation white">image photo</p>
+            </div>
+          </li>
           <li>
             <p class="shop-name">ミライエダイニング／新和食（フレンチ×和の融合）<br>（約690m／徒歩9分）</p>
             <p class="shop-info">隈研吾氏が造り出したスタイリッシュな芸術空間がもてなす“ヌーベル・キュイジーヌジャポネーズ”。フレンチとイタリアンをメインとし和の要素を加えた新ジャンルのメニューは、吟味した肉や季節の食材で織りなす繊細で美しい味わいを堪能できます。</p>
           </li>
-          <li>
+          <li class="pc">
             <div class="image">
               <img src="./images/location02/area03-07.jpg" alt="">
               <p class="annotation white">image photo</p>
@@ -262,6 +286,12 @@
       </div><!-- shops -->
       <div class="shops shop03 clearfix">
         <ul class="shop-list shop-list03 clearfix">
+          <li class="sp">
+            <div class="image">
+              <img src="./images/location02/area03-15.jpg" alt="">
+              <p class="annotation white">image photo</p>
+            </div>
+          </li>
           <li class="float">
             <div class="image">
               <img src="./images/location02/area03-13.jpg" alt="">
@@ -274,7 +304,7 @@
             <p class="shop-name clearfix">ガトー・デュラ・メール・スリアン／ケーキ（約330m／徒歩5分）</p>
             <p class="shop-info">現地よりほど近い隠れ家的なケーキショップ。シェフは数々のケーキショーで受賞歴のある栗本佳夫氏。見た目も華やかで可愛らしいケーキは、甘さは控えめ。なめらかなチョコムースの「ドームショコラ」と「マカロン」は特に人気です。</p>
           </li>
-          <li>
+          <li class="pc">
             <div class="image">
               <img src="./images/location02/area03-15.jpg" alt="">
               <p class="annotation white">image photo</p>
@@ -318,17 +348,20 @@
     <ul class="list06 clearfix">
       <li>
         <div class="image">
-          <img src="./images/location02/area04-02.jpg" alt="">
+          <img src="./images/location02/area04-02.jpg" alt="" class="pc">
+          <img src="./images/location02/area04-02-sp.jpg" alt="" class="sp">
           <p class="annotation white">image photo</p>
         </div>
       </li>
       <li>
         <div class="image">
-          <img src="./images/location02/area04-03.jpg" alt="">
+          <img src="./images/location02/area04-03.jpg" alt="" class="pc">
+          <img src="./images/location02/area04-03-sp.jpg" alt="" class="sp">
           <p class="annotation white">image photo</p>
         </div>
         <div class="image">
-          <img src="./images/location02/area04-04.jpg" alt="">
+          <img src="./images/location02/area04-04.jpg" alt="" class="pc">
+          <img src="./images/location02/area04-04-sp.jpg" alt="" class="sp">
           <p class="annotation">image photo</p>
         </div>
       </li>
