@@ -914,6 +914,9 @@ div.header-btn.bg_btn {
   .sp-menu nav ul li:nth-child(2n + 1) {
     border-right: 1px solid #b99a31;
   }
+  .sp-menu nav ul li.online {
+    border-bottom: none;
+  }
   .sp-menu nav ul li:last-child {
     border-bottom: none;
   }

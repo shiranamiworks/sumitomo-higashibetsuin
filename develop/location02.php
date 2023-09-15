@@ -118,7 +118,7 @@
 
 
   <section class="areas area02 clearfix">
-    <div class="title"><img src="./images/location02/area02-01.svg" alt=""></div>
+    <div class="title"><img src="./images/location02/area02-01.svg" alt="" class="pc"><img src="./images/location02/area02-01-sp.svg" alt="" class="sp"></div>
     <div class="inner">
       <p class="text">都心にあって、庭園や参道の美しい緑景に深く潤う。</p>
       <p class="lead">尾張徳川家二代目藩主「徳川光友公」の時代、古今和歌集にちなんで名付けられた「橘町」は、あちこちに歴史の面影が残る街。<br>時を重ねた麗しい緑を湛える公園が点在して、暮らしに安らかな寛ぎを添えてくれます。</p>
@@ -172,7 +172,7 @@
 
 
   <section class="areas area03 clearfix">
-    <div class="title"><img src="./images/location02/area03-01.svg" alt=""></div>
+    <div class="title"><img src="./images/location02/area03-01.svg" alt="" class="pc"><img src="./images/location02/area03-01-sp.svg" alt="" class="sp"></div>
     <div class="inner">
       <p class="text">食の楽しみも格別に。注目店が集まるグルメスポット。</p>
       <p class="lead">本格派のフレンチやイタリアン、見た目も美味しいカラフルなスイーツなど、スタイリッシュでお洒落なお店から落ち着きある老舗まで、散策の途中で利用したり暮らしの楽しみが広がるグルメスポットが充実しています。</p>
@@ -310,7 +310,7 @@
 
 
   <section class="areas area04 clearfix">
-    <div class="title"><img src="./images/location02/area04-01.svg" alt=""></div>
+    <div class="title"><img src="./images/location02/area04-01.svg" alt="" class="pc"><img src="./images/location02/area04-01-sp.svg" alt="" class="sp"></div>
     <div class="inner">
       <p class="text">多彩な商業施設や縁日を身近に、心躍るライフステージ。</p>
       <p class="lead">約1,200の店舗・施設で構成された商店街※で賑わう大須が身近な生活圏。家電店からファッション・グルメまで、最新のトレンドと昔ながらのエッセンスが交じり合ったあらゆる業種のお店が軒を連ねる商店街は、ショッピングや季節ごとの縁日など、ご家族で気軽に楽しめます。<br><span>※出典：大須商店街HPより</span></p>
@@ -399,7 +399,8 @@
         <ul class="lists">
           <li>
             <div class="image">
-              <img src="./images/location02/info01-01.png" alt="">
+              <img src="./images/location02/info01-01.png" alt="" class="pc">
+              <img src="./images/location02/info01-01-sp.png" alt="" class="sp">
             </div>
           </li>
           <li>
@@ -439,7 +440,8 @@
         <ul class="lists">
           <li>
             <div class="image">
-              <img src="./images/location02/info02-01.png" alt="">
+              <img src="./images/location02/info02-01.png" alt="" class="pc">
+              <img src="./images/location02/info02-01-sp.png" alt="" class="sp">
             </div>
           </li>
           <li>
@@ -479,7 +481,8 @@
         <ul class="lists">
           <li>
             <div class="image">
-              <img src="./images/location02/info03-01.png" alt="">
+              <img src="./images/location02/info03-01.png" alt="" class="pc">
+              <img src="./images/location02/info03-01-sp.png" alt="" class="sp">
             </div>
           </li>
           <li>
@@ -519,7 +522,8 @@
         <ul class="lists">
           <li>
             <div class="image">
-              <img src="./images/location02/info04-01.png" alt="">
+              <img src="./images/location02/info04-01.png" alt="" class="pc">
+              <img src="./images/location02/info04-01-sp.png" alt="" class="sp">
             </div>
           </li>
           <li>
@@ -533,7 +537,8 @@
         <ul class="lists">
           <li>
             <div class="image">
-              <img src="./images/location02/info05-01.png" alt="">
+              <img src="./images/location02/info05-01.png" alt="" class="pc">
+              <img src="./images/location02/info05-01-sp.png" alt="" class="sp">
             </div>
           </li>
           <li>

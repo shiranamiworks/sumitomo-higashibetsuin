@@ -688,11 +688,12 @@
           margin-bottom: 0;
         }
         li:last-child {
+          display: none;
           margin-bottom: auto;
         }
       } //lists
       .img-list {
-        margin-top: 40px;
+        margin-top: 20px;
         li {
           display: block;
           width: 100%;
@@ -706,7 +707,7 @@
         }
       } //img-list
       .img-list01 {
-        margin-top: 40px;
+        margin-top: 20px;
         li {
           display: block;
           width: 100%;
