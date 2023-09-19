@@ -33,6 +33,9 @@
   display: none;
 }
 
+.slick-initialized .slick-slide {
+  position: relative;
+}
 /************* バナースライド *************/
 
 .top-banner {
@@ -402,6 +405,7 @@
         }
         .list03 {
           width: auto;
+          border-bottom: none;
         }
         .list04 {
           width: auto;

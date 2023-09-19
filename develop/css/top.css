@@ -31,6 +31,10 @@
   display: none;
 }
 
+.slick-initialized .slick-slide {
+  position: relative;
+}
+
 /************* バナースライド *************/
 .top-banner {
   display: none;
@@ -383,6 +387,7 @@
   }
   #top .points .lists .list03 {
     width: auto;
+    border-bottom: none;
   }
   #top .points .lists .list04 {
     width: auto;
