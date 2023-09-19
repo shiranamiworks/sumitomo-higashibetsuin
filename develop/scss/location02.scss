@@ -51,7 +51,7 @@
   } //sections
 
   .intro {
-    padding: 0;
+    padding: 140px 0 0;
     margin-bottom: 140px;
     .lead {
       font-size: 64px;
@@ -237,7 +237,7 @@
           width: 48%;
           margin-right: 2%;
         }
-        li.sp{
+        li.sp {
           display: none;
         }
         li:last-child {
@@ -614,10 +614,10 @@
             width: 100%;
             margin-bottom: 20px;
           }
-          li.pc{
+          li.pc {
             display: none;
           }
-          li.sp{
+          li.sp {
             display: block;
           }
           li:last-child {
@@ -625,7 +625,7 @@
           }
         } //shop-list
         .shop-list01 {
-          li.sp{
+          li.sp {
             margin-bottom: 140px;
           }
         }
