@@ -35,7 +35,7 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/location02/mv.png" alt="" class="pc"><img src="./images/location02/mv-sp.png" alt="" class="sp"><p class="annotation white">東別院（約340m／徒歩5分）</p></div>
+   <div class="image"><img src="./images/location02/mv.jpg" alt="" class="pc"><img src="./images/location02/mv-sp.jpg" alt="" class="sp"><p class="annotation white">東別院（約340m／徒歩5分）</p></div>
   </header><!-- main-visual -->
 
 
