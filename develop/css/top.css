@@ -7,7 +7,7 @@
 }
 
 .top-mv {
-  background: #F1E9DC;
+  background: #f1e9dc;
 }
 
 .top-mv__slide .slick-dots li {
@@ -133,6 +133,26 @@
 }
 #top .apeal .wrap {
   max-width: 696px;
+}
+#top .top-txt {
+  text-align: center;
+  background: #000;
+  color: #fff;
+  font-size: 46px;
+  letter-spacing: 1.6;
+  letter-spacing: 0.2em;
+  padding: 40px 0;
+}
+@media screen and (max-width: 768px) {
+  #top .top-txt {
+    text-align: center;
+    background: #000;
+    color: #fff;
+    font-size: 22px;
+    letter-spacing: 1.6;
+    letter-spacing: 0.2em;
+    padding: 20px 0;
+  }
 }
 #top .points {
   background-color: #f1e9dc;

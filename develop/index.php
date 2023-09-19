@@ -29,7 +29,7 @@
   </div><!--//top-mv -->
 
 
-  
+  <p class="top-txt">地上20階建て・全175邸の<br class="sp">大規模レジデンス</p>
 
   <div class="points">
     <ul class="lists wrap">
