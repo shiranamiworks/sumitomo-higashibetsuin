@@ -41,7 +41,7 @@
   }
   .sections {
     .inner {
-      margin: 0 auto;
+      margin: 20px auto 0;
       width: 80%;
       max-width: 1200px;
     }
@@ -303,6 +303,9 @@
       }
       .img01 {
         margin-bottom: 60px;
+      }
+      .annotation.wh {
+        color: #fff;
       }
     } //intro
     .areas {

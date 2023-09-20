@@ -34,7 +34,7 @@
   bottom: 160px;
 }
 .location01 .sections .inner {
-  margin: 0 auto;
+  margin: 20px auto 0;
   width: 80%;
   max-width: 1200px;
 }
@@ -274,6 +274,9 @@
   }
   .location01 .intro .img01 {
     margin-bottom: 60px;
+  }
+  .location01 .intro .annotation.wh {
+    color: #fff;
   }
   .location01 .areas {
     margin-bottom: 60px;
