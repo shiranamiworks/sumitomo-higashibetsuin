@@ -5,7 +5,7 @@
   "gnav_set" => "sitemap",
   "page_class" =>"sitemap",
   "url" => "sitemap.html",
-  "title" => "サイトマップ?",
+  "title" => "サイトマップ｜",
   "keywords" => "サイトマップ,",
   "description" => "サイトマップページ。",
   "add_stylesheet" => ["css/sitemap.css"], 
