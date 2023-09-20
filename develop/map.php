@@ -5,13 +5,13 @@
   "gnav_set" => "map",
   "page_class" => "",
   "url" => "map.html",
-  "title" => "Œ»’nˆÄ“à}byŒöŽ®zƒVƒeƒBƒ^ƒ[“Œ•Ê‰@b“Œ•Ê‰@‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“bZ—F•s“®ŽY",
-  "keywords" => "Œ»’nˆÄ“à},ƒVƒeƒBƒ^ƒ[“Œ•Ê‰@,“Œ•Ê‰@ ƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@ V’zƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@,“Œ•Ê‰@‰w,’n‰º“S–¼éü,–¼ŒÃ‰®Žs’†‹æ,ƒ}ƒ“ƒVƒ‡ƒ“,V’zƒ}ƒ“ƒVƒ‡ƒ“,•ª÷ƒ}ƒ“ƒVƒ‡ƒ“,Z—F•s“®ŽY",
-  "description" => "Œ»’nˆÄ“à}ƒy[ƒWB’n‰º“S–¼éüu“Œ•Ê‰@‰wv‚Ü‚Å“k•à8•ªBZ—F•s“®ŽY‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“‚ª“Œ•Ê‰@‚É’a¶By‚·‚Ý‚Ó“Œ•Ê‰@z–¼ŒÃ‰®Žs’†‹æ‚Ìƒ}ƒ“ƒVƒ‡ƒ“‚È‚çZ—F•s“®ŽYB",
+  "title" => "Œ»’nˆÄ“à}b",
+  "keywords" => "Œ»’nˆÄ“à}",
+  "description" => "Œ»’nˆÄ“à}ƒy[ƒWB",
   "add_stylesheet" => ["css/map.css"],
   "add_script" =>  ["js/map.js"],
     
-  "logo_text" => "“Œ•Ê‰@‰w“k•à8•ªbƒVƒeƒBƒ^ƒ[“Œ•Ê‰@b“Œ•Ê‰@ V’zƒ}ƒ“ƒVƒ‡ƒ“bŒ»’nˆÄ“à}b‚·‚Ý‚Ó“Œ•Ê‰@bZ—F•s“®ŽY"
+  "logo_text" => "Œ»’nˆÄ“à}b"
 );
 ?>
 

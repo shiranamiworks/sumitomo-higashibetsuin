@@ -17,13 +17,13 @@ $site_setting = array(
 $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 ?>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="keywords" content="<?= $page_settings["keywords"] ?>">
-<meta name="description" content="<?= $page_settings["description"] ?>">
+<meta name="keywords" content="<?= $page_settings["keywords"] ?>,ƒVƒeƒBƒ^ƒ[“Œ•Ê‰@,“Œ•Ê‰@ ƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@ V’zƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@,“Œ•Ê‰@‰w,’n‰º“S–¼éü,–¼ŒÃ‰®s’†‹æ,ƒ}ƒ“ƒVƒ‡ƒ“,V’zƒ}ƒ“ƒVƒ‡ƒ“,•ª÷ƒ}ƒ“ƒVƒ‡ƒ“,Z—F•s“®Y">
+<meta name="description" content="<?= $page_settings["description"] ?>’n‰º“S–¼éüu“Œ•Ê‰@‰wv‚Ü‚Å“k•à8•ªBZ—F•s“®Y‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“‚ª“Œ•Ê‰@‚É’a¶By‚·‚İ‚Ó“Œ•Ê‰@z–¼ŒÃ‰®s’†‹æ‚Ìƒ}ƒ“ƒVƒ‡ƒ“‚È‚çZ—F•s“®YB">
 
 <meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["page_id"] ?>">
 <meta property="og:type" content="article">
-<meta property="og:title" content="<?= $page_settings["title"] ?>">
-<meta property="og:description" content="<?= $page_settings["description"] ?>">
+<meta property="og:title" content="<?= $page_settings["title"] ?>yŒö®zƒVƒeƒBƒ^ƒ[“Œ•Ê‰@b“Œ•Ê‰@‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“bZ—F•s“®Y">
+<meta property="og:description" content="<?= $page_settings["description"] ?>’n‰º“S–¼éüu“Œ•Ê‰@‰wv‚Ü‚Å“k•à8•ªBZ—F•s“®Y‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“‚ª“Œ•Ê‰@‚É’a¶By‚·‚İ‚Ó“Œ•Ê‰@z–¼ŒÃ‰®s’†‹æ‚Ìƒ}ƒ“ƒVƒ‡ƒ“‚È‚çZ—F•s“®YB">
 <meta property="og:site_name" content="yŒö®zƒVƒeƒBƒ^ƒ[“Œ•Ê‰@">
 <meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogp.jpg" />
 
@@ -31,7 +31,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 <link rel="canonical" href="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["page_id"] ?>">
 <link rel="icon" href="<?= $page_settings["directory_pos"]  ?>/images/favicon.ico" alt="" id="favicon">
 
-<title><?= $page_settings["title"] ?></title>
+<title><?= $page_settings["title"] ?>yŒö®zƒVƒeƒBƒ^ƒ[“Œ•Ê‰@b“Œ•Ê‰@‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“bZ—F•s“®Y</title>
 
 <link rel="index" href="index.html">
 
@@ -77,7 +77,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
     <h1 class="header-logo">
       <a href="index.html">
         <figure><img src="<?= $page_settings["directory_pos"]  ?>images/common/logo.jpg" alt=""></figure>
-        <p><?= $page_settings["logo_text"]  ?></p>
+        <p>“Œ•Ê‰@‰w“k•à8•ªbƒVƒeƒBƒ^ƒ[“Œ•Ê‰@b“Œ•Ê‰@ V’zƒ}ƒ“ƒVƒ‡ƒ“b<?= $page_settings["logo_text"]  ?>‚·‚İ‚Ó“Œ•Ê‰@bZ—F•s“®Y</p>
       </a>
     </h1><!-- header-logo -->
     <div class="header-right d-flex">

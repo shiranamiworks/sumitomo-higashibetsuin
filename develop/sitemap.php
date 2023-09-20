@@ -5,12 +5,12 @@
   "gnav_set" => "sitemap",
   "page_class" => "",
   "url" => "sitemap.html",
-  "title" => "ƒTƒCƒgƒ}ƒbƒvbyŒöŽ®zƒVƒeƒBƒ^ƒ[“Œ•Ê‰@b“Œ•Ê‰@‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“bZ—F•s“®ŽY",
-  "keywords" => "ƒTƒCƒgƒ}ƒbƒv,ƒVƒeƒBƒ^ƒ[“Œ•Ê‰@,“Œ•Ê‰@ ƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@ V’zƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@,“Œ•Ê‰@‰w,’n‰º“S–¼éü,–¼ŒÃ‰®Žs’†‹æ,ƒ}ƒ“ƒVƒ‡ƒ“,V’zƒ}ƒ“ƒVƒ‡ƒ“,•ª÷ƒ}ƒ“ƒVƒ‡ƒ“,Z—F•s“®ŽY",
-  "description" => "ƒTƒCƒgƒ}ƒbƒvƒy[ƒWB’n‰º“S–¼éüu“Œ•Ê‰@‰wv‚Ü‚Å“k•à8•ªBZ—F•s“®ŽY‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“‚ª“Œ•Ê‰@‚É’a¶By‚·‚Ý‚Ó“Œ•Ê‰@z–¼ŒÃ‰®Žs’†‹æ‚Ìƒ}ƒ“ƒVƒ‡ƒ“‚È‚çZ—F•s“®ŽYB",
+  "title" => "ƒTƒCƒgƒ}ƒbƒv",
+  "keywords" => "ƒTƒCƒgƒ}ƒbƒv",
+  "description" => "ƒTƒCƒgƒ}ƒbƒvƒy[ƒWB",
   "add_stylesheet" => ["css/sitemap.css"], 
   
-  "logo_text" => "“Œ•Ê‰@‰w“k•à8•ªbƒVƒeƒBƒ^ƒ[“Œ•Ê‰@b“Œ•Ê‰@ V’zƒ}ƒ“ƒVƒ‡ƒ“b‚·‚Ý‚Ó“Œ•Ê‰@bZ—F•s“®ŽY"
+  "logo_text" => "‚·‚Ý‚Ó“Œ•Ê‰@b"
 );
 ?>
 

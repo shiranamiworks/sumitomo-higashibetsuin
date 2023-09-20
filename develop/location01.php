@@ -5,13 +5,13 @@
   "gnav_set" => "location",
   "page_class" => "location01",
   "url" => "location01.html",
-  "title" => "i‰»‚·‚é“sSƒGƒŠƒAbƒƒP[ƒVƒ‡ƒ“byŒöŽ®zƒVƒeƒBƒ^ƒ[“Œ•Ê‰@b“Œ•Ê‰@‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“bZ—F•s“®ŽY",
-  "keywords" => "ƒƒP[ƒVƒ‡ƒ“,ƒVƒeƒBƒ^ƒ[“Œ•Ê‰@,“Œ•Ê‰@ ƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@ V’zƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@,“Œ•Ê‰@‰w,’n‰º“S–¼éü,–¼ŒÃ‰®Žs’†‹æ,ƒ}ƒ“ƒVƒ‡ƒ“,V’zƒ}ƒ“ƒVƒ‡ƒ“,•ª÷ƒ}ƒ“ƒVƒ‡ƒ“,Z—F•s“®ŽY",
-  "description" => "i‰»‚·‚é“sSƒGƒŠƒAbƒƒP[ƒVƒ‡ƒ“ƒy[ƒWB’n‰º“S–¼éüu“Œ•Ê‰@‰wv‚Ü‚Å“k•à8•ªBZ—F•s“®ŽY‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“‚ª“Œ•Ê‰@‚É’a¶By‚·‚Ý‚Ó“Œ•Ê‰@z–¼ŒÃ‰®Žs’†‹æ‚Ìƒ}ƒ“ƒVƒ‡ƒ“‚È‚çZ—F•s“®ŽYB",
+  "title" => "i‰»‚·‚é“sSƒGƒŠƒAbƒƒP[ƒVƒ‡ƒ“b",
+  "keywords" => "ƒƒP[ƒVƒ‡ƒ“",
+  "description" => "i‰»‚·‚é“sSƒGƒŠƒAbƒƒP[ƒVƒ‡ƒ“ƒy[ƒWB",
   "add_stylesheet" => ["css/location.css","css/location01.css"],
   "add_script" =>  [],
     
-  "logo_text" => "“Œ•Ê‰@‰w“k•à8•ªbƒVƒeƒBƒ^ƒ[“Œ•Ê‰@b“Œ•Ê‰@ V’zƒ}ƒ“ƒVƒ‡ƒ“bƒƒP[ƒVƒ‡ƒ“b‚·‚Ý‚Ó“Œ•Ê‰@bZ—F•s“®ŽY"
+  "logo_text" => "ƒƒP[ƒVƒ‡ƒ“b"
 );
 ?>
 
