@@ -3,10 +3,10 @@
   "directory_pos" => "./",
   "page_id" => "access",
   "gnav_set" => "access",
-  "page_class" => "",
-  "url" => "",
+  "page_class" => "access",
+  "url" => "access.html",
   "title" => "アクセス｜",
-  "keywords" => "アクセス",
+  "keywords" => "アクセス,",
   "description" => "アクセスページ。",
   "add_stylesheet" => ["css/access.css","css/leaflet.css"],
   "add_script" =>  [],
@@ -39,12 +39,12 @@
       <!-- <div class="image img01">
         <img src="./images/access/img01.png" alt="">
       </div> -->
-      <div class="images image01">
+    </div>
+    <div class="images image01">
         <figure class="pc"><img src="./images/access/img01.png" class="sp-hide" alt="路線図"></figure>
         <figure class="tb"><img src="./images/access/img01.png" class="zoomImg tb" alt=""/></figure>
         <p class="annotation wh">路線図</p>
       </div>
-    </div>
   </section><!-- intro -->
 
 
@@ -65,8 +65,13 @@
         <img src="./images/access/line01-sp.jpg" alt="" class="sp">
         <p class="annotation white">image photo</p>
       </div>
-      <div class="info-box">
+      <div class="info-box pc">
         <p class="min"><span class="name">「栄」駅</span> 直通<span class="big">6</span>分<span class="mini">（6分）</span></p>
+        <p class="sen">「東別院」駅より地下鉄名城線利用</p>
+      </div>
+      <div class="info-box sp">
+      <p class="min"><span class="name">「栄」駅</span> </p>
+        <p class="sub">直通<span class="big">6</span>分<span class="mini">（6分）</span></p>
         <p class="sen">「東別院」駅より地下鉄名城線利用</p>
       </div>
       </li>
@@ -80,9 +85,14 @@
         <img src="./images/access/line02-sp.jpg" alt="" class="sp">
         <p class="annotation white">image photo</p>
       </div>
-      <div class="info-box">
+      <div class="info-box pc">
         <p class="min"><span class="name">「名古屋」駅</span> <span class="big">14</span>分<span class="mini">（14分）</span></p>
-        <p class="sen">「東別院」駅より地下鉄名城線利用、<br>「栄」駅で地下鉄東山線に乗換え</p>
+        <p class="sen">「東別院」駅より地下鉄名城線利用、<br class="pc">「栄」駅で地下鉄東山線に乗換え</p>
+      </div>
+      <div class="info-box sp">
+      <p class="min"><span class="name">「名古屋」駅</span> </p>
+        <p class="sub">直通<span class="big">14</span>分<span class="mini">（14分）</span></p>
+        <p class="sen">「東別院」駅より地下鉄名城線利用</p>
       </div>
       </li>
     </ul><!-- list01 -->
@@ -130,8 +140,8 @@
       <p class="tit02">徒歩15分の「金山」駅より、名鉄名古屋本線が利用可能。当駅から「中部国際空港」駅へ直通電車が利用でき、国内各地や海外への出張・旅行の際にも便利です。</p>
       <ul class="lists list01 clearfix">
         <li>
-          <div class="info-box">
-            <p class="min"><span class="mini">名鉄名古屋本線 「金山」駅よりミュースカイ利用</span><br>「中部国際空港」駅へ</p>
+          <div class="info-box pc">
+            <p class="min"><span class="mini">名鉄名古屋本線 「金山」駅より<br>ミュースカイ利用</span><br>「中部国際空港」駅へ</p>
             <p class="sub">直通<span class="big">24</span>分<span class="mini">（24分）</span></p>
           </div>
         </li>
@@ -139,6 +149,10 @@
           <div class="image">
             <img src="./images/access/line06.jpg" alt="">
             <p class="annotation white">image photo</p>
+          </div>
+          <div class="info-box sp">
+            <p class="min"><span class="mini">名鉄名古屋本線 「金山」駅よりミュースカイ利用</span><br>「中部国際空港」駅へ</p>
+            <p class="sub">直通<span class="big">24</span>分<span class="mini">（24分）</span></p>
           </div>
         </li>
       </ul>

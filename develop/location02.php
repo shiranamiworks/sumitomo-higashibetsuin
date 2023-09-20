@@ -5,13 +5,13 @@
   "gnav_set" => "location",
   "page_class" => "location02",
   "url" => "location02.html",
-  "title" => "歴史ある格調の地｜ロケーション｜",
-  "keywords" => "ロケーション",
-  "description" => "歴史ある格調の地｜ロケーションページ。",
+  "title" => "歴史ある格調の地｜",
+  "keywords" => "歴史ある格調の地,",
+  "description" => "歴史ある格調の地ページ。",
   "add_stylesheet" => ["css/location.css","css/location02.css"],
   "add_script" =>  [],
     
-  "logo_text" => "ロケーション｜"
+  "logo_text" => "歴史ある格調の地｜"
 );
 ?>
 
@@ -52,7 +52,6 @@
       </div>
       <div class="image img01">
         <img src="./images/location02/intro01.jpg" alt="" class="pc">
-        <img src="./images/location02/intro01-sp.jpg" alt="" class="sp">
       </div>
       <div class="image img02">
         <img src="./images/location02/intro02.jpg" alt="" class="pc">
@@ -140,7 +139,6 @@
       <li>
         <div class="image">
           <img src="./images/location02/area02-03.jpg" alt="" class="pc">
-          <img src="./images/location02/area02-03-sp.jpg" alt="" class="sp">
         </div>
       </li>
       <li>
@@ -193,12 +191,12 @@
       <li>
         <div class="image">
           <img src="./images/location02/area03-02.jpg" alt="" class="pc">
-          <img src="./images/location02/area03-02-sp.jpg" alt="" class="sp">
+          <!-- <img src="./images/location02/area03-02-sp.jpg" alt="" class="sp"> -->
           <p class="annotation white">image photo</p>
         </div>
       </li>
       <li>
-        <div class="image">
+        <div class="image pc">
           <img src="./images/location02/area03-03.jpg" alt="">
           <p class="annotation white">image photo</p>
         </div>
@@ -396,28 +394,48 @@
       <p class="text">都心の利便と暮らしの潤いが揃った、充実の生活環境。</p>
       <div class="tab-inner cond01 current clearfix">
         <div class="image map">
-          <img src="./images/location02/info01-00.png" alt="">
+          <figure class="pc"><img src="./images/location02/info01-00.png" class="sp-hide" alt="航空写真1"></figure>
+          <figure class="tb"><img src="./images/location02/info01-00.png" class="zoomImg tb" alt=""/></figure>
         </div>
+        <!-- <div class="image map">
+          <img src="./images/location02/info01-00.png" alt="">
+        </div> -->
       </div><!-- tab-inner  -->
       <div class="tab-inner cond02 clearfix">
-        <div class="image map">
-          <img src="./images/location02/info02-00.png" alt="">
+      <div class="image map">
+          <figure class="pc"><img src="./images/location02/info02-00.png" class="sp-hide" alt="航空写真1"></figure>
+          <figure class="tb"><img src="./images/location02/info02-00.png" class="zoomImg tb" alt=""/></figure>
         </div>
+        <!-- <div class="image map">
+          <img src="./images/location02/info02-00.png" alt="">
+        </div> -->
       </div><!-- tab-inner  -->
       <div class="tab-inner cond03 clearfix">
-        <div class="image map">
-          <img src="./images/location02/info03-00.png" alt="">
+      <div class="image map">
+          <figure class="pc"><img src="./images/location02/info03-00.png" class="sp-hide" alt="航空写真1"></figure>
+          <figure class="tb"><img src="./images/location02/info03-00.png" class="zoomImg tb" alt=""/></figure>
         </div>
+        <!-- <div class="image map">
+          <img src="./images/location02/info03-00.png" alt="">
+        </div> -->
       </div><!-- tab-inner  -->
       <div class="tab-inner cond04 clearfix">
-        <div class="image map">
-          <img src="./images/location02/info04-00.png" alt="">
+      <div class="image map">
+          <figure class="pc"><img src="./images/location02/info04-00.png" class="sp-hide" alt="航空写真1"></figure>
+          <figure class="tb"><img src="./images/location02/info04-00.png" class="zoomImg tb" alt=""/></figure>
         </div>
+        <!-- <div class="image map">
+          <img src="./images/location02/info04-00.png" alt="">
+        </div> -->
       </div><!-- tab-inner  -->
       <div class="tab-inner cond05 clearfix">
-        <div class="image map">
-          <img src="./images/location02/info05-00.png" alt="">
+      <div class="image map">
+          <figure class="pc"><img src="./images/location02/info05-00.png" class="sp-hide" alt="航空写真1"></figure>
+          <figure class="tb"><img src="./images/location02/info05-00.png" class="zoomImg tb" alt=""/></figure>
         </div>
+        <!-- <div class="image map">
+          <img src="./images/location02/info05-00.png" alt="">
+        </div> -->
       </div><!-- tab-inner  -->
 
       <ul class="change-buttons clearfix">
@@ -485,13 +503,17 @@
         </ul>
         <ul class="img-list01">
           <li>
-            <div class="image">
+            <div class="image pc">
               <img src="./images/location02/info02-03.jpg" alt="">
             </div>
-            <p class="name">白川公園</p>
+            <p class="name pc">白川公園</p>
+            <p class="txt01 sp">美しい緑と、近代的な文化施設が融合した「白川公園」。</p>
+            <div class="image sp">
+              <img src="./images/location02/info02-03.jpg" alt="">
+            </div>
           </li>
           <li>
-            <p class="txt01">美しい緑と、近代的な文化施設が融合した「白川公園」。</p>
+            <p class="txt01 pc">美しい緑と、近代的な文化施設が融合した「白川公園」。</p>
             <p class="txt02">年間を通じて多くの人々が訪れる緑豊かな公園。自然だけでなく、噴水やさまざまなオブジェが点在するアートな公園。敷地内には名古屋市美術館や科学館もあり芸術や文化に触れることができます。</p>
             <ul class="images">
               <li>

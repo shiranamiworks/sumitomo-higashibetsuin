@@ -605,6 +605,10 @@
       } //list07
     } //areas
     .area03 {
+      .inner{
+        border-top: 1px solid #bba579;
+        padding-top: 20px;
+      }
       .shops {
         padding-bottom: 0;
         margin-bottom: 20px;
@@ -721,7 +725,7 @@
         }
       } //img-list
       .img-list01 {
-        margin-top: 20px;
+        margin-top: 40px;
         li {
           display: block;
           width: 100%;

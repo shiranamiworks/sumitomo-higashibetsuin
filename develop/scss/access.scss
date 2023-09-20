@@ -68,7 +68,8 @@
       margin-bottom: 140px;
     }
     .image01 {
-      margin-bottom: 100px;
+      margin: 0 auto 100px;
+      width: 80%;
       .annotation {
         color: #fff;
         bottom: -20px;
@@ -358,11 +359,15 @@
         margin-bottom: 60px;
       }
       .image01 {
+        width: 94%;
         margin-bottom: 60px;
+        .leaflet-top{
+          bottom: 0;
+        }
       }
     } //intro
     .station {
-      margin-bottom: 60px;
+      margin-bottom: 100px;
       .lists {
         li {
           display: block;
@@ -374,27 +379,29 @@
         }
         .tit-box {
           .line {
-            font-size: 20px;
-            margin-bottom: 6px;
+            font-size: 16px;
           }
           .min {
-            font-size: 20px;
+            font-size: 16px;
             .name {
-              font-size: 26px;
+              font-size: 24px;
             }
             .num {
-              font-size: 36px;
+              font-size: 32px;
             }
+          }
+          &.sp{
+            margin-bottom: 50px;
           }
         } //tit-box
         .info-box {
           .min {
-            font-size: 20px;
+            font-size: 16px;
             .name {
-              font-size: 32px;
+              font-size: 27px;
             }
             .big {
-              font-size: 40px;
+              font-size: 36px;
             }
             .mini {
               font-size: 12px;
@@ -462,7 +469,7 @@
     } //station
 
     .taxi {
-      margin-bottom: 80px;
+      margin-bottom: 100px;
       .tit01 {
         font-size: 24px;
       }
@@ -479,7 +486,7 @@
       li {
         display: block;
         width: 100%;
-        margin-bottom: 40px;
+        margin-bottom: 60px;
       }
       li:last-child {
         margin-bottom: auto;
@@ -521,14 +528,14 @@
       li {
         display: block;
         width: 100%;
-        margin-bottom: 30px;
+        margin-bottom: 60px;
       }
       li:last-child {
         margin-bottom: 30px;
       }
       .info-box {
         .min {
-          font-size: 28px;
+          font-size: 26px;
           .mini {
             font-size: 18px;
           }

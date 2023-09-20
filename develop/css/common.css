@@ -234,7 +234,7 @@ img#adtag {
 .header-logo {
   flex: 1;
   /*max-width: 395px;*/
-  padding-right: 20px;
+  /* padding-right: 20px; */
 }
 .header-logo a {
   display: block;
@@ -243,7 +243,7 @@ img#adtag {
 
 .header-logo img {
   width: 17vw;
-  min-width: 273px;
+  min-width: 250px;
   padding: 15px;
 }
 .header-btn {

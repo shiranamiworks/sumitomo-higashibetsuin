@@ -549,6 +549,10 @@
     width: 90%;
     margin: 20px auto;
   }
+  .location02 .area03 .inner {
+    border-top: 1px solid #bba579;
+    padding-top: 20px;
+  }
   .location02 .area03 .shops {
     padding-bottom: 0;
     margin-bottom: 20px;
@@ -647,7 +651,7 @@
     font-size: 16px;
   }
   .location02 .life-info .img-list01 {
-    margin-top: 20px;
+    margin-top: 40px;
   }
   .location02 .life-info .img-list01 li {
     display: block;

@@ -286,6 +286,9 @@
   .location01 .areas .lead {
     margin-bottom: 40px;
   }
+  .location01 .areas .lead.sp {
+    margin-top: 40px;
+  }
   .location01 .areas .list01 {
     margin: 30px auto 60px;
   }
@@ -300,8 +303,24 @@
   .location01 .areas .img-tit {
     font-size: 22px;
   }
+  .location01 .areas .images {
+    position: relative;
+  }
+  .location01 .areas .images .leaflet-overlay-pane, .location01 .areas .images .leaflet-popup-pane {
+    position: absolute;
+    top: 0;
+  }
+  .location01 .areas .images .leaflet-container img.leaflet-image-layer {
+    transform: translate3d(0px, 0px, 0px) !important;
+  }
+  .location01 .areas .images .leaflet-left {
+    top: 0;
+  }
+  .location01 .areas .images .viewport {
+    height: 140% !important;
+  }
   .location01 .areas .list02 {
-    margin: 20px 0 40px;
+    margin: 60px 0 40px;
   }
   .location01 .areas .list02 li {
     display: block;
@@ -365,19 +384,22 @@
     width: 100%;
   }
   .location01 .area03 .bg .shops {
-    padding: 10px 20px 0;
+    padding: 10px 10px 0;
     box-sizing: border-box;
   }
   .location01 .area03 .bg .shops .shop {
-    font-size: 14px;
-    padding-left: 10px;
+    font-size: 12px;
+    padding-left: 5px;
   }
   .location01 .area03 .bg li:last-child .shops {
-    padding: 0 20px;
+    padding: 0 10px;
   }
   .location01 .area04 {
     padding-top: 60px;
     margin-bottom: 0;
+  }
+  .location01 .area04 .lead {
+    margin-top: 40px;
   }
   .location01 .area04 .list06 {
     margin: 40px auto;

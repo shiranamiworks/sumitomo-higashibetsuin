@@ -314,6 +314,9 @@
       }
       .lead {
         margin-bottom: 40px;
+        &.sp{
+          margin-top: 40px;
+        }
       }
       .list01 {
         margin: 30px auto 60px;
@@ -329,8 +332,24 @@
       .img-tit {
         font-size: 22px;
       }
+      .images {
+        position: relative;
+        .leaflet-overlay-pane,.leaflet-popup-pane{
+          position: absolute;
+          top: 0;
+        }
+        .leaflet-container img.leaflet-image-layer{
+          transform: translate3d(0px, 0px, 0px) !important;
+        }
+        .leaflet-left{
+          top:0;
+        }
+        .viewport{
+          height: 140% !important;
+        }
+      }
       .list02 {
-        margin: 20px 0 40px;
+        margin: 60px 0 40px;
         li {
           display: block;
           width: 100%;
@@ -405,21 +424,24 @@
           }
         } //list05
         .shops {
-          padding: 10px 20px 0;
+          padding: 10px 10px 0;
           box-sizing: border-box;
           .shop {
-            font-size: 14px;
-            padding-left: 10px;
+            font-size: 12px;
+            padding-left: 5px;
           }
         } //shops
         li:last-child .shops {
-          padding: 0 20px;
+          padding: 0 10px;
         }
       } //bg
     } //area03
     .area04 {
       padding-top: 60px;
       margin-bottom: 0;
+      .lead{
+        margin-top: 40px;
+      }
       .list06 {
         margin: 40px auto;
         li {

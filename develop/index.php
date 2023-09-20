@@ -23,13 +23,13 @@
   <figure><img src="./images/top/mv01.jpg" alt="" class="w_100 pc"><p class="annotation white">航空写真</p></figure>
   <figure><img src="./images/top/mv02.jpg" alt="" class="w_100 pc"><p class="annotation white">外観完成予想図</p></figure>
   </div><!--//top-mv -->
-  <div class="top-mv__slide sp">
-  <figure><img src="./images/top/mv01-sp.jpg" alt="" class="w_100 sp"><p class="annotation white">航空写真</p></figure>
-  <figure><img src="./images/top/mv02-sp.jpg" alt="" class="w_100 sp"><p class="annotation white">外観完成予想図</p></figure>
+  <div class="top-mv__slide sp tb">
+  <figure><img src="./images/top/mv01-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">航空写真</p></figure>
+  <figure><img src="./images/top/mv02-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">外観完成予想図</p></figure>
   </div><!--//top-mv -->
 
 
-  <p class="top-txt">地上20階建て・全175邸の<br class="sp">大規模レジデンス</p>
+  <p class="top-txt">地上20階建て・全175邸<span class="pc">の大規模レジデンス</span></p>
 
   <div class="points">
     <ul class="lists wrap">

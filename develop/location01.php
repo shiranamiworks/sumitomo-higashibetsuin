@@ -5,13 +5,13 @@
   "gnav_set" => "location",
   "page_class" => "location01",
   "url" => "location01.html",
-  "title" => "進化する都心エリア｜ロケーション｜",
-  "keywords" => "ロケーション",
-  "description" => "進化する都心エリア｜ロケーションページ。",
+  "title" => "進化する都心エリア｜",
+  "keywords" => "進化する都心エリア,",
+  "description" => "進化する都心エリアページ。",
   "add_stylesheet" => ["css/location.css","css/location01.css"],
   "add_script" =>  [],
     
-  "logo_text" => "ロケーション｜"
+  "logo_text" => "進化する都心エリア｜"
 );
 ?>
 
@@ -44,9 +44,10 @@
       <p class="lead">著しい進化と発展を続ける<br class="pc">3大都心エリアの魅力を享受。</p>
       <p class="text">リニア中央新幹線の開通を軸として、日本の3大経済圏の一体化を図るスーパー・メガリージョン構想。その主要駅である「名古屋」駅をはじめ、「栄」駅、「金山」駅周辺では、都心のポテンシャルをさらに高める数々の再開発計画が進行中。<br>この3大都心エリアをライフステージに、より豊かで快適な未来がここにはじまります。 </p>
     </div>
-      <div class="image img01">
-        <img src="./images/location01/intro.jpg" alt="">
-        <p class="annotation white">航空写真1</p>
+      <div class="images image01">
+        <figure class="pc"><img src="./images/location01/intro.jpg" class="sp-hide" alt="航空写真1"></figure>
+        <figure class="tb"><img src="./images/location01/intro.jpg" class="zoomImg tb" alt=""/></figure>
+        <p class="annotation wh">航空写真1</p>
       </div>
     <div class="inner">
       <p class="mini">※掲載の航空写真1は「国土地理院ウェブサイト（https://mapps.gsi.go.jp/maplibSearch.do#1）」より引用（2023年7月現在）したものを基に現地部分の光などCG合成・加工をしたものです。また、周辺環境は将来変わる場合があります。<br>※1.リニア中央新幹線（品川・名古屋間：2027年開業予定、品川・大阪間：2045年開業予定※一部区間の工事遅延により遅れる見通しがあります）、出典：国土交通省ホームページ、JR東海ホームページ（2023年7月現在）<br>※2.久屋大通公園（北エリア・テレビ塔エリア）整備運営事業、2038年2月末事業終了予定、出典：名古屋市 住宅都市局 都心まちづくり課（2021年3月30日現在）<br>※3.(仮称)錦三丁目25番街区計画、2026年夏頃開業予定、出典：三菱地所株式会社（2022年6月13日現在）<br>※4.中日ビル建て替え計画、（2024年春グランドオープン予定、出典：中部日本ビルディング株式会社、株式会社中日新聞社プレスリリースより（2023年4月25日）</p>
@@ -59,7 +60,7 @@
     <div class="title"><img src="./images/location01/area01-01.svg" alt="" class="pc"><img src="./images/location01/area01-01-sp.svg" alt="" class="sp"></div>
     <div class="inner">
       <p class="text">未来を拓くターミナルシティへと飛躍する名駅エリア。</p>
-      <p class="lead">モダンな高層ビルが建ち並ぶドラマチックな景観が印象的な「名古屋」駅周辺。リニア中央新幹線開業に伴う経済圏の拡大、<br class="pc">国際的な都心拠点にふさわしい街づくりを目指し、さらなる開発が進行中です。</p>
+      <p class="lead pc">モダンな高層ビルが建ち並ぶドラマチックな景観が印象的な「名古屋」駅周辺。リニア中央新幹線開業に伴う経済圏の拡大、<br class="pc">国際的な都心拠点にふさわしい街づくりを目指し、さらなる開発が進行中です。</p>
     </div><!-- inner -->
     <div class="image">
       <img src="./images/location01/area01-02.jpg" alt="" class="pc">
@@ -67,6 +68,7 @@
       <p class="annotation white">image photo</p>
     </div>
     <div class="inner">
+    <p class="lead sp">モダンな高層ビルが建ち並ぶドラマチックな景観が印象的な「名古屋」駅周辺。リニア中央新幹線開業に伴う経済圏の拡大、<br class="pc">国際的な都心拠点にふさわしい街づくりを目指し、さらなる開発が進行中です。</p>
       <ul class="list01">
         <li>
           <div class="image">
@@ -98,8 +100,9 @@
         </li>
       </ul>
       <p class="img-tit">リニア中央新幹線開通で、東京・大阪への移動がよりスピーディーで快適に。</p>
-      <div class="image">
-        <img src="./images/location01/area01-07.jpg" alt="">
+      <div class="images">
+        <figure class="pc"><img src="./images/location01/area01-07.jpg" class="sp-hide" alt=""></figure>
+        <figure class="tb"><img src="./images/location01/area01-07.jpg" class="zoomImg tb" alt=""/></figure>
       </div>
       <ul class="list02">
         <li>
@@ -128,7 +131,7 @@
     <div class="title"><img src="./images/location01/area02-01.svg" alt="" class="pc"><img src="./images/location01/area02-01-sp.svg" alt="" class="sp"></div>
     <div class="inner">
       <p class="text">魅了しつづける都心。名古屋随一の商業都市「栄」。</p>
-      <p class="lead">テレビ塔、オアシス21、久屋大通公園をランドマークに、デパートから最新のファッションビル、海外ブランドの店など多彩な施設が集まる名古屋最大の繁華街「栄」。“最高の時間と居心地を提供”を基本コンセプトに掲げる「栄地区グランドビジョン」に基づき、更に魅力的な街へと進化を続けています。<br><span>※「栄地区グランドビジョン」出典：名古屋市ホームページより（2023年6月現在）。</span></p>
+      <p class="lead pc">テレビ塔、オアシス21、久屋大通公園をランドマークに、デパートから最新のファッションビル、海外ブランドの店など多彩な施設が集まる名古屋最大の繁華街「栄」。“最高の時間と居心地を提供”を基本コンセプトに掲げる「栄地区グランドビジョン」に基づき、更に魅力的な街へと進化を続けています。<br><span>※「栄地区グランドビジョン」出典：名古屋市ホームページより（2023年6月現在）。</span></p>
     </div><!-- inner -->
     <div class="image">
       <img src="./images/location01/area02-02.jpg" alt="" class="pc">
@@ -136,6 +139,7 @@
       <p class="annotation">image photo</p>
     </div>
     <div class="inner">
+      <p class="lead sp">テレビ塔、オアシス21、久屋大通公園をランドマークに、デパートから最新のファッションビル、海外ブランドの店など多彩な施設が集まる名古屋最大の繁華街「栄」。“最高の時間と居心地を提供”を基本コンセプトに掲げる「栄地区グランドビジョン」に基づき、更に魅力的な街へと進化を続けています。<br><span>※「栄地区グランドビジョン」出典：名古屋市ホームページより（2023年6月現在）。</span></p>
       <ul class="list01">
         <li>
           <div class="image">
@@ -204,7 +208,7 @@
     <div class="title"><img src="./images/location01/area03-01.svg" alt="" class="pc"><img src="./images/location01/area03-01-sp.svg" alt="" class="sp"></div>
     <div class="inner">
       <p class="text">交通拠点から交流拠点へ。さらに進化する次世代ターミナル「金山」。</p>
-      <p class="lead">JR東海道本線・中央本線、名鉄名古屋本線、地下鉄名城線・名港線の5路線が行き交う、市内有数のビッグターミナル「金山」駅。この特徴を基に当エリアでは「金山駅周辺まちづくり構想」を計画。交通要所としての回遊性・交流性を向上させながら商業・ビジネスなどの都市機能の充実を図っています。また名古屋市音楽プラザ、名古屋都市センターなどの文化芸術や創造拠点との連携によって、より賑わいあふれる街の形成を目指しています。</p>
+      <p class="lead pc">JR東海道本線・中央本線、名鉄名古屋本線、地下鉄名城線・名港線の5路線が行き交う、市内有数のビッグターミナル「金山」駅。この特徴を基に当エリアでは「金山駅周辺まちづくり構想」を計画。交通要所としての回遊性・交流性を向上させながら商業・ビジネスなどの都市機能の充実を図っています。また名古屋市音楽プラザ、名古屋都市センターなどの文化芸術や創造拠点との連携によって、より賑わいあふれる街の形成を目指しています。</p>
     </div><!-- inner -->
     <div class="image">
       <img src="./images/location01/area03-02.jpg" alt="" class="pc">
@@ -212,6 +216,7 @@
       <p class="annotation white">image photo</p>
     </div>
     <div class="inner">
+      <p class="lead sp">JR東海道本線・中央本線、名鉄名古屋本線、地下鉄名城線・名港線の5路線が行き交う、市内有数のビッグターミナル「金山」駅。この特徴を基に当エリアでは「金山駅周辺まちづくり構想」を計画。交通要所としての回遊性・交流性を向上させながら商業・ビジネスなどの都市機能の充実を図っています。また名古屋市音楽プラザ、名古屋都市センターなどの文化芸術や創造拠点との連携によって、より賑わいあふれる街の形成を目指しています。</p>
       <div class="image top">
         <img src="./images/location01/area03-03.jpg" alt="" class="pc">
         <img src="./images/location01/area03-03-sp.jpg" alt="" class="sp">
@@ -284,11 +289,11 @@
               <div class="image">
                 <img src="./images/location01/area03-12.png" alt="">
               </div>
-              <p class="shop">SUBWAY<br class="sp">［サンドイッチ］<br>ALOHA TABLE<br class="sp">［ハワイアン・カフェ＆ダイナー］<br>ロンフーダイニング<br class="sp">［麻婆豆腐、チャーハン、担々麺］<br>成城石井<br class="sp">［クオリティスーパーマーケット］<br>baguette rabbit<br class="sp">［ベーカリー］<br>ほか</p>
+              <p class="shop">SUBWAY［サンドイッチ］<br>ALOHA TABLE<br class="sp">［ハワイアン・カフェ＆ダイナー］<br>ロンフーダイニング<br class="sp">［麻婆豆腐、チャーハン、担々麺］<br>成城石井<br class="sp">［クオリティスーパーマーケット］<br>baguette rabbit［ベーカリー］<br>ほか</p>
               <div class="image">
                 <img src="./images/location01/area03-13.png" alt="">
               </div>
-              <p class="shop">新星堂<br class="sp">［CDショップ］<br>整体・骨盤カラダファクトリー<br>［整体・骨盤調整・もみほぐし］<br>丸善<br class="sp">［本・文具］<br>ジョイフル恵利<br class="sp">［着物レンタル・販売］<br>ラフィネ<br class="sp">［リラクゼーションスペース］<br>ほか</p>
+              <p class="shop">新星堂［CDショップ］<br>整体・骨盤カラダファクトリー<br>［整体・骨盤調整・もみほぐし］<br>丸善［本・文具］<br>ジョイフル恵利［着物レンタル・販売］<br>ラフィネ［リラクゼーションスペース］<br>ほか</p>
             </div>
           </li>
         </ul>
@@ -301,14 +306,24 @@
 
   <section class="areas area04 clearfix">
     <div class="title"><img src="./images/location01/area04-01.svg" alt="" class="pc"><img src="./images/location01/area04-01-sp.svg" alt="" class="sp"></div>
-    <div class="inner">
+    <div class="inner pc">
       <p class="text">名古屋の中枢を担う機能が集約した中区。</p>
       <p class="lead">愛知県庁・名古屋市役所などの行政機関や、栄・伏見・丸の内といったビジネス街が集中する中区は、西側の土地に比べて標高が高く安定した地盤であることから、徳川家康が名古屋城と城下町を築いた地と言われています。ここに形成された武家屋敷や神社・仏閣、町人の町などが現代の中区の基盤となって以来、名古屋市の中心地として発展を重ねています。</p>
     </div><!-- inner -->
-    <div class="image">
+    <div class="image pc">
       <img src="./images/location01/area04-02.jpg" alt="">
       <p class="annotation white">image photo</p>
     </div>
+    <div class="inner sp">
+      <p class="text">名古屋の中枢を担う機能が集約した中区。</p>
+    </div><!-- inner -->
+    <div class="image sp">
+      <img src="./images/location01/area04-02.jpg" alt="">
+      <p class="annotation white">image photo</p>
+    </div>
+    <div class="inner sp">
+      <p class="lead">愛知県庁・名古屋市役所などの行政機関や、栄・伏見・丸の内といったビジネス街が集中する中区は、西側の土地に比べて標高が高く安定した地盤であることから、徳川家康が名古屋城と城下町を築いた地と言われています。ここに形成された武家屋敷や神社・仏閣、町人の町などが現代の中区の基盤となって以来、名古屋市の中心地として発展を重ねています。</p>
+    </div><!-- inner -->
     <div class="inner">
       <ul class="list06">
         <li>
@@ -333,12 +348,13 @@
       </ul>
       <ul class="list07">
         <li>
+        <p class="text sp">名古屋城と城下町の入口となった<br class="pc">歴史を持つ橘二丁目付近</p>
           <div class="image">
             <img src="./images/location01/area04-06.jpg" alt="">
           </div>
         </li>
         <li>
-          <p class="text">名古屋城と城下町の入口となった<br class="pc">歴史を持つ橘二丁目付近</p>
+          <p class="text pc">名古屋城と城下町の入口となった<br class="pc">歴史を持つ橘二丁目付近</p>
           <p class="lead">本計画が面する下街道は、江戸時代、城下町を経て名古屋城へ真っ直ぐと繋がる目抜き通りでした。名古屋の城下には治安や防衛のため、主要な街道の入口に「大木戸」が設けられており、本計画の目前は「橘町大木戸」のあったメモリアルな場所。城下への入り口を記念して、大木戸の柱をイメージした街路灯と案内板が設置されています。</p>
           <p class="mini">※「名古屋城下図（江戸時代後期）デジタルリメイク」出典：Network2010</p>
       </ul>

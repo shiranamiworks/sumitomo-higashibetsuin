@@ -3,14 +3,14 @@
   "directory_pos" => "./",
   "page_id" => "sitemap",
   "gnav_set" => "sitemap",
-  "page_class" => "",
+  "page_class" =>"sitemap",
   "url" => "sitemap.html",
-  "title" => "サイトマップ",
-  "keywords" => "サイトマップ",
+  "title" => "サイトマップ?",
+  "keywords" => "サイトマップ,",
   "description" => "サイトマップページ。",
   "add_stylesheet" => ["css/sitemap.css"], 
   
-  "logo_text" => "すみふ東別院｜"
+  "logo_text" => "サイトマップ｜"
 );
 ?>
 

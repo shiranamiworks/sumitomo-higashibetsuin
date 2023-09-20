@@ -17,7 +17,7 @@ $site_setting = array(
 $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 ?>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="keywords" content="<?= $page_settings["keywords"] ?>,ƒVƒeƒBƒ^ƒ[“Œ•Ê‰@,“Œ•Ê‰@ ƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@ V’zƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@,“Œ•Ê‰@‰w,’n‰º“S–¼éü,–¼ŒÃ‰®Žs’†‹æ,ƒ}ƒ“ƒVƒ‡ƒ“,V’zƒ}ƒ“ƒVƒ‡ƒ“,•ª÷ƒ}ƒ“ƒVƒ‡ƒ“,Z—F•s“®ŽY">
+<meta name="keywords" content="<?= $page_settings["keywords"] ?>ƒVƒeƒBƒ^ƒ[“Œ•Ê‰@,“Œ•Ê‰@ ƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@ V’zƒ}ƒ“ƒVƒ‡ƒ“,“Œ•Ê‰@,“Œ•Ê‰@‰w,’n‰º“S–¼éü,–¼ŒÃ‰®Žs’†‹æ,ƒ}ƒ“ƒVƒ‡ƒ“,V’zƒ}ƒ“ƒVƒ‡ƒ“,•ª÷ƒ}ƒ“ƒVƒ‡ƒ“,Z—F•s“®ŽY">
 <meta name="description" content="<?= $page_settings["description"] ?>’n‰º“S–¼éüu“Œ•Ê‰@‰wv‚Ü‚Å“k•à8•ªBZ—F•s“®ŽY‚ÌV’zƒ}ƒ“ƒVƒ‡ƒ“‚ª“Œ•Ê‰@‚É’a¶By‚·‚Ý‚Ó“Œ•Ê‰@z–¼ŒÃ‰®Žs’†‹æ‚Ìƒ}ƒ“ƒVƒ‡ƒ“‚È‚çZ—F•s“®ŽYB">
 
 <meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["page_id"] ?>">
