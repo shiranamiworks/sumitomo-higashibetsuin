@@ -59,9 +59,9 @@
       <div class="footer-recommend__slide" id="recommendSlide">
         <div>
           <div class="cont">
-            <figure><a href="/shuto/tamagawa/" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/bana/img_recommend01.jpg" alt="シティテラス多摩川"></a></figure>
+            <figure><a href="/tokai/tamagawa/" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/bana/img_recommend01.jpg" alt="シティハウス植田"></a></figure>
             <dl>
-              <dt><a href="/shuto/tamagawa/" target="_blank">シティテラス多摩川</a></dt>
+              <dt><a href="/tokai/tamagawa/" target="_blank">シティハウス植田</a></dt>
               <dd>
                 <p>交　通：京王線「調布」駅(東口)/徒歩31分(Ｆ棟)~徒歩35分(Ｂ棟)</p>
                 <p>住　所：東京都調布市染地</p>
@@ -72,9 +72,9 @@
         </div>
         <div>
           <div class="cont">
-            <figure><a href="/shuto/fuchumiyanishicho/" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/bana/img_recommend02.jpg" alt="シティテラス府中"></a></figure>
+            <figure><a href="/tokai/fuchumiyanishicho/" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/bana/img_recommend02.jpg" alt="シティタワー名駅那古野"></a></figure>
             <dl>
-              <dt><a href="/shuto/fuchumiyanishicho/" target="_blank">シティテラス府中</a></dt>
+              <dt><a href="/tokai/fuchumiyanishicho/" target="_blank">シティタワー名駅那古野</a></dt>
               <dd>
                 <p>交　通：京王電鉄京王線「府中」駅まで徒歩4分</p>
                 <p>住　所：東京都府中市宮西町</p>
@@ -85,9 +85,61 @@
         </div>
         <div>
           <div class="cont">
-            <figure><a href="/shuto/fuchuhachimancho/" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/bana/img_recommend03.jpg" alt="シティテラス府中"></a></figure>
+            <figure><a href="/tokai/fuchuhachimancho/" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/bana/img_recommend03.jpg" alt="シティハウス高岳レジデンス"></a></figure>
             <dl>
-              <dt><a href="/shuto/fuchuhachimancho/" target="_blank">シティハウス府中八幡町</a></dt>
+              <dt><a href="/tokai/fuchuhachimancho/" target="_blank">シティハウス高岳レジデンス</a></dt>
+              <dd>
+                <p>交　通：京王電鉄京王線「府中」駅まで徒歩4分</p>
+                <p>住　所：東京都府中市八幡町</p>
+                <p>総戸数：57戸［その他店舗1区画含む］</p>
+              </dd>
+            </dl>
+          </div>
+        </div>
+        <div>
+          <div class="cont">
+            <figure><a href="/tokai/tamagawa/" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/bana/img_recommend04.jpg" alt="シティタワー葵"></a></figure>
+            <dl>
+              <dt><a href="/tokai/tamagawa/" target="_blank">シティタワー葵</a></dt>
+              <dd>
+                <p>交　通：京王線「調布」駅(東口)/徒歩31分(Ｆ棟)~徒歩35分(Ｂ棟)</p>
+                <p>住　所：東京都調布市染地</p>
+                <p>総戸数：905戸［非分譲住戸245戸含む］</p>
+              </dd>
+            </dl>
+          </div>
+        </div>
+        <div>
+          <div class="cont">
+            <figure><a href="/tokai/fuchumiyanishicho/" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/bana/img_recommend05.jpg" alt="シティタワー丸の内"></a></figure>
+            <dl>
+              <dt><a href="/tokai/fuchumiyanishicho/" target="_blank">シティタワー丸の内</a></dt>
+              <dd>
+                <p>交　通：京王電鉄京王線「府中」駅まで徒歩4分</p>
+                <p>住　所：東京都府中市宮西町</p>
+                <p>総戸数：122戸［その他店舗1区画含む］</p>
+              </dd>
+            </dl>
+          </div>
+        </div>
+        <div>
+          <div class="cont">
+            <figure><a href="/tokai/fuchuhachimancho/" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/bana/img_recommend06.jpg" alt="メガシティテラス"></a></figure>
+            <dl>
+              <dt><a href="/tokai/fuchuhachimancho/" target="_blank">メガシティテラス</a></dt>
+              <dd>
+                <p>交　通：京王電鉄京王線「府中」駅まで徒歩4分</p>
+                <p>住　所：東京都府中市八幡町</p>
+                <p>総戸数：57戸［その他店舗1区画含む］</p>
+              </dd>
+            </dl>
+          </div>
+        </div>
+        <div>
+          <div class="cont">
+            <figure><a href="/tokai/fuchuhachimancho/" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/bana/img_recommend07.jpg" alt="メガシティテラスⅡ街区"></a></figure>
+            <dl>
+              <dt><a href="/tokai/fuchuhachimancho/" target="_blank">メガシティテラスⅡ街区</a></dt>
               <dd>
                 <p>交　通：京王電鉄京王線「府中」駅まで徒歩4分</p>
                 <p>住　所：東京都府中市八幡町</p>
