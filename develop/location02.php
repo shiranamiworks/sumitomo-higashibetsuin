@@ -10,7 +10,7 @@
   "description" => "—ðŽj‚ ‚éŠi’²‚Ì’nƒy[ƒWB",
   "add_stylesheet" => ["css/location.css","css/location02.css"],
   "add_script" =>  [],
-    
+  "canonical_page_id" => "location",  
   "logo_text" => "—ðŽj‚ ‚éŠi’²‚Ì’nb"
 );
 ?>

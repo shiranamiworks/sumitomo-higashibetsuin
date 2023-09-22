@@ -10,7 +10,7 @@
   "description" => "",
   "add_stylesheet" => ["css/top.css"],
   "add_script" =>  ["js/top.js"],
-  
+  "canonical_page_id" => "",
   "logo_text" => ""
 );
 ?>

@@ -10,7 +10,7 @@
   "description" => "Œ»’nˆÄ“à}ƒy[ƒWB",
   "add_stylesheet" => ["css/map.css"],
   "add_script" =>  ["js/map.js"],
-    
+  "canonical_page_id" => "map",  
   "logo_text" => "Œ»’nˆÄ“à}b"
 );
 ?>

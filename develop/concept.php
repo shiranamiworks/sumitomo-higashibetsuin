@@ -10,7 +10,7 @@
   "description" => "コンセプトページ。",
   "add_stylesheet" => ["css/concept.css"],
   "add_script" =>  [],
-  
+  "canonical_page_id" => "concept", 
   "logo_text" => "コンセプト｜"
 );
 ?>

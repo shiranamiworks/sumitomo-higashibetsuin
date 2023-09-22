@@ -10,7 +10,7 @@
   "description" => "アクセスページ。",
   "add_stylesheet" => ["css/access.css","css/leaflet.css"],
   "add_script" =>  [],
-    
+  "canonical_page_id" => "access", 
   "logo_text" => "アクセス｜"
 );
 ?>

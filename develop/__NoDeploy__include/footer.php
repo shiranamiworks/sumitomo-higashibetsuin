@@ -220,8 +220,8 @@
       <a href="javascript:siryo()" class="fixed-btn__mail">
         <p><img src="<?= $page_settings["directory_pos"]  ?>images/common/icn_mail.png" alt="資料請求"><br>資料請求</p>
       </a>
-      <a href="javascript:online()" class="fixed-btn__reserve none">
-        <p><img src="<?= $page_settings["directory_pos"]  ?>images/common/icn_reserve.png" alt="見学会予約"><br>見学会予約</p>
+      <div href="javascript:online()" class="fixed-btn__online">
+        <p><img src="<?= $page_settings["directory_pos"]  ?>images/common/icn_btn02.png" alt="オンライン見学会予約"><br>オンライン<br>見学会予約</div>
       </a>
       <div id="sp-menu-btn-ft" class="hamburger">
         <div class="hamburger-wrapper">

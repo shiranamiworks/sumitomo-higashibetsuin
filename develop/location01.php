@@ -10,7 +10,7 @@
   "description" => "進化する都心エリアページ。",
   "add_stylesheet" => ["css/location.css","css/location01.css"],
   "add_script" =>  [],
-    
+  "canonical_page_id" => "location", 
   "logo_text" => "進化する都心エリア｜"
 );
 ?>

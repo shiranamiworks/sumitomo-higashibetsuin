@@ -882,7 +882,7 @@ div.header-btn.bg_btn {
     display: block;
     width: 100%;
     height: 100vh;
-    padding: 100px 0 20vw;
+    padding: 70px 0 20vw;
     background-color: rgba(255, 255, 255, 1);
     z-index: 5;
     overflow-y: scroll;
@@ -1345,6 +1345,21 @@ div.header-btn.bg_btn {
   .fixed-btn a.fixed-btn__mail {
     color: #fff;
     background-color: #c59b57;
+  }
+  .fixed-btn .fixed-btn__online {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 20vw;
+    text-align: center;
+    font-size: 3.2vw;
+    color: #fff;
+    background-color: #999;
+  }
+  .fixed-btn a.fixed-btn__online {
+    color: #fff;
+    background-color: #999;
   }
   .fixed-btn div img,
   .fixed-btn a img {

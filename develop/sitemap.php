@@ -9,7 +9,7 @@
   "keywords" => "サイトマップ,",
   "description" => "サイトマップページ。",
   "add_stylesheet" => ["css/sitemap.css"], 
-  
+  "canonical_page_id" => "sitemap", 
   "logo_text" => "サイトマップ｜"
 );
 ?>

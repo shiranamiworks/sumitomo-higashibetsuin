@@ -20,16 +20,15 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 <meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー東別院,東別院 マンション,東別院 新築マンション,東別院,東別院駅,地下鉄名城線,名古屋市中区,マンション,新築マンション,分譲マンション,住友不動産">
 <meta name="description" content="<?= $page_settings["description"] ?>地下鉄名城線「東別院駅」まで徒歩8分。住友不動産の新築マンションが東別院に誕生。【すみふ東別院】名古屋市中区のマンションなら住友不動産。">
 
-<meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["page_id"] ?>">
+<meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <meta property="og:type" content="article">
 <meta property="og:title" content="<?= $page_settings["title"] ?>【公式】シティタワー東別院｜東別院の新築マンション｜住友不動産">
 <meta property="og:description" content="<?= $page_settings["description"] ?>地下鉄名城線「東別院駅」まで徒歩8分。住友不動産の新築マンションが東別院に誕生。【すみふ東別院】名古屋市中区のマンションなら住友不動産。">
-<meta property="og:site_name" content="【公式】シティタワー東別院">
+<meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】シティタワー東別院｜東別院の新築マンション｜住友不動産">
 <meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogp.jpg" />
 
-
-<link rel="canonical" href="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["page_id"] ?>">
-<link rel="icon" href="<?= $page_settings["directory_pos"]  ?>/images/favicon.ico" alt="" id="favicon">
+<link rel="canonical" href="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
+<link rel="icon" href="<?= $page_settings["directory_pos"]  ?>images/favicon.ico" alt="" id="favicon">
 
 <title><?= $page_settings["title"] ?>【公式】シティタワー東別院｜東別院の新築マンション｜住友不動産</title>
 
@@ -82,8 +81,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
     </h1><!-- header-logo -->
     <div class="header-right d-flex">
       <!-- <div class="header-btn bg_btn"><p>来場予約</p></div> -->
-        <div class="header-btn bg_btn"><p>オンライン<br>見学会予約</p></div>
-        <!-- <a href="javascript:online();" class="header-btn bg_btn"><p>オンライン<br>見学会予約</p></a> -->
+        <p href="javascript:online();" class="header-btn bg_btn--gray">オンライン<br>見学会予約</p>
         <!-- <a href="javascript:delivery();" class="header-btn bg_btn"><p>出前deオンライン<br>見学会予約 </p></a> -->
         <a href="javascript:siryo();" class="header-btn header-btn--request bg_btn--request"><p>資料請求</p></a>
         <div id="sp-menu-btn" class="hamburger">
