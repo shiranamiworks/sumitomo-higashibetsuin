@@ -53,12 +53,12 @@
   padding: 140px 0 0;
 }
 #access .intro .lead {
-  font-size: 64px;
+  font-size: 30px;
   line-height: 1.6;
   margin-bottom: 30px;
 }
 #access .intro .text {
-  font-size: 24px;
+  font-size: 18px;
   line-height: 2;
   margin-bottom: 140px;
 }
@@ -88,37 +88,37 @@
   margin-bottom: 30px;
 }
 #access .station .lists .tit-box .line {
-  font-size: 22px;
+  font-size: 18px;
 }
 #access .station .lists .tit-box .min {
-  font-size: 32px;
+  font-size: 30px;
 }
 #access .station .lists .tit-box .min .name {
-  font-size: 42px;
+  font-size: 30px;
 }
 #access .station .lists .tit-box .min .num {
-  font-size: 60px;
+  font-size: 42px;
   color: #a2a383;
 }
 #access .station .lists .info-box {
   margin-top: 10px;
 }
 #access .station .lists .info-box .min {
-  font-size: 38px;
+  font-size: 30px;
   margin-bottom: 10px;
 }
 #access .station .lists .info-box .min .name {
-  font-size: 48px;
+  font-size: 30px;
 }
 #access .station .lists .info-box .min .big {
-  font-size: 60px;
+  font-size: 42px;
   color: #a2a383;
 }
 #access .station .lists .info-box .min .mini {
-  font-size: 24px;
+  font-size: 18px;
 }
 #access .station .lists .info-box .sub {
-  font-size: 34px;
+  font-size: 30px;
   text-align: right;
   display: flex;
   align-items: center;
@@ -134,12 +134,12 @@
   margin-right: 15px;
 }
 #access .station .lists .info-box .sub .big {
-  font-size: 60px;
+  font-size: 42px;
   color: #a2a383;
   display: contents;
 }
 #access .station .lists .info-box .sub .mini {
-  font-size: 20px;
+  font-size: 18px;
   display: contents;
 }
 #access .station .lists .info-box .sen {
@@ -162,7 +162,7 @@
   margin-right: auto;
 }
 #access .station .airport .tit01 {
-  font-size: 32px;
+  font-size: 30px;
   line-height: 1.6;
   padding-bottom: 6px;
   border-bottom: 1px solid;
@@ -178,26 +178,26 @@
   line-height: 1.3;
 }
 #access .station .airport .lists .info-box .min .mini {
-  font-size: 20px;
+  font-size: 18px;
 }
 #access .station .airport .lists .info-box .sub {
-  font-size: 38px;
+  font-size: 30px;
 }
 #access .station .airport .lists .info-box .sub .big {
-  font-size: 70px;
+  font-size: 42px;
 }
 #access .station .airport .lists .info-box .sub .mini {
-  font-size: 24px;
+  font-size: 18px;
 }
 #access .station .airport .caps {
-  font-size: 12px;
+  font-size: 10px;
   line-height: 1.6;
 }
 #access .taxi {
   margin-bottom: 140px;
 }
 #access .taxi .tit01 {
-  font-size: 32px;
+  font-size: 30px;
   line-height: 1.6;
   margin: 30px 0 20px;
 }
@@ -207,7 +207,7 @@
   margin-bottom: 80px;
 }
 #access .taxi .tit03 {
-  font-size: 22px;
+  font-size: 18px;
   line-height: 1.6;
   padding-bottom: 10px;
   border-bottom: 1px solid;
@@ -227,21 +227,21 @@
 }
 #access .taxi .name {
   text-align: center;
-  font-size: 24px;
+  font-size: 18px;
   margin: 20px auto;
 }
 #access .taxi .name span {
-  font-size: 36px;
+  font-size: 30px;
 }
 #access .taxi .caps {
-  font-size: 12px;
+  font-size: 10px;
   line-height: 1.6;
 }
 #access .car {
   margin-bottom: 140px;
 }
 #access .car .tit01 {
-  font-size: 32px;
+  font-size: 30px;
   line-height: 1.6;
   margin: 30px 0 20px;
 }
@@ -251,14 +251,14 @@
   margin-bottom: 80px;
 }
 #access .car .tit03 {
-  font-size: 22px;
+  font-size: 18px;
   line-height: 1.6;
   padding-bottom: 10px;
   border-bottom: 1px solid;
   margin-bottom: 20px;
 }
 #access .car .tit03 span {
-  font-size: 40px;
+  font-size: 30px;
 }
 #access .car ul {
   margin-bottom: 20px;
@@ -276,15 +276,15 @@
   margin-top: 10px;
 }
 #access .car .info-box .min {
-  font-size: 38px;
+  font-size: 30px;
   line-height: 1.3;
   margin-bottom: 10px;
 }
 #access .car .info-box .min .mini {
-  font-size: 24px;
+  font-size: 18px;
 }
 #access .car .info-box .sub {
-  font-size: 34px;
+  font-size: 30px;
   text-align: right;
   display: flex;
   align-items: center;
@@ -300,16 +300,16 @@
   margin-right: 15px;
 }
 #access .car .info-box .sub .big {
-  font-size: 60px;
+  font-size: 42px;
   color: #a2a383;
   display: contents;
 }
 #access .car .info-box .sub .mini {
-  font-size: 20px;
+  font-size: 18px;
   display: contents;
 }
 #access .car .caps {
-  font-size: 12px;
+  font-size: 10px;
   line-height: 1.6;
 }
 @media screen and (max-width: 768px) {
@@ -326,11 +326,11 @@
     padding: 60px 0 0;
   }
   #access .intro .lead {
-    font-size: 28px;
+    font-size: 22px;
     margin-bottom: 20px;
   }
   #access .intro .text {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 60px;
   }
   #access .intro .image01 {
@@ -355,7 +355,7 @@
     font-size: 16px;
   }
   #access .station .lists .tit-box .min {
-    font-size: 16px;
+    font-size: 18px;
   }
   #access .station .lists .tit-box .min .name {
     font-size: 24px;
@@ -379,10 +379,10 @@
     font-size: 12px;
   }
   #access .station .lists .info-box .sub {
-    font-size: 24px;
+    font-size: 22px;
   }
   #access .station .lists .info-box .sub .big {
-    font-size: 50px;
+    font-size: 42px;
   }
   #access .station .lists .info-box .sub .mini {
     font-size: 16px;
@@ -405,36 +405,36 @@
     margin-bottom: auto;
   }
   #access .station .airport .tit01 {
-    font-size: 24px;
+    font-size: 22px;
   }
   #access .station .airport .tit02 {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.6;
     margin-bottom: 20px;
   }
   #access .station .airport .lists .info-box .min {
-    font-size: 28px;
+    font-size: 22px;
   }
   #access .station .airport .lists .info-box .min .mini {
-    font-size: 18px;
+    font-size: 16px;
   }
   #access .station .airport .lists .info-box .sub {
-    font-size: 24px;
+    font-size: 22px;
   }
   #access .station .airport .lists .info-box .sub .big {
-    font-size: 50px;
+    font-size: 42px;
   }
   #access .station .airport .lists .info-box .sub .mini {
-    font-size: 18px;
+    font-size: 16px;
   }
   #access .taxi {
     margin-bottom: 100px;
   }
   #access .taxi .tit01 {
-    font-size: 24px;
+    font-size: 22px;
   }
   #access .taxi .tit02 {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 40px;
   }
   #access .taxi .tit03 {
@@ -452,24 +452,24 @@
     margin-bottom: auto;
   }
   #access .taxi .name {
-    font-size: 18px;
+    font-size: 16px;
     margin: 10px auto;
   }
   #access .taxi .name span {
-    font-size: 26px;
+    font-size: 22px;
   }
   #access .taxi .caps {
-    font-size: 12px;
+    font-size: 10px;
     line-height: 1.6;
   }
   #access .car {
     margin-bottom: 80px;
   }
   #access .car .tit01 {
-    font-size: 24px;
+    font-size: 22px;
   }
   #access .car .tit02 {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 40px;
   }
   #access .car .tit03 {
@@ -493,22 +493,22 @@
     margin-bottom: 30px;
   }
   #access .car .info-box .min {
-    font-size: 26px;
+    font-size: 22px;
   }
   #access .car .info-box .min .mini {
-    font-size: 18px;
+    font-size: 16px;
   }
   #access .car .info-box .sub {
-    font-size: 24px;
+    font-size: 22px;
   }
   #access .car .info-box .sub .big {
     font-size: 50px;
   }
   #access .car .info-box .sub .mini {
-    font-size: 18px;
+    font-size: 16px;
   }
   #access .car .caps {
-    font-size: 12px;
+    font-size: 10px;
     line-height: 1.6;
   }
 }/*# sourceMappingURL=access.css.map */

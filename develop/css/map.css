@@ -179,6 +179,17 @@
   #map * html {
     text-align: center;
   }
+  @page {
+    #map {
+      margin: 0mm 5mm;
+    }
+  }
+  #map body {
+    padding-top: 5mm;
+    width: 210mm;
+    height: 297mm;
+  }
+  #map head .title,
   #map .header-right,
   #map .link-buttons,
   #map .footer .entry .entry-btn,
@@ -186,7 +197,8 @@
   #map .footer .footer-recommend,
   #map .footer .footer-logo,
   #map .footer .footer-wrapper,
-  #map .footer .footer-btn {
+  #map .footer .footer-btn,
+  #map .annotation {
     display: none !important;
   }
   #map head {
@@ -195,34 +207,36 @@
   #map header {
     display: block;
   }
-  #map header .header-wrapper {
-    height: 40px;
+  #map h2.page-title {
+    margin: -4mm 0 0 !important;
+    transform: scale(0.7);
   }
   #map main {
     padding-top: 0 !important;
     margin-bottom: 30px !important;
-    width: 75% !important;
+    width: 90% !important;
     margin: 0 auto !important;
   }
   #map .content-inner {
     position: relative;
   }
-  #map .print-area .page-title {
-    padding-bottom: 15px;
-  }
-  #map .print-area .page-title .font-size400 {
-    font-size: 200%;
+  #map .print-area {
+    width: 100% !important;
   }
   #map .print-area .map-image {
-    margin: -20px auto !important;
+    width: 150mm;
+    text-align: center;
+    margin: auto;
   }
-  #map .print-area .text01 {
-    margin: 0 auto !important;
-    font-size: 22px;
+  #map .print-area #map1 {
+    width: 150mm;
   }
-  #map .print-area .annotation {
-    bottom: -100px !important;
-    padding-top: -20px !important;
+  #map .print-area　.text01 {
+    margin: -2mm auto 0 !important;
+    transform: scale(0.8);
+  }
+  #map .print-area #map1 img {
+    width: 150mm;
   }
   #map .entry {
     padding: 10px 0 !important;

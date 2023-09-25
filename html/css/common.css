@@ -1501,6 +1501,7 @@ div.header-btn.bg_btn {
   pointer-events: none;
   margin-right: 15px;
   opacity: 0.7;
+  color:#999;
 }
 
 .entry-btn--3 a {

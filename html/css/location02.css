@@ -47,12 +47,12 @@
   margin-bottom: 140px;
 }
 .location02 .intro .lead {
-  font-size: 64px;
+  font-size: 30px;
   line-height: 1.6;
   margin-bottom: 30px;
 }
 .location02 .intro .text {
-  font-size: 24px;
+  font-size: 18px;
   line-height: 2;
   margin-bottom: 140px;
 }
@@ -81,7 +81,7 @@
   max-width: 1200px;
 }
 .location02 .areas .text {
-  font-size: 32px;
+  font-size: 30px;
   line-height: 1.6;
   margin: 40px 0;
 }
@@ -103,12 +103,12 @@
   box-sizing: border-box;
 }
 .location02 .areas .bg .texts .txt01 {
-  font-size: 24px;
+  font-size: 30px;
   line-height: 1.5;
   margin-bottom: 10px;
 }
 .location02 .areas .bg .texts .txt02 {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.8;
 }
 .location02 .areas .bg01 {
@@ -184,6 +184,7 @@
   margin-top: 20px;
   background: url(../images/location02/bg01.jpg);
   background-size: cover;
+  padding: 20px 0;
 }
 .location02 .areas .list07 li {
   vertical-align: middle;
@@ -200,7 +201,7 @@
   margin-left: 5%;
 }
 .location02 .areas .mini {
-  font-size: 12px;
+  font-size: 10px;
   line-height: 1.3;
 }
 .location02 .areas .mini.top {
@@ -277,7 +278,7 @@
   margin-bottom: 60px;
 }
 .location02 .life-info .text {
-  font-size: 34px;
+  font-size: 30px;
   line-height: 1.6;
   padding-bottom: 10px;
   border-bottom: 1px solid #bba579;
@@ -432,11 +433,11 @@
     margin-bottom: 60px;
   }
   .location02 .intro .lead {
-    font-size: 28px;
+    font-size: 22px;
     margin-bottom: 20px;
   }
   .location02 .intro .text {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 60px;
   }
   .location02 .intro .img01 {
@@ -454,18 +455,22 @@
     margin-bottom: 60px;
   }
   .location02 .areas .text {
-    font-size: 24px;
+    font-size: 22px;
     line-height: 1.6;
     margin: 20px 0;
   }
   .location02 .areas .lead {
     margin-bottom: 40px;
+    font-size: 16px;
   }
   .location02 .areas .lead01 {
-    font-size: 15px;
+    font-size: 16px;
   }
   .location02 .areas .bg .texts .txt01 {
-    font-size: 21px;
+    font-size: 22px;
+  }
+  .location02 .areas .bg .texts .txt02 {
+    font-size: 16px;
   }
   .location02 .areas .bg01 {
     margin-bottom: 20px;
@@ -611,7 +616,7 @@
   }
   .location02 .life-info .text {
     text-align: left;
-    font-size: 20px;
+    font-size: 22px;
     margin-bottom: 30px;
   }
   .location02 .life-info .change-buttons {

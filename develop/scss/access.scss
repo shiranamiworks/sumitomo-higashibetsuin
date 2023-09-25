@@ -58,12 +58,12 @@
   .intro {
     padding: 140px 0 0;
     .lead {
-      font-size: 64px;
+      font-size: 30px;
       line-height: 1.6;
       margin-bottom: 30px;
     }
     .text {
-      font-size: 24px;
+      font-size: 18px;
       line-height: 2;
       margin-bottom: 140px;
     }
@@ -94,15 +94,15 @@
         padding-bottom: 6px;
         margin-bottom: 30px;
         .line {
-          font-size: 22px;
+          font-size: 18px;
         }
         .min {
-          font-size: 32px;
+          font-size: 30px;
           .name {
-            font-size: 42px;
+            font-size: 30px;
           }
           .num {
-            font-size: 60px;
+            font-size: 42px;
             color: #a2a383;
           }
         }
@@ -110,21 +110,21 @@
       .info-box {
         margin-top: 10px;
         .min {
-          font-size: 38px;
+          font-size: 30px;
           margin-bottom: 10px;
           .name {
-            font-size: 48px;
+            font-size: 30px;
           }
           .big {
-            font-size: 60px;
+            font-size: 42px;
             color: #a2a383;
           }
           .mini {
-            font-size: 24px;
+            font-size: 18px;
           }
         }
         .sub {
-          font-size: 34px;
+          font-size: 30px;
           text-align: right;
           display: flex;
           align-items: center;
@@ -139,12 +139,12 @@
             margin-right: 15px;
           }
           .big {
-            font-size: 60px;
+            font-size: 42px;
             color: #a2a383;
             display: contents;
           }
           .mini {
-            font-size: 20px;
+            font-size: 18px;
             display: contents;
           }
         }
@@ -171,7 +171,7 @@
     } //list02
     .airport {
       .tit01 {
-        font-size: 32px;
+        font-size: 30px;
         line-height: 1.6;
         padding-bottom: 6px;
         border-bottom: 1px solid;
@@ -188,22 +188,22 @@
             font-size: 38px;
             line-height: 1.3;
             .mini {
-              font-size: 20px;
+              font-size: 18px;
             }
           }
           .sub {
-            font-size: 38px;
+            font-size: 30px;
             .big {
-              font-size: 70px;
+              font-size: 42px;
             }
             .mini {
-              font-size: 24px;
+              font-size: 18px;
             }
           }
         } //info-box
       } //lists
       .caps {
-        font-size: 12px;
+        font-size: 10px;
         line-height: 1.6;
       }
     } //airport
@@ -212,7 +212,7 @@
   .taxi {
     margin-bottom: 140px;
     .tit01 {
-      font-size: 32px;
+      font-size: 30px;
       line-height: 1.6;
       margin: 30px 0 20px;
     }
@@ -222,7 +222,7 @@
       margin-bottom: 80px;
     }
     .tit03 {
-      font-size: 22px;
+      font-size: 18px;
       line-height: 1.6;
       padding-bottom: 10px;
       border-bottom: 1px solid;
@@ -242,14 +242,14 @@
     }
     .name {
       text-align: center;
-      font-size: 24px;
+      font-size: 18px;
       margin: 20px auto;
       span {
-        font-size: 36px;
+        font-size: 30px;
       }
     }
     .caps {
-      font-size: 12px;
+      font-size: 10px;
       line-height: 1.6;
     }
   } //taxi
@@ -257,7 +257,7 @@
   .car {
     margin-bottom: 140px;
     .tit01 {
-      font-size: 32px;
+      font-size: 30px;
       line-height: 1.6;
       margin: 30px 0 20px;
     }
@@ -267,13 +267,13 @@
       margin-bottom: 80px;
     }
     .tit03 {
-      font-size: 22px;
+      font-size: 18px;
       line-height: 1.6;
       padding-bottom: 10px;
       border-bottom: 1px solid;
       margin-bottom: 20px;
       span {
-        font-size: 40px;
+        font-size: 30px;
       }
     }
     ul {
@@ -291,15 +291,15 @@
     .info-box {
       margin-top: 10px;
       .min {
-        font-size: 38px;
+        font-size: 30px;
         line-height: 1.3;
         margin-bottom: 10px;
         .mini {
-          font-size: 24px;
+          font-size: 18px;
         }
       }
       .sub {
-        font-size: 34px;
+        font-size: 30px;
         text-align: right;
         display: flex;
         align-items: center;
@@ -314,18 +314,18 @@
           margin-right: 15px;
         }
         .big {
-          font-size: 60px;
+          font-size: 42px;
           color: #a2a383;
           display: contents;
         }
         .mini {
-          font-size: 20px;
+          font-size: 18px;
           display: contents;
         }
       }
     } //info-box
     .caps {
-      font-size: 12px;
+      font-size: 10px;
       line-height: 1.6;
     }
   } //car
@@ -351,11 +351,11 @@
     .intro {
       padding: 60px 0 0;
       .lead {
-        font-size: 28px;
+        font-size: 22px;
         margin-bottom: 20px;
       }
       .text {
-        font-size: 18px;
+        font-size: 16px;
         margin-bottom: 60px;
       }
       .image01 {
@@ -382,7 +382,7 @@
             font-size: 16px;
           }
           .min {
-            font-size: 16px;
+            font-size: 18px;
             .name {
               font-size: 24px;
             }
@@ -408,9 +408,9 @@
             }
           }
           .sub {
-            font-size: 24px;
+            font-size: 22px;
             .big {
-              font-size: 50px;
+              font-size: 42px;
             }
             .mini {
               font-size: 16px;
@@ -439,28 +439,28 @@
       } //list02
       .airport {
         .tit01 {
-          font-size: 24px;
+          font-size: 22px;
         }
         .tit02 {
-          font-size: 18px;
+          font-size: 16px;
           line-height: 1.6;
           margin-bottom: 20px;
         }
         .lists {
           .info-box {
             .min {
-              font-size: 28px;
+              font-size: 22px;
               .mini {
-                font-size: 18px;
+                font-size: 16px;
               }
             }
             .sub {
-              font-size: 24px;
+              font-size: 22px;
               .big {
-                font-size: 50px;
+                font-size: 42px;
               }
               .mini {
-                font-size: 18px;
+                font-size: 16px;
               }
             }
           } //info-box
@@ -471,10 +471,10 @@
     .taxi {
       margin-bottom: 100px;
       .tit01 {
-        font-size: 24px;
+        font-size: 22px;
       }
       .tit02 {
-        font-size: 18px;
+        font-size: 16px;
         margin-bottom: 40px;
       }
       .tit03 {
@@ -492,14 +492,14 @@
         margin-bottom: auto;
       }
       .name {
-        font-size: 18px;
+        font-size: 16px;
         margin: 10px auto;
         span {
-          font-size: 26px;
+          font-size: 22px;
         }
       }
       .caps {
-        font-size: 12px;
+        font-size: 10px;
         line-height: 1.6;
       }
     } //taxi
@@ -507,10 +507,10 @@
     .car {
       margin-bottom: 80px;
       .tit01 {
-        font-size: 24px;
+        font-size: 22px;
       }
       .tit02 {
-        font-size: 18px;
+        font-size: 16px;
         margin-bottom: 40px;
       }
       .tit03 {
@@ -535,23 +535,23 @@
       }
       .info-box {
         .min {
-          font-size: 26px;
+          font-size: 22px;
           .mini {
-            font-size: 18px;
+            font-size: 16px;
           }
         }
         .sub {
-          font-size: 24px;
+          font-size: 22px;
           .big {
             font-size: 50px;
           }
           .mini {
-            font-size: 18px;
+            font-size: 16px;
           }
         }
       } //info-box
       .caps {
-        font-size: 12px;
+        font-size: 10px;
         line-height: 1.6;
       }
     } //car

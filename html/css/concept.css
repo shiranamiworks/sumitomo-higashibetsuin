@@ -61,18 +61,18 @@
   box-sizing: border-box;
 }
 #concept .sections .texts .txt01 {
-  font-size: 46px;
+  font-size: 30px;
   margin-bottom: 30px;
 }
 #concept .sections .texts .txt02 {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 2;
 }
 #concept .intro {
   padding: 140px 0 0;
 }
 #concept .intro .text {
-  font-size: 24px;
+  font-size: 18px;
   line-height: 2;
   margin-bottom: 180px;
 }
@@ -116,12 +116,12 @@
     padding: 10px 20px;
   }
   #concept .sections .texts .txt01 {
-    font-size: 28px;
+    font-size: 22px;
     line-height: 1.6;
     margin-bottom: 20px;
   }
   #concept .sections .texts .txt02 {
-    font-size: 18px;
+    font-size: 16px;
   }
   #concept .intro {
     padding: 60px 0 0;
