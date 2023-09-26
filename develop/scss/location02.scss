@@ -23,6 +23,7 @@
     line-height: 1;
     .image {
       position: relative;
+      line-height: 0;
     }
   }
   sup {
@@ -54,7 +55,7 @@
     padding: 140px 0 0;
     margin-bottom: 140px;
     .lead {
-      font-size: 30px;
+      font-size: 45px;
       line-height: 1.6;
       margin-bottom: 30px;
     }
@@ -110,7 +111,7 @@
         padding: 20px;
         box-sizing: border-box;
         .txt01 {
-          font-size: 30px;
+          font-size: 25px;
           line-height: 1.5;
           margin-bottom: 10px;
         }
@@ -201,11 +202,11 @@
       margin-top: 20px;
       background: url(../images/location02/bg01.jpg);
       background-size: cover;
-      padding: 20px 0;
+      padding: 0;
       li {
         vertical-align: middle;
         display: inline-block;
-        width: 50%;
+        width: 30%;
         .lead {
           color: #604c3f;
           margin-bottom: 20px;
@@ -213,7 +214,7 @@
       }
       li:last-child {
         display: inline-block;
-        width: 38%;
+        width: 63%;
         margin-left: 5%;
       }
     } //list07
@@ -407,7 +408,7 @@
       }
       .name {
         text-align: left;
-        font-size: 18px;
+        font-size: 14px;
         line-height: 1.5;
         margin-top: 10px;
       }
@@ -430,19 +431,19 @@
         }
       }
       .name {
-        font-size: 18px;
+        font-size: 14px;
         line-height: 1.5;
         margin-top: 10px;
       }
       .txt01 {
-        font-size: 20px;
+        font-size: 18px;
         line-height: 1.5;
         padding-bottom: 10px;
         margin-bottom: 10px;
         border-bottom: 1px solid #88b525;
       }
       .txt02 {
-        font-size: 18px;
+        font-size: 14px;
         line-height: 1.8;
         margin-bottom: 20px;
       }
