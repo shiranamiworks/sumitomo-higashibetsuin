@@ -400,7 +400,7 @@
       <div class="tab-inner cond02 clearfix">
         <div class="image map">
           <figure class="pc"><img src="./images/location02/info02-00.png" class="sp-hide" alt="q‹óŽÊ^1"></figure>
-          <figure class="tb"><img src="./images/location02/info02-00.png" class="zoomImg sp" alt=""/></figure>
+          <figure class="tb"><img src="./images/location02/info02-00.png" class="zoomImg2 sp" alt=""/></figure>
         </div>
         <!-- <div class="image map">
           <img src="./images/location02/info02-00.png" alt="">
@@ -409,7 +409,7 @@
       <div class="tab-inner cond03 clearfix">
         <div class="image map">
           <figure class="pc"><img src="./images/location02/info03-00.png" class="sp-hide" alt="q‹óŽÊ^1"></figure>
-          <figure class="tb"><img src="./images/location02/info03-00.png" class="zoomImg sp" alt=""/></figure>
+          <figure class="tb"><img src="./images/location02/info03-00.png" class="zoomImg3 sp" alt=""/></figure>
         </div>
         <!-- <div class="image map">
           <img src="./images/location02/info03-00.png" alt="">
@@ -418,7 +418,7 @@
       <div class="tab-inner cond04 clearfix">
         <div class="image map">
           <figure class="pc"><img src="./images/location02/info04-00.png" class="sp-hide" alt="q‹óŽÊ^1"></figure>
-          <figure class="tb"><img src="./images/location02/info04-00.png" class="zoomImg sp" alt=""/></figure>
+          <figure class="tb"><img src="./images/location02/info04-00.png" class="zoomImg4 sp" alt=""/></figure>
         </div>
         <!-- <div class="image map">
           <img src="./images/location02/info04-00.png" alt="">
@@ -427,7 +427,7 @@
       <div class="tab-inner cond05 clearfix">
         <div class="image map">
           <figure class="pc"><img src="./images/location02/info05-00.png" class="sp-hide" alt="q‹óŽÊ^1"></figure>
-          <figure class="tb"><img src="./images/location02/info05-00.png" class="zoomImg sp" alt=""/></figure>
+          <figure class="tb"><img src="./images/location02/info05-00.png" class="zoomImg5 sp" alt=""/></figure>
         </div>
         <!-- <div class="image map">
           <img src="./images/location02/info05-00.png" alt="">
@@ -602,6 +602,67 @@
     </div><!-- inner -->
   </section><!-- life-info -->
 
+
+  <script>
+;(function($) {
+if($(window).width() < 641){
+ $(window).on("load", function() {
+ var $img = $(".zoomImg").imgViewer2({
+ onReady: function() {
+ this.setZoom(2);
+ this.setZoom(1);
+}
+}
+);
+});
+$(document).on("click", ".button02", function(){
+ var $img = $(".zoomImg2").imgViewer2({
+ onReady: function() {
+ this.setZoom(2);
+ this.setZoom(1);
+}
+}
+);   
+});
+$(document).on("click", ".button03", function(){
+ var $img = $(".zoomImg3").imgViewer2({
+ onReady: function() {
+ this.setZoom(2);
+ this.setZoom(1);
+}
+}
+);   
+});
+$(document).on("click", ".button04", function(){
+ var $img = $(".zoomImg4").imgViewer2({
+ onReady: function() {
+ this.setZoom(2);
+ this.setZoom(1);
+}
+}
+);   
+});
+$(document).on("click", ".button05", function(){
+ var $img = $(".zoomImg5").imgViewer2({
+ onReady: function() {
+ this.setZoom(2);
+ this.setZoom(1);
+}
+}
+);   
+});    
+}
+})(jQuery);
+</script>
+<style>
+.item03 {
+  /*height: 500px;*/
+  margin: 0;
+  overflow: hidden;
+  width: 100%;
+}
+</style>    
+    
 
 
 <div class="annotation-area">
