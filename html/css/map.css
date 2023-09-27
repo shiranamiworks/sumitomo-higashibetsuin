@@ -93,7 +93,7 @@
 }
 
 #GoogleMap {
-  width: 50%;
+  width: 45%;
   background-color: #BBA478;
   color: #fff;
   text-align: center;
@@ -102,7 +102,7 @@
 }
 
 #PrintMap {
-  width: 50%;
+  width: 45%;
   background-color: #B6A793;
   color: #fff;
   text-align: center;
@@ -148,6 +148,7 @@
   text-align: center;
 }
 #map #submaincontainer .zip span {
+  display: block;
   font-size: 16px;
 }
 #map #submaincontainer .container {
