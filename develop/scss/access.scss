@@ -395,6 +395,9 @@
           }
         } //tit-box
         .info-box {
+          .line{
+            margin-bottom: 5px;
+          }
           .min {
             font-size: 16px;
             .name {
@@ -420,6 +423,9 @@
             font-size: 16px;
           }
         } //info-box
+        .image.image01{
+          margin-top: 50px;
+        }
       } //lists
       .list01 {
         li {

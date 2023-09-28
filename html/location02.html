@@ -527,7 +527,7 @@
       <p class="mini top">大須商店街（約630m／徒歩8分）</p>
       <ul class="list07">
         <li>
-          <div class="image">
+          <div class="image pc">
             <img src="./images/location02/area04-05.jpg" alt="">
             <p class="annotation white">image photo</p>
           </div>
@@ -535,7 +535,8 @@
         <li>
           <p class="lead">「大須観音」（約820ｍ/徒歩11分）を中心に、毎月の縁日や季節のお祭り・イベントで賑わう大須の街。一年を通し、様々な楽しみに溢れています。</p>
           <div class="image">
-            <img src="./images/location02/area04-06.png" alt="">
+            <img src="./images/location02/area04-06.png" alt="" class="pc">
+            <img src="./images/location02/area04-06-sp.png" alt="zoomImg" class="sp">
           </div>
           <p class="mini top">※お祭り・イベントなどの開催内容は変更・中止になる場合があります。</p>
           </li>
@@ -822,46 +823,6 @@ $(document).on("click", ".button05", function(){
 }
 </style>    
     
-    
-<!-- タブ切り替え -->    
-<!-- <script>
-$(function() {
-	$('.tab>li').click(function() {
-		var num = $(this).parent().children('li').index(this);
-			$('.tab').each(function(){
-			$('>li',this).removeClass('active').eq(num).addClass('active');
-		});
-		$('.tabcontents-list').hide().eq(num).show();
-	}).first().click();
-	$('.tab-botom>li').click(function() {
-    var speed = 400;
-      var href= $(this).attr("data-url");
-      var target = $(href == "#" || href == "" ? 'html' : href);
-      var position = target.offset().top;
-      $('body,html').animate({scrollTop:position}, speed, 'swing');
-      return false;
-	});
-}); 
-    
-$(function() {
-	$('.tab>li').click(function() {
-		var num = $(this).parent().children('li').index(this);
-			$('.tab').each(function(){
-			$('>li',this).removeClass('active').eq(num).addClass('active');
-		});
-		$('.tab-inner').hide().eq(num).show();
-	}).first().click();
-	$('.tab-botom>li').click(function() {
-    var speed = 400;
-      var href= $(this).attr("data-url");
-      var target = $(href == "#" || href == "" ? 'html' : href);
-      var position = target.offset().top;
-      $('body,html').animate({scrollTop:position}, speed, 'swing');
-      return false;
-	});
-});    
-    
-</script>     -->
 
 
 <div class="annotation-area">
@@ -1095,9 +1056,9 @@ $(function() {
       <a href="javascript:siryo()" class="fixed-btn__mail">
         <p><img src="./images/common/icn_mail.png" alt="資料請求"><br>資料請求</p>
       </a>
-      <div href="javascript:online()" class="fixed-btn__online">
-        <p><img src="./images/common/icn_btn02.png" alt="オンライン見学会予約"><br>オンライン<br>見学会予約</div>
-      </a>
+      <div href="javascript:openfraijo();" class="fixed-btn__online">
+        <p><img src="./images/common/icn_btn02.png" alt="オンライン見学会予約"><br>オンライン<br>見学会予約</p>
+      </div>
       <div id="sp-menu-btn-ft" class="hamburger">
         <div class="hamburger-wrapper">
           <div class="menu-trigger">
@@ -1108,7 +1069,12 @@ $(function() {
           <p>MENU</p>
         </div>
       </div>
-    </div>
+    </div><!-- fixed-btn -->
+
+    <div id="spfraijo" class="sp">
+			<a href="javascript:raijo();">来場予約</a>
+			<a href="javascript:online();">オンライン見学会予約</a>
+		</div>
   </div>
 </footer>
 

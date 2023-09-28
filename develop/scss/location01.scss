@@ -334,7 +334,46 @@
         }
       } //list01
       .img-tit {
-        font-size: 22px;
+        font-size: 16px;
+      }
+      #wrap{
+        min-width: inherit;
+        position: relative;
+        width: 96%;
+        height: 65vw;
+        max-width: 1280px;
+        overflow: hidden;
+        margin: 0 auto;
+        .box{
+          position: absolute;
+          top:0;
+          overflow-x:scroll;
+          overflow-y: hidden;
+          img{
+            max-width: 640px;
+          }
+        }
+        .scrollimage_leftbox, .scrollimage_rightbox{
+          position: absolute;
+          opacity: .2;
+          top:50%;
+          width: 7vw;
+          cursor: pointer;
+          z-index: 6;
+          transform: translateY(-50%);
+        }
+        .scrollimage_leftbox{
+          left: -1vw;
+        }
+        .scrollimage_rightbox{
+          right:-1vw;
+        }
+      }
+      #scrollimagebox .scrollimage_caption{
+        width: 80%;
+        height: auto;
+        margin: auto;
+        pointer-events: none;
       }
       .images {
         position: relative;
@@ -459,6 +498,9 @@
           .lead {
             margin-bottom: 20px;
           }
+          .image{
+            display: none;
+          }
         }
       } //list06
       .list07 {
@@ -473,7 +515,7 @@
           margin-bottom: auto;
         }
         .text {
-          font-size: 22px;
+          font-size: 16px;
           margin: 0 auto 20px;
         }
         .lead {

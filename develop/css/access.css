@@ -366,6 +366,9 @@
   #access .station .lists .tit-box.sp {
     margin-bottom: 50px;
   }
+  #access .station .lists .info-box .line {
+    margin-bottom: 5px;
+  }
   #access .station .lists .info-box .min {
     font-size: 16px;
   }
@@ -389,6 +392,9 @@
   }
   #access .station .lists .info-box .sen {
     font-size: 16px;
+  }
+  #access .station .lists .image.image01 {
+    margin-top: 50px;
   }
   #access .station .list01 li {
     margin-bottom: 40px;

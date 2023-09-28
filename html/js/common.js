@@ -63,6 +63,9 @@ jQuery(document).ready(function ($) {
   // globalNav
   var PID = $("body").attr("id");
   $(".footer-menu li." + PID + " a").addClass("current");
+
+  openfraijo_off();
+  
 });
 
 //サイドのバナー
@@ -77,3 +80,27 @@ $(function () {
     }
   });
 });
+
+var fraijoSpeed = 300;
+
+function openfraijo() {
+	if($('#spfraijo').hasClass('open')){
+		openfraijo_off();
+	}else{
+		openfraijo_on();
+	}
+}
+
+function openfraijo_off(){
+	$('#spfraijo').removeClass('open');
+	$('#spfraijo').stop().animate({
+		bottom:0,opacity:0
+	},fraijoSpeed);
+}
+
+function openfraijo_on(){
+	$('#spfraijo').addClass('open');
+	$('#spfraijo').stop().animate({
+		bottom:$('.fixed-btn').height(),opacity:1
+	},fraijoSpeed);
+}

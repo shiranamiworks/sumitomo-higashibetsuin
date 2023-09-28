@@ -9,7 +9,7 @@
   "keywords" => "アクセス,",
   "description" => "アクセスページ。",
   "add_stylesheet" => ["css/access.css","css/leaflet.css"],
-  "add_script" =>  [],
+  "add_script" =>  [""],
   "canonical_page_id" => "access", 
   "logo_text" => "アクセス｜"
 );
@@ -52,15 +52,21 @@
   <section class="station wrap clearfix">
     <ul class="lists list01 clearfix">
       <li>
-      <div class="tit-box">
+      <div class="tit-box pc">
         <p class="line">地下鉄名城線</p>
         <p class="min">「<span class="name">東別院</span>」駅まで 徒歩<span class="num">8</span>分</p>
       </div>
-      <div class="tit-box sp">
-        <p class="line">地下鉄鶴舞線</p>
-        <p class="min">「<span class="name">大須観音</span>」駅まで 徒歩<span class="num">12</span>分</p>
+      <div class="info-box sp">
+      <p class="line">地下鉄名城線</p>
+        <p class="min"><span class="name">「東別院」駅</span></p>
+        <p class="sub">徒歩<span class="big">8</span>分</p>
       </div>
-      <div class="image">
+      <div class="info-box sp">
+      <p class="line">地下鉄鶴舞線</p>
+        <p class="min"><span class="name">「大須観音」駅</span></p>
+        <p class="sub">徒歩<span class="big">12</span>分</p>
+      </div>
+      <div class="image image01">
         <img src="./images/access/line01.jpg" alt="" class="pc">
         <img src="./images/access/line01-sp.jpg" alt="" class="sp">
         <p class="annotation white">image photo</p>

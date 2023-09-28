@@ -48,6 +48,7 @@
 <script type="text/javascript" src="./js/leaflet.js"></script>
 <script type="text/javascript" src="./js/imgViewer2.js"></script>
 <script type="text/javascript" src="./js/script.js"></script>
+<script src="./js/location.js"></script>
 <!-- init -->
 <!-- ▲ ここから上にフリーエリアのCSS、JSを指定してください ▲ -->
 </head>
@@ -201,7 +202,7 @@
   <section class="intro sections clearfix">
     <div class="inner">
       <p class="lead">著しい進化と発展を続ける<br class="pc">3大都心エリアの魅力を享受。</p>
-      <p class="text">リニア中央新幹線の開通を軸として、日本の3大経済圏の一体化を図るスーパー・メガリージョン構想。その主要駅である「名古屋」駅をはじめ、「栄」駅、「金山」駅周辺では、都心のポテンシャルをさらに高める数々の再開発計画が進行中。<br>この3大都心エリアをライフステージに、より豊かで快適な未来がここにはじまります。 </p>
+      <p class="text">リニア中央新幹線の開通を軸として、日本の3大経済圏の一体化を図るスーパー・メガリージョン構想。その主要駅である「名古屋」駅をはじめ、「栄」駅、「金山」駅周辺では、都心のポテンシャルをさらに高める数々の再開発計画が進行中。<br class="pc">この3大都心エリアをライフステージに、より豊かで快適な未来がここにはじまります。 </p>
     </div>
       <div class="images image01">
         <figure class="pc"><img src="./images/location01/intro.jpg" class="sp-hide" alt="航空写真1"></figure>
@@ -233,38 +234,51 @@
       <ul class="list01">
         <li>
           <div class="image">
-            <img src="./images/location01/area01-03.jpg" alt="" class="pc">
-            <img src="./images/location01/area01-03-sp.jpg" alt="" class="sp">
+            <img src="./images/location01/area01-03.jpg" alt="">
           </div>
           <p class="name">JRゲートタワー（約3.1km）</p>
         </li>
         <li>
           <div class="image">
-            <img src="./images/location01/area01-04.jpg" alt="" class="pc">
-            <img src="./images/location01/area01-04-sp.jpg" alt="" class="sp">
+            <img src="./images/location01/area01-04.jpg" alt="">
           </div>
           <p class="name">JRセントラルタワーズ（約3.0km）</p>
         </li>
         <li>
           <div class="image">
-            <img src="./images/location01/area01-05.jpg" alt="" class="pc">
-            <img src="./images/location01/area01-05-sp.jpg" alt="" class="sp">
+            <img src="./images/location01/area01-05.jpg" alt="">
           </div>
           <p class="name">ミッドランドスクエア（約2.8km）</p>
         </li>
         <li>
           <div class="image">
-            <img src="./images/location01/area01-06.jpg" alt="" class="pc">
-            <img src="./images/location01/area01-06-sp.jpg" alt="" class="sp">
+            <img src="./images/location01/area01-06.jpg" alt="">
           </div>
           <p class="name">JPタワー名古屋（約3.3km）</p>
         </li>
       </ul>
-      <p class="img-tit">リニア中央新幹線開通で、東京・大阪への移動がよりスピーディーで快適に。</p>
+      <p class="img-tit sub">リニア中央新幹線開通で、東京・大阪への移動がよりスピーディーで快適に。</p>
       <div class="images">
         <figure class="pc"><img src="./images/location01/area01-07.jpg" class="sp-hide" alt=""></figure>
         <figure class="tb"><img src="./images/location01/area01-07.jpg" class="zoomImg tb" alt=""/></figure>
       </div>
+      <!-- <div class="route sp-hide">
+						<img src="images/location01/area01-07.jpg" alt="■リニア中央新幹線路線図" />
+			</div>
+			<div class="sp">
+				<div id="scrollimagebox">
+					<div id="wrap">
+						<div class="box"><img src="images/location01/area01-07.jpg" alt="■リニア中央新幹線路線図" class="scrollimage" /></div>
+						<div class="scrollimage_leftbox">
+							<img src="images/location01/01/arw-l.png" alt="" />
+						</div>
+						<div class="scrollimage_rightbox">
+							<img src="images/location01/01/arw-r.png" alt="" />
+						</div>
+					</div>
+					<div class="scrollimage_caption"><p><img src="images/location01/c04_slide.png" alt="スライドで全体を表示できます" /></p></div>
+				</div>
+      </div> -->
       <ul class="list02">
         <li>
           <p class="lead">超電導リニアを採用し最高速度約500㎞/hの走行を可能にすることで、品川・名古屋・大阪間の移動時間を一新するリニア中央新幹線。全線開通後は通勤・旅行エリアの拡大や、遠方の家族や友人に会いやすくなるなど、時短がもたらすライフスタイルの変化が期待されます。</p>
@@ -306,29 +320,25 @@
       <ul class="list01">
         <li>
           <div class="image">
-            <img src="./images/location01/area02-03.jpg" alt="" class="pc">
-            <img src="./images/location01/area02-03-sp.jpg" alt="" class="sp">
+            <img src="./images/location01/area02-03.jpg">
           </div>
           <p class="name">名古屋パルコ<br>（約1,630m／徒歩21分）</p>
         </li>
         <li>
           <div class="image">
-            <img src="./images/location01/area02-04.jpg" alt="" class="pc">
-            <img src="./images/location01/area02-04-sp.jpg" alt="" class="sp">
+            <img src="./images/location01/area02-04.jpg" alt="">
           </div>
           <p class="name">ナディアパーク<br>（約1,650m／徒歩21分）</p>
         </li>
         <li>
           <div class="image">
-            <img src="./images/location01/area02-05.jpg" alt="" class="pc">
-            <img src="./images/location01/area02-05-sp.jpg" alt="" class="sp">
+            <img src="./images/location01/area02-05.jpg" alt="">
           </div>
           <p class="name">松坂屋名古屋<br>（約1,800m／徒歩23分）</p>
         </li>
         <li>
           <div class="image">
-            <img src="./images/location01/area02-06.jpg" alt="" class="pc">
-            <img src="./images/location01/area02-06-sp.jpg" alt="" class="sp">
+            <img src="./images/location01/area02-06.jpg" alt="">
           </div>
           <p class="name">ラシック<br>（約2,000m／徒歩25分）</p>
         </li>
@@ -388,22 +398,19 @@
       <ul class="list04">
         <li>
           <div class="image">
-            <img src="./images/location01/area03-04.jpg" alt="" class="pc">
-            <img src="./images/location01/area03-04-sp.jpg" alt="" class="sp">
+            <img src="./images/location01/area03-04.jpg" alt="">
           </div>
           <p class="name">名古屋市音楽プラザ<br>（約990m／徒歩13分）</p>
         </li>
         <li>
           <div class="image">
-            <img src="./images/location01/area03-05.jpg" alt="" class="pc">
-            <img src="./images/location01/area03-05-sp.jpg" alt="" class="sp">
+            <img src="./images/location01/area03-05.jpg" alt="">
           </div>
           <p class="name">日本特殊陶業市民会館<br>（約1,090m／徒歩14分）</p>
         </li>
         <li>
           <div class="image">
-            <img src="./images/location01/area03-06.jpg" alt="" class="pc">
-            <img src="./images/location01/area03-06-sp.jpg" alt="" class="sp">
+            <img src="./images/location01/area03-06.jpg" alt="">
             <p class="annotation white">image photo</p>
           </div>
           <p class="name">金山南ビル美術館棟<span>（旧名古屋ボストン美術館）</span><br>（約1,240ｍ／徒歩16分）</p>
@@ -489,7 +496,8 @@
       <ul class="list06">
         <li>
           <div class="image">
-            <img src="./images/location01/area04-03.jpg" alt="">
+            <figure class="pc"><img src="./images/location01/area04-03.jpg" alt="" class="sp-hide"></figure>
+            <figure class="tb"><img src="./images/location01/area04-03.jpg" alt="" class="zoomImg tb"></figure>
             <p class="annotation white">高台概念図</p>
           </div>
         </li>
@@ -756,9 +764,9 @@
       <a href="javascript:siryo()" class="fixed-btn__mail">
         <p><img src="./images/common/icn_mail.png" alt="資料請求"><br>資料請求</p>
       </a>
-      <div href="javascript:online()" class="fixed-btn__online">
-        <p><img src="./images/common/icn_btn02.png" alt="オンライン見学会予約"><br>オンライン<br>見学会予約</div>
-      </a>
+      <div href="javascript:openfraijo();" class="fixed-btn__online">
+        <p><img src="./images/common/icn_btn02.png" alt="オンライン見学会予約"><br>オンライン<br>見学会予約</p>
+      </div>
       <div id="sp-menu-btn-ft" class="hamburger">
         <div class="hamburger-wrapper">
           <div class="menu-trigger">
@@ -769,7 +777,12 @@
           <p>MENU</p>
         </div>
       </div>
-    </div>
+    </div><!-- fixed-btn -->
+
+    <div id="spfraijo" class="sp">
+			<a href="javascript:raijo();">来場予約</a>
+			<a href="javascript:online();">オンライン見学会予約</a>
+		</div>
   </div>
 </footer>
 

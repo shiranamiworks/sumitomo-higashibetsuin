@@ -2,7 +2,7 @@ jQuery(document).ready(function ($) {
   // SP用 MVスライド
   $(".top-mv__slide").slick({
     infinite: true,
-    dots: false,
+    dots: true,
     arrows: false,
     speed: 1000,
     slidesToShow: 1,
@@ -10,7 +10,6 @@ jQuery(document).ready(function ($) {
     autoplay: true,
     autoplaySpeed: 4000,
   });
-
   // バナースライド
   $(".banner-slide").slick({
     infinite: true,

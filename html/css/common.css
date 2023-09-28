@@ -1380,6 +1380,39 @@ div.header-btn.bg_btn {
     top: 0;
     margin: 0 auto 10%;
   }
+  
+  #spfraijo{
+		position: fixed;
+		bottom: 0;
+		z-index: 10;
+		display:flex;
+		justify-content: space-between;
+		background: #FFF;
+		width:100%;
+	}
+
+	#spfraijo span,
+	#spfraijo a{
+		display:block;
+		width:calc(50% - 1px);
+		box-sizing: border-box;
+		padding:10px 0;
+		background: #7C2E2E;
+		text-align: center;
+    	color: #fff;
+	}
+
+	#spfraijo span img,
+	#spfraijo a img{
+		display:block;
+		width:80%;
+		max-width: 230px;
+		margin: 0 auto;
+	}
+
+	#spfraijo span img{
+		opacity: 0.4;
+	}
 }
 
 /****************************************************************************************************************************************************************************************

@@ -153,7 +153,7 @@
   }
 }
 #top .points {
-  background-color: #f1e9dc;
+  background-color: #DEDEDE;
   padding: 25px 0 27px;
   text-align: center;
 }
@@ -187,7 +187,7 @@
   width: 1px;
   top: 0;
   right: -3%;
-  background-color: #cfc8b8;
+  background-color: #888888;
 }
 #top .points .lists .list01 {
   width: 33%;
@@ -206,6 +206,9 @@
 }
 #top .points .text02 .big {
   font-size: 120%;
+}
+#top .points .text02 .mini {
+  font-size: 80%;
 }
 #top .section-title {
   font-size: 35px;
@@ -355,8 +358,8 @@
     padding: 30px 0 35px;
   }
   #top .points {
-    background-color: #f1e9dc;
-    padding: 25px 0 27px;
+    background-color: #DEDEDE;
+    padding: 5px 0 7px;
     text-align: center;
   }
   #top .points .wrap {
@@ -373,8 +376,8 @@
   }
   #top .points .lists li {
     position: relative;
-    border-bottom: 1px solid #cfc8b8;
-    padding: 18px 0;
+    border-bottom: 1px solid #888888;
+    padding: 10px 0;
   }
   #top .points .lists li::after {
     display: none;

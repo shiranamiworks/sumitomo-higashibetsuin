@@ -33,9 +33,9 @@
 
   <div class="points">
     <ul class="lists wrap">
-      <li class="list01 text02">地下鉄名城線「東別院」駅徒歩8分<br><span class="big">「栄」駅へ3駅6分（6分）</span></li>
+      <li class="list01 text02">地下鉄名城線「東別院」駅徒歩8分<br><span class="big">「栄」駅へ3駅6分</span><span class="mini">（6分）</span></li>
       <li class="list02 text02">都心の賑わいエリアから一歩奥へ<br><span class="big">落ち着きある住宅地</li>
-      <li class="list03 text02">解放的な迎賓空間<br><span class="big">2層吹抜エントランスホール</li>
+      <li class="list03 text02">開放的な迎賓空間<br><span class="big">2層吹抜エントランスホール</li>
     </ul>
   </div><!-- points -->
 

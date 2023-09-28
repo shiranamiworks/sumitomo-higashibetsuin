@@ -305,7 +305,46 @@
     margin-bottom: auto;
   }
   .location01 .areas .img-tit {
-    font-size: 22px;
+    font-size: 16px;
+  }
+  .location01 .areas #wrap {
+    min-width: inherit;
+    position: relative;
+    width: 96%;
+    height: 65vw;
+    max-width: 1280px;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+  .location01 .areas #wrap .box {
+    position: absolute;
+    top: 0;
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+  .location01 .areas #wrap .box img {
+    max-width: 640px;
+  }
+  .location01 .areas #wrap .scrollimage_leftbox, .location01 .areas #wrap .scrollimage_rightbox {
+    position: absolute;
+    opacity: 0.2;
+    top: 50%;
+    width: 7vw;
+    cursor: pointer;
+    z-index: 6;
+    transform: translateY(-50%);
+  }
+  .location01 .areas #wrap .scrollimage_leftbox {
+    left: -1vw;
+  }
+  .location01 .areas #wrap .scrollimage_rightbox {
+    right: -1vw;
+  }
+  .location01 .areas #scrollimagebox .scrollimage_caption {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    pointer-events: none;
   }
   .location01 .areas .images {
     position: relative;
@@ -420,6 +459,9 @@
   .location01 .area04 .list06 li:last-child .lead {
     margin-bottom: 20px;
   }
+  .location01 .area04 .list06 li:last-child .image {
+    display: none;
+  }
   .location01 .area04 .list07 {
     border: 1px solid #bba579;
     padding: 20px 10px;
@@ -433,7 +475,7 @@
     margin-bottom: auto;
   }
   .location01 .area04 .list07 .text {
-    font-size: 22px;
+    font-size: 16px;
     margin: 0 auto 20px;
   }
   .location01 .area04 .list07 .lead {

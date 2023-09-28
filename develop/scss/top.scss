@@ -163,7 +163,7 @@
     }
   }
   .points {
-    background-color: #f1e9dc;
+    background-color: #DEDEDE;
     padding: 25px 0 27px;
     text-align: center;
     .wrap {
@@ -194,7 +194,7 @@
           width: 1px;
           top: 0;
           right: -3%;
-          background-color: #cfc8b8;
+          background-color: #888888;
         }
       }
       .list01 {
@@ -214,6 +214,9 @@
       font-size: 20px;
       .big {
         font-size: 120%;
+      }
+      .mini{
+        font-size: 80%;
       }
     }
   } //points
@@ -375,8 +378,8 @@
       padding: 30px 0 35px;
     }
     .points {
-      background-color: #f1e9dc;
-      padding: 25px 0 27px;
+      background-color: #DEDEDE;
+      padding: 5px 0 7px;
       text-align: center;
       .wrap {
         margin: 0 auto;
@@ -391,11 +394,11 @@
         display: block;
         li {
           position: relative;
-          border-bottom: 1px solid #cfc8b8;
+          border-bottom: 1px solid #888888;
           &::after {
             display: none;
           }
-          padding: 18px 0;
+          padding: 10px 0;
         }
         .list01 {
           width: auto;

@@ -107,7 +107,7 @@
     bottom: 40px;
   }
   #concept .sections .texts {
-    padding: 60px 0;
+    padding: 60px 0 90px;
   }
   #concept .sections .texts .tit {
     font-size: 20px;
@@ -127,7 +127,7 @@
     padding: 60px 0 0;
   }
   #concept .intro .text {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 60px;
   }
   #concept .intro li {

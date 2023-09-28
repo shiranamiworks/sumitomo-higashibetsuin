@@ -540,7 +540,7 @@
   }
   .location02 .areas .list07 {
     margin-top: 40px;
-    padding-bottom: 20px;
+    padding: 20px 0;
   }
   .location02 .areas .list07 li {
     display: block;

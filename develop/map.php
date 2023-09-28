@@ -31,7 +31,7 @@
 
     <div id="btnArea">
 			<div id="GoogleMap"><a href="https://goo.gl/maps/dGvZc5oqvqBomWtz7" target="_blank">Google Mapsで見る</a></div>
-			<div id="PrintMap"><a href="JavaScript:;" onclick="print_out(); return false;">印刷する</a></div>
+			<div id="PrintMap" class="pc"><a href="JavaScript:;" onclick="print_out(); return false;">印刷する</a></div>
     </div>
     <div class="container">
 	     <p class="txt">※掲載の現地案内図は一部道路・施設等を抜粋して表記しています。</p>

@@ -368,7 +368,7 @@
       <p class="mini top">大須商店街（約630m／徒歩8分）</p>
       <ul class="list07">
         <li>
-          <div class="image">
+          <div class="image pc">
             <img src="./images/location02/area04-05.jpg" alt="">
             <p class="annotation white">image photo</p>
           </div>
@@ -376,7 +376,8 @@
         <li>
           <p class="lead">「大須観音」（約820ｍ/徒歩11分）を中心に、毎月の縁日や季節のお祭り・イベントで賑わう大須の街。一年を通し、様々な楽しみに溢れています。</p>
           <div class="image">
-            <img src="./images/location02/area04-06.png" alt="">
+            <img src="./images/location02/area04-06.png" alt="" class="pc">
+            <img src="./images/location02/area04-06-sp.png" alt="zoomImg" class="sp">
           </div>
           <p class="mini top">※お祭り・イベントなどの開催内容は変更・中止になる場合があります。</p>
           </li>
