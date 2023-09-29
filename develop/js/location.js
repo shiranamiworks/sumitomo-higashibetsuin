@@ -65,6 +65,7 @@ $(window).on("load resize",function(){
       }
   });
   });
+  
   $(window).one("load resize" ,function(){
     $('#wrap .box').scrollLeft(688);
   });

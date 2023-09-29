@@ -98,11 +98,11 @@
         </li>
       </ul>
       <p class="img-tit sub">リニア中央新幹線開通で、東京・大阪への移動がよりスピーディーで快適に。</p>
-      <div class="images">
+      <!-- <div class="images">
         <figure class="pc"><img src="./images/location01/area01-07.jpg" class="sp-hide" alt=""></figure>
         <figure class="tb"><img src="./images/location01/area01-07.jpg" class="zoomImg tb" alt=""/></figure>
-      </div>
-      <!-- <div class="route sp-hide">
+      </div> -->
+      <div class="route sp-hide">
 						<img src="images/location01/area01-07.jpg" alt="■リニア中央新幹線路線図" />
 			</div>
 			<div class="sp">
@@ -118,7 +118,7 @@
 					</div>
 					<div class="scrollimage_caption"><p><img src="images/location01/c04_slide.png" alt="スライドで全体を表示できます" /></p></div>
 				</div>
-      </div> -->
+      </div>
       <ul class="list02">
         <li>
           <p class="lead">超電導リニアを採用し最高速度約500㎞/hの走行を可能にすることで、品川・名古屋・大阪間の移動時間を一新するリニア中央新幹線。全線開通後は通勤・旅行エリアの拡大や、遠方の家族や友人に会いやすくなるなど、時短がもたらすライフスタイルの変化が期待されます。</p>
