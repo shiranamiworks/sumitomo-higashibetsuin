@@ -340,7 +340,7 @@
         min-width: inherit;
         position: relative;
         width: 96%;
-        height: 45vw;
+        height: 40vw;
         max-width: 1280px;
         overflow: hidden;
         margin: 0 auto;
@@ -351,6 +351,8 @@
           overflow-y: hidden;
           img{
             max-width: 480px;
+            display: block;
+            margin: auto;
           }
         }
         .scrollimage_leftbox, .scrollimage_rightbox{
@@ -371,8 +373,9 @@
       }
       #scrollimagebox .scrollimage_caption{
         width: 15%;
+        max-width: 75px;
         height: auto;
-        margin: 20px auto;
+        margin: 10px auto 20px;
         pointer-events: none;
       }
       .images {
@@ -517,11 +520,20 @@
         .text {
           font-size: 16px;
           margin: 0 auto 20px;
-        }
+        }s
         .lead {
           margin-bottom: 20px;
         }
       } //list07
     } //area04
   } //sp
+  @media screen and (max-width: 450px) {
+     .areas #wrap{
+      height: 55vw;
+     }
+     .areas #scrollimagebox .scrollimage_caption{
+      width: 15%;
+      margin: 20px auto;
+    }
+  }
 }

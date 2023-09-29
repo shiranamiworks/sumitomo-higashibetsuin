@@ -311,7 +311,7 @@
     min-width: inherit;
     position: relative;
     width: 96%;
-    height: 45vw;
+    height: 40vw;
     max-width: 1280px;
     overflow: hidden;
     margin: 0 auto;
@@ -322,6 +322,8 @@
   }
   .location01 .areas #wrap .box img {
     max-width: 480px;
+    display: block;
+    margin: auto;
   }
   .location01 .areas #wrap .scrollimage_leftbox, .location01 .areas #wrap .scrollimage_rightbox {
     position: absolute;
@@ -340,8 +342,9 @@
   }
   .location01 .areas #scrollimagebox .scrollimage_caption {
     width: 15%;
+    max-width: 75px;
     height: auto;
-    margin: 20px auto;
+    margin: 10px auto 20px;
     pointer-events: none;
   }
   .location01 .areas .images {
@@ -473,7 +476,16 @@
     font-size: 16px;
     margin: 0 auto 20px;
   }
-  .location01 .area04 .list07 .lead {
+  .location01 .area04 .list07 s .lead {
     margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .location01 .areas #wrap {
+    height: 55vw;
+  }
+  .location01 .areas #scrollimagebox .scrollimage_caption {
+    width: 15%;
+    margin: 20px auto;
   }
 }/*# sourceMappingURL=location01.css.map */
