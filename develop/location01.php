@@ -345,7 +345,7 @@
           <div class="image sp">
             <img src="./images/location01/area04-05.png" alt="">
           </div>
-          <div class="image">
+          <div class="image pc">
             <img src="./images/location01/area04-04.jpg" alt="">
             <p class="annotation white">image photo</p>
           </div>

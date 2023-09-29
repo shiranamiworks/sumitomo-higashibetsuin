@@ -457,9 +457,6 @@
   .location01 .area04 .list06 li:last-child .lead {
     margin-bottom: 20px;
   }
-  .location01 .area04 .list06 li:last-child .image {
-    display: none;
-  }
   .location01 .area04 .list07 {
     border: 1px solid #bba579;
     padding: 20px 10px;
