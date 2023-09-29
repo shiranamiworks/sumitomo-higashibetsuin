@@ -458,7 +458,8 @@
     margin-bottom: 20px;
   }
   .location01 .area04 .list06 li:last-child .lead {
-    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
   }
   .location01 .area04 .list07 {
     border: 1px solid #bba579;

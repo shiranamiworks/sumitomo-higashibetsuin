@@ -342,6 +342,7 @@
           </div>
         </li>
         <li>
+        <p class="lead sp">名古屋城の南に位置する本計画は、標高約10.1mの安定した地盤といわれる熱田台地の上にあります。</p>
           <div class="image sp">
             <img src="./images/location01/area04-05.png" alt="">
           </div>
@@ -349,7 +350,7 @@
             <img src="./images/location01/area04-04.jpg" alt="">
             <p class="annotation white">image photo</p>
           </div>
-          <p class="lead">名古屋城の南に位置する本計画は、標高約10.1mの安定した地盤といわれる熱田台地の上にあります。</p>
+          <p class="lead pc">名古屋城の南に位置する本計画は、標高約10.1mの安定した地盤といわれる熱田台地の上にあります。</p>
           <div class="image pc">
             <img src="./images/location01/area04-05.png" alt="">
           </div>
