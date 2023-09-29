@@ -72,7 +72,7 @@
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box pc">
-        <p class="min"><span class="name">「栄」</span>駅 直通<span class="big">6</span>分<span class="mini">（6分）</span></p>
+        <p class="min"><span class="name size">「栄」</span>駅 直通<span class="big">6</span>分<span class="mini">（6分）</span></p>
         <p class="sen">「東別院」駅より地下鉄名城線利用</p>
       </div>
       <div class="info-box sp">
@@ -92,13 +92,13 @@
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box pc">
-        <p class="min"><span class="name">「名古屋」</span>駅<span class="big">14</span>分<span class="mini">（14分）</span></p>
-        <p class="sen">「東別院」駅より地下鉄名城線利用、<br class="pc">「栄」駅で地下鉄東山線に乗換え</p>
+        <p class="min"><span class="name size">「名古屋」</span>駅<span class="big">14</span>分<span class="mini">（14分）</span></p>
+        <p class="sen">「東別院」駅より地下鉄名城線利用、「栄」駅で地下鉄東山線に乗換え</p>
       </div>
       <div class="info-box sp">
       <p class="min"><span class="name">「名古屋」駅</span> </p>
         <p class="sub"><span class="big">14</span>分<span class="mini">（14分）</span></p>
-        <p class="sen">「東別院」駅より地下鉄名城線利用、<br class="pc">「栄」駅で地下鉄東山線に乗換え</p>
+        <p class="sen">「東別院」駅より地下鉄名城線利用、「栄」駅で地下鉄東山線に乗換え</p>
       </div>
       </li>
     </ul><!-- list01 -->
