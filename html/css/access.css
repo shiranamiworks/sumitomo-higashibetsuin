@@ -98,24 +98,27 @@
 }
 #access .station .lists .tit-box .min .num {
   font-size: 42px;
-  color: #D4C194;
+  color: #d4c194;
 }
 #access .station .lists .info-box {
   margin-top: 10px;
 }
 #access .station .lists .info-box .min {
-  font-size: 30px;
+  font-size: 34px;
   margin-bottom: 10px;
 }
 #access .station .lists .info-box .min .name {
   font-size: 36px;
 }
+#access .station .lists .info-box .min .name.size {
+  font-size: 40px;
+}
 #access .station .lists .info-box .min .big {
-  font-size: 50px;
-  color: #D4C194;
+  font-size: 54px;
+  color: #d4c194;
 }
 #access .station .lists .info-box .min .mini {
-  font-size: 18px;
+  font-size: 22px;
 }
 #access .station .lists .info-box .sub {
   font-size: 30px;
@@ -135,7 +138,7 @@
 }
 #access .station .lists .info-box .sub .big {
   font-size: 42px;
-  color: #D4C194;
+  color: #d4c194;
   display: contents;
 }
 #access .station .lists .info-box .sub .mini {
@@ -301,7 +304,7 @@
 }
 #access .car .info-box .sub .big {
   font-size: 42px;
-  color: #D4C194;
+  color: #d4c194;
   display: contents;
 }
 #access .car .info-box .sub .mini {
