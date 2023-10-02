@@ -93,6 +93,9 @@
         border-bottom: 1px solid;
         padding-bottom: 6px;
         margin-bottom: 30px;
+        &.sta01{
+          margin-top: 18px;
+        }
         .line {
           font-size: 18px;
         }
@@ -403,6 +406,9 @@
           }
           .min {
             font-size: 16px;
+            display: flex;
+            align-items: baseline;
+            justify-content: space-between;
             .name {
               font-size: 27px;
             }
@@ -411,6 +417,25 @@
             }
             .mini {
               font-size: 12px;
+            }
+            .right{
+              font-size: 16px;
+              .big{
+                font-size: 36px;
+              }
+            }
+          }
+          &.main{
+            border-bottom: 1px solid;
+            margin-bottom: 20px;
+            .name{
+              font-size: 22px;
+              .to{
+                font-size: 16px;
+              }
+            }
+            .line{
+              margin-bottom: -5px;
             }
           }
           .sub {

@@ -30,7 +30,7 @@
 
   <div class="location-link location-link--2">
     <a href="location01.html" class="current"><p>進化する都心エリア</p></a>
-    <a href="location02.html"><p>歴史ある格調の地</p></a>
+    <a href="location02.html"><p>静穏な邸宅地</p></a>
   </div>
 
   <header class="main-visual clearfix">
@@ -380,7 +380,7 @@
 
 <div class="location-link location-link--2">
     <a href="location01.html" class="current"><p>進化する都心エリア</p></a>
-    <a href="location02.html"><p>歴史ある格調の地</p></a>
+    <a href="location02.html"><p>静穏な邸宅地</p></a>
   </div>
 
 <?php require(INCLUDES."footer.php"); ?>

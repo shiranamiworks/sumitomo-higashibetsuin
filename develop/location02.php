@@ -5,13 +5,13 @@
   "gnav_set" => "location",
   "page_class" => "location02",
   "url" => "location02.html",
-  "title" => "歴史ある格調の地｜",
-  "keywords" => "歴史ある格調の地,",
-  "description" => "歴史ある格調の地ページ。",
+  "title" => "静穏な邸宅地｜",
+  "keywords" => "静穏な邸宅地,",
+  "description" => "静穏な邸宅地ページ。",
   "add_stylesheet" => ["css/location.css","css/location02.css"],
   "add_script" =>  [],
   "canonical_page_id" => "location",  
-  "logo_text" => "歴史ある格調の地｜"
+  "logo_text" => "静穏な邸宅地｜"
 );
 ?>
 
@@ -23,14 +23,14 @@
     <ul>
       <li><a href="./index.html">シティタワー東別院｜東別院 マンション｜トップ</a></li>
       <li><a href="./location01.html">ロケーション</a></li>
-      <li><p>歴史ある格調の地</p></li>
+      <li><p>静穏な邸宅地</p></li>
     </ul>
   </div>
 	<!--// パンくずリスト -->
 
   <div class="location-link location-link--2">
     <a href="location01.html"><p>進化する都心エリア</p></a>
-    <a href="location02.html" class="current"><p>歴史ある格調の地</p></a>
+    <a href="location02.html" class="current"><p>静穏な邸宅地</p></a>
   </div>
 
   <header class="main-visual clearfix">
@@ -672,7 +672,7 @@ $(document).on("click", ".button05", function(){
 
 <div class="location-link location-link--2">
     <a href="location01.html"><p>進化する都心エリア</p></a>
-    <a href="location02.html" class="current"><p>歴史ある格調の地</p></a>
+    <a href="location02.html" class="current"><p>静穏な邸宅地</p></a>
   </div>
 
 <?php require(INCLUDES."footer.php"); ?>

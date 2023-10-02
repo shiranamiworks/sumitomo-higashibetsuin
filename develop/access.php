@@ -52,19 +52,16 @@
   <section class="station wrap clearfix">
     <ul class="lists list01 clearfix">
       <li>
-      <div class="tit-box pc">
+      <div class="tit-box sta01 pc">
+       <p class="min"><span class="line">地下鉄名城線</span>「<span class="name">東別院</span>」駅まで 徒歩<span class="num">8</span>分</p>
+      </div>
+      <div class="info-box main sp">
         <p class="line">地下鉄名城線</p>
-        <p class="min">「<span class="name">東別院</span>」駅まで 徒歩<span class="num">8</span>分</p>
+        <p class="min"><span class="name">「東別院」<span class="to">駅まで</span></span><span class="right">徒歩<span class="big">8</span>分</span></p>
       </div>
-      <div class="info-box sp">
-      <p class="line">地下鉄名城線</p>
-        <p class="min"><span class="name">「東別院」駅</span></p>
-        <p class="sub">徒歩<span class="big">8</span>分</p>
-      </div>
-      <div class="info-box sp">
-      <p class="line">地下鉄鶴舞線</p>
-        <p class="min"><span class="name">「大須観音」駅</span></p>
-        <p class="sub">徒歩<span class="big">12</span>分</p>
+      <div class="info-box main sp">
+        <p class="line">地下鉄鶴舞線</p>
+        <p class="min"><span class="name">「大須観音」<span class="to">駅まで</span></span><span class="right">徒歩<span class="big">12</span>分</span></p>
       </div>
       <div class="image image01">
         <img src="./images/access/line01.jpg" alt="" class="pc">

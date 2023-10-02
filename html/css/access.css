@@ -87,6 +87,9 @@
   padding-bottom: 6px;
   margin-bottom: 30px;
 }
+#access .station .lists .tit-box.sta01 {
+  margin-top: 18px;
+}
 #access .station .lists .tit-box .line {
   font-size: 18px;
 }
@@ -374,6 +377,9 @@
   }
   #access .station .lists .info-box .min {
     font-size: 16px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
   }
   #access .station .lists .info-box .min .name {
     font-size: 27px;
@@ -383,6 +389,25 @@
   }
   #access .station .lists .info-box .min .mini {
     font-size: 12px;
+  }
+  #access .station .lists .info-box .min .right {
+    font-size: 16px;
+  }
+  #access .station .lists .info-box .min .right .big {
+    font-size: 36px;
+  }
+  #access .station .lists .info-box.main {
+    border-bottom: 1px solid;
+    margin-bottom: 20px;
+  }
+  #access .station .lists .info-box.main .name {
+    font-size: 22px;
+  }
+  #access .station .lists .info-box.main .name .to {
+    font-size: 16px;
+  }
+  #access .station .lists .info-box.main .line {
+    margin-bottom: -5px;
   }
   #access .station .lists .info-box .sub {
     font-size: 22px;
