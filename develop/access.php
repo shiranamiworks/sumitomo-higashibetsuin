@@ -80,8 +80,7 @@
       </li>
       <li>
       <div class="tit-box pc">
-        <p class="line">地下鉄鶴舞線</p>
-        <p class="min">「<span class="name">大須観音</span>」駅まで 徒歩<span class="num">12</span>分</p>
+        <p class="min"><span class="line">地下鉄鶴舞線</span>「<span class="name">大須観音</span>」駅まで 徒歩<span class="num">12</span>分</p>
       </div>
       <div class="image">
         <img src="./images/access/line02.jpg" alt="" class="pc">
@@ -89,13 +88,13 @@
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box pc">
-        <p class="min"><span class="name size">「名古屋」</span>駅<span class="big">14</span>分<span class="mini">（14分）</span></p>
-        <p class="sen">「東別院」駅より地下鉄名城線利用、「栄」駅で地下鉄東山線に乗換え</p>
+        <p class="min"><span class="name size">「名古屋」</span>駅<span class="big">7</span>分<span class="mini">（11分）</span></p>
+        <p class="sen">「大須観音」駅より地下鉄鶴舞線利用、「伏見」駅で地下鉄東山線に乗換え</p>
       </div>
       <div class="info-box sp">
       <p class="min"><span class="name">「名古屋」駅</span> </p>
-        <p class="sub"><span class="big">14</span>分<span class="mini">（14分）</span></p>
-        <p class="sen">「東別院」駅より地下鉄名城線利用、「栄」駅で地下鉄東山線に乗換え</p>
+        <p class="sub"><span class="big">7</span>分<span class="mini">（11分）</span></p>
+        <p class="sen">「大須観音」駅より地下鉄鶴舞線利用、「伏見」駅で地下鉄東山線に乗換え</p>
       </div>
       </li>
     </ul><!-- list01 -->

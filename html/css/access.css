@@ -87,20 +87,17 @@
   padding-bottom: 6px;
   margin-bottom: 30px;
 }
-#access .station .lists .tit-box.sta01 {
-  margin-top: 18px;
-}
 #access .station .lists .tit-box .line {
-  font-size: 18px;
+  font-size: 14px;
 }
 #access .station .lists .tit-box .min {
-  font-size: 22px;
+  font-size: 18px;
 }
 #access .station .lists .tit-box .min .name {
-  font-size: 30px;
+  font-size: 27px;
 }
 #access .station .lists .tit-box .min .num {
-  font-size: 42px;
+  font-size: 36px;
   color: #d4c194;
 }
 #access .station .lists .info-box {
@@ -121,7 +118,7 @@
   color: #d4c194;
 }
 #access .station .lists .info-box .min .mini {
-  font-size: 22px;
+  font-size: 21px;
 }
 #access .station .lists .info-box .sub {
   font-size: 30px;
