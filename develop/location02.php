@@ -129,7 +129,7 @@
     <div class="title"><img src="./images/location02/area02-01.svg" alt="" class="pc"><img src="./images/location02/area02-01-sp.svg" alt="" class="sp"></div>
     <div class="inner">
       <p class="text">都心にあって、庭園や参道の美しい緑景に深く潤う。</p>
-      <p class="lead">尾張徳川家二代目藩主・徳川光友の時代、古今和歌集にちなんで名付けられた「橘町」は、あちこちに歴史の面影が残る街。<br>時を重ねた麗しい緑を湛える公園が点在して、暮らしに安らかな寛ぎを添えてくれます。</p>
+      <p class="lead">尾張徳川家二代目藩主・徳川光友の時代、古今和歌集にちなんで名付けられた「橘町」は、あちこちに歴史の面影が残る街。<br class="pc">時を重ねた麗しい緑を湛える公園が点在して、暮らしに安らかな寛ぎを添えてくれます。</p>
     </div><!-- inner -->
     <div class="image">
       <img src="./images/location02/area02-02.jpg" alt="" class="pc">

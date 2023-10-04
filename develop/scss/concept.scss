@@ -72,6 +72,14 @@
         font-size: 18px;
         line-height: 2;
       }
+      .btn{
+        text-align: right;
+        a{
+          font-size: 18px;
+          padding: 10px 15px;
+          background-color: #a2a383;
+        }
+      }
     }
   } //sections
   .intro {
@@ -130,6 +138,7 @@
         }
         .line {
           padding: 10px 20px;
+          margin-bottom: 20px;
         }
         .txt01 {
           font-size: 22px;

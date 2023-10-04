@@ -88,16 +88,16 @@
   margin-bottom: 30px;
 }
 #access .station .lists .tit-box .line {
-  font-size: 14px;
-}
-#access .station .lists .tit-box .min {
   font-size: 18px;
 }
+#access .station .lists .tit-box .min {
+  font-size: 24px;
+}
 #access .station .lists .tit-box .min .name {
-  font-size: 27px;
+  font-size: 36px;
 }
 #access .station .lists .tit-box .min .num {
-  font-size: 36px;
+  font-size: 48px;
   color: #d4c194;
 }
 #access .station .lists .info-box {
@@ -107,8 +107,12 @@
   font-size: 34px;
   margin-bottom: 10px;
 }
+#access .station .lists .info-box .min .min01 {
+  display: contents;
+  text-align: right;
+}
 #access .station .lists .info-box .min .name {
-  font-size: 36px;
+  font-size: 32px;
 }
 #access .station .lists .info-box .min .name.size {
   font-size: 40px;
@@ -116,6 +120,18 @@
 #access .station .lists .info-box .min .big {
   font-size: 54px;
   color: #d4c194;
+}
+#access .station .lists .info-box .min .big:before {
+  content: "";
+  flex-grow: 1;
+  border-top: dotted 3px #fff;
+  display: inline-block;
+  vertical-align: middle;
+  width: 60px;
+}
+#access .station .lists .info-box .min .big:before {
+  margin-left: 15px;
+  margin-right: 15px;
 }
 #access .station .lists .info-box .min .mini {
   font-size: 21px;
@@ -179,6 +195,7 @@
 #access .station .airport .lists .info-box .min {
   font-size: 38px;
   line-height: 1.3;
+  display: block;
 }
 #access .station .airport .lists .info-box .min .mini {
   font-size: 18px;
@@ -315,6 +332,40 @@
   font-size: 10px;
   line-height: 1.6;
 }
+@media screen and (max-width: 1300px) {
+  #access .station .lists .tit-box .line {
+    font-size: 14px;
+  }
+  #access .station .lists .tit-box .min {
+    font-size: 20px;
+  }
+  #access .station .lists .tit-box .min .name {
+    font-size: 30px;
+  }
+  #access .station .lists .tit-box .min .num {
+    font-size: 40px;
+    color: #d4c194;
+  }
+}
+@media screen and (max-width: 1024px) {
+  #access .station .lists .tit-box .line {
+    font-size: 14px;
+    display: block;
+  }
+  #access .station .lists .tit-box .min {
+    font-size: 18px;
+  }
+  #access .station .lists .tit-box .min .name {
+    font-size: 27px;
+  }
+  #access .station .lists .tit-box .min .num {
+    font-size: 36px;
+    color: #d4c194;
+  }
+  #access .station .lists .info-box .min .min01 {
+    display: block;
+  }
+}
 @media screen and (max-width: 768px) {
   #access sp {
     display: block;
@@ -393,6 +444,9 @@
   #access .station .lists .info-box .min .right .big {
     font-size: 36px;
   }
+  #access .station .lists .info-box .min .right .big::before {
+    display: contents;
+  }
   #access .station .lists .info-box.main {
     border-bottom: 1px solid;
     margin-bottom: 20px;
@@ -445,6 +499,7 @@
   }
   #access .station .airport .lists .info-box .min {
     font-size: 22px;
+    display: block;
   }
   #access .station .airport .lists .info-box .min .mini {
     font-size: 16px;

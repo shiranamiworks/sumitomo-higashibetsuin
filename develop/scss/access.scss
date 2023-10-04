@@ -97,15 +97,15 @@
         //   margin-top: 18px;
         // }
         .line {
-          font-size: 14px;
+          font-size:18px;
         }
         .min {
-          font-size: 18px;
+          font-size: 24px;
           .name {
-            font-size: 27px;
+            font-size: 36px;
           }
           .num {
-            font-size: 36px;
+            font-size: 48px;
             color: #d4c194;
           }
         }
@@ -115,8 +115,12 @@
         .min {
           font-size: 34px;
           margin-bottom: 10px;
+          .min01{
+            display: contents;
+            text-align: right;
+          }
           .name {
-            font-size: 36px;
+            font-size: 32px;
             &.size {
               font-size: 40px;
             }
@@ -124,6 +128,18 @@
           .big {
             font-size: 54px;
             color: #d4c194;
+            &:before {
+              content: "";
+              flex-grow: 1;
+              border-top: dotted 3px #fff;
+              display: inline-block;
+              vertical-align: middle;
+              width: 60px;
+            }
+            &:before {
+              margin-left: 15px;
+              margin-right: 15px;
+            }
           }
           .mini {
             font-size: 21px;
@@ -193,6 +209,7 @@
           .min {
             font-size: 38px;
             line-height: 1.3;
+            display: block;
             .mini {
               font-size: 18px;
             }
@@ -337,8 +354,42 @@
   } //car
 
   @media screen and (max-width: 1300px) {
+    .station .lists .tit-box {
+      .line {
+        font-size:14px;
+      }
+      .min {
+        font-size: 20px;
+        .name {
+          font-size: 30px;
+        }
+        .num {
+          font-size: 40px;
+          color: #d4c194;
+        }
+      }
+    } //tit-box
   }
   @media screen and (max-width: 1024px) {
+    .station .lists .tit-box {
+      .line {
+        font-size:14px;
+        display: block;
+      }
+      .min {
+        font-size: 18px;
+        .name {
+          font-size: 27px;
+        }
+        .num {
+          font-size: 36px;
+          color: #d4c194;
+        }
+      }
+    } //tit-box
+     .station .lists .info-box .min .min01{
+      display: block;
+    }
   } //1024px
 
   @media screen and (max-width: 768px) {
@@ -422,6 +473,9 @@
               font-size: 16px;
               .big{
                 font-size: 36px;
+                &::before{
+                  display: contents;
+                }
               }
             }
           }
@@ -484,6 +538,7 @@
           .info-box {
             .min {
               font-size: 22px;
+              display: block;
               .mini {
                 font-size: 16px;
               }

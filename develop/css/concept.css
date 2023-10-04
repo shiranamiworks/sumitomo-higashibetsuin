@@ -68,6 +68,14 @@
   font-size: 18px;
   line-height: 2;
 }
+#concept .sections .texts .btn {
+  text-align: right;
+}
+#concept .sections .texts .btn a {
+  font-size: 18px;
+  padding: 10px 15px;
+  background-color: #a2a383;
+}
 #concept .intro {
   padding: 140px 0 0;
 }
@@ -114,6 +122,7 @@
   }
   #concept .sections .texts .line {
     padding: 10px 20px;
+    margin-bottom: 20px;
   }
   #concept .sections .texts .txt01 {
     font-size: 22px;
