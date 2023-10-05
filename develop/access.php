@@ -69,7 +69,7 @@
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box pc">
-        <p class="min"><span class="name size">「栄」</span>駅 直通<span class="min01"><span class="big">6</span>分<span class="mini">（6分）</span></span></p>
+        <p class="min"><span class="name size">「栄」</span>駅<span class="min01">直通<span class="big">6</span>分<span class="mini">（6分）</span></span></p>
         <p class="sen">「東別院」駅より地下鉄名城線利用</p>
       </div>
       <div class="info-box sp">
@@ -153,7 +153,7 @@
             <p class="annotation white">image photo</p>
           </div>
           <div class="info-box sp">
-            <p class="min"><span class="mini">名鉄名古屋本線 「金山」駅より<br>ミュースカイ利用</span><br>「中部国際空港」駅へ</p>
+            <p class="min"><span class="mini">名鉄名古屋本線 「金山」駅より<br>ミュースカイ利用</span>「中部国際空港」駅へ</p>
             <p class="sub">直通<span class="big">24</span>分<span class="mini">（24分）</span></p>
           </div>
         </li>
