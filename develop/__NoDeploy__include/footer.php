@@ -33,7 +33,7 @@
         <li class="faq"><a href="/<?= $folder_name?>faq.cgi" target="_blank">FAQ</a></li>
         <li class="sitemap"><a href="<?= $page_settings["directory_pos"]  ?>sitemap.html">サイトマップ</a></li>
         <li class="online">オンライン見学会予約</li>
-        <li class="delivery">出前deオンライン見学会予約</li>
+        <li class="delivery pc">出前deオンライン見学会予約</li>
         <li class="raijo">来場予約</li>
         <li class="request"><a href="javascript:siryo()">資料請求</a></li>
       </ul>

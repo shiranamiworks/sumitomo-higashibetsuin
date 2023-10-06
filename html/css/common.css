@@ -1255,8 +1255,15 @@ div.header-btn.bg_btn {
     letter-spacing: 0.05em;
     margin: 0 0;
   }
+  .footer-menu ul li.pc {
+    display: none;
+  }
   .footer-menu ul li:nth-child(2n + 1) {
     border-right: 1px solid #f1e9dc;
+  }
+  .footer-menu ul li.raijo{
+    border-right: 1px solid #f1e9dc;
+    border-bottom: none;
   }
   .footer-menu ul li:last-child {
     border-bottom: none;
