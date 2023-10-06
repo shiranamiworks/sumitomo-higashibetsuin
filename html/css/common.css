@@ -619,6 +619,9 @@ div.header-btn.bg_btn {
   display: grid;
   align-items: center;
 }
+.header-menu-btn li a p{
+  padding: 0;
+}
 .header-menu-btn a::before {
   content: "";
   position: absolute;
@@ -742,8 +745,13 @@ div.header-btn.bg_btn {
   .header-menu-other ul li a {
     font-size: 1.8rpm;
   }
-  .header-menu-btn li p,
-  .header-menu-btn li a {
+  .header-menu-btn li p{
+    padding: 10px 10px 10px 0;
+  }
+  .header-menu-btn li a{
+    padding: 0;
+  }
+  .header-menu-btn li a p{
     padding: 10px 10px 10px 0;
   }
 }
