@@ -242,9 +242,9 @@ img#adtag {
 }
 
 .header-logo img {
-  width: 17vw;
-  min-width: 250px;
-  padding: 15px;
+  width: 22.72vw;
+  max-width: 300px;
+  padding: 10px;
 }
 .header-btn {
   display: flex;
