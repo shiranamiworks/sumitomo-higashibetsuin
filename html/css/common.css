@@ -830,11 +830,12 @@ div.header-btn.bg_btn {
   .header-btn {
     display: none;
   }
-  /*
+  
   .header-logo img {
-    width: 95%;
+    width: 100%;
+    max-width: 200px;;
   }
-*/
+
   .hamburger {
     padding-top: 12px;
   }
