@@ -554,7 +554,7 @@
             <div class="image">
               <img src="./images/location02/info03-04.jpg" alt="">
             </div>
-            <p class="name">松原幼稚園（私立）</p>
+            <p class="name">松原幼児園（私立）</p>
           </li>
           <li>
             <div class="image">
@@ -566,7 +566,7 @@
             <div class="image">
               <img src="./images/location02/info03-06.jpg" alt="">
             </div>
-            <p class="name">私立伊勢山中学校［通学校］</p>
+            <p class="name">市立伊勢山中学校［通学校］</p>
           </li>
         </ul>
       </div><!-- tab-inner  -->
