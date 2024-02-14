@@ -46,14 +46,8 @@
 						<!--li class="blog"><a href="javascript:blog();">マンション情報ブログ</a></li-->
 						<li class="blog">マンション情報ブログ</li>
 						<li class="faq"><a href="/tokai/higashibetsuin/faq.cgi" target="_blank">FAQ</a></li>
-						<!--li class="sitemap"><a href="sitemap.html">サイトマップ</a></li-->
-						<!--li class="reserve"><a href="javascript:raijo();">来場予約</a></li-->
-						<li class="request"><a href="javascript:siryo();">資料請求</a></li>
-						<li class="reserve">来場予約</li>
-						<!--li class="online"><a href="javascript:online();">オンライン見学会予約</a></li-->
-						<li class="online">オンライン見学会予約</li>
-						<li class="delivery pc">出前deオンライン見学会予約</li>
-						<!--li class="ytube"><a href="javascript:ytube();">YouTubeチャンネル</a></li-->
+						<li class="link sitemap"><a href="sitemap.html"><span class="ja">サイトマップ</span></a></li>
+      					<script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=ct_noborito&LINK=footer"></script>
 					</ul>
     </div>
   </section>

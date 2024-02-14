@@ -50,6 +50,12 @@
 .banner-slide .slick-slide {
   margin: 0 10px;
   border: 1px solid #d1c7b6;
+  background: #ddd;
+}
+
+.banner-slide .slick-slide figure{
+  width: 100%;
+  height: 100%;
 }
 
 .banner-slide .slick-prev {
@@ -102,6 +108,9 @@
   }
   .banner-slide .slick-next {
     right: -30px;
+  }
+  .slick-slide img {
+    margin: auto;
   }
 }
 

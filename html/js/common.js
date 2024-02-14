@@ -1,11 +1,13 @@
 jQuery(document).ready(function ($) {
   $("#sp-menu-btn").click(function () {
     $(this).toggleClass("active");
+    $("#sp-menu-btn-ft").toggleClass("active");
     $(".header-menu, .sp-menu").toggleClass("active");
     $("body").toggleClass("nav-open");
   });
   $("#sp-menu-btn-ft").click(function () {
     $(this).toggleClass("active");
+    $("#sp-menu-btn").toggleClass("active");
     $(".sp-menu").toggleClass("active sp-toggle");
     $("body").toggleClass("nav-open");
   });
@@ -17,7 +19,7 @@ jQuery(document).ready(function ($) {
   // おすすめ物件スライド
   $("#recommendSlide").slick({
     infinite: true,
-    dots: false,
+    dots: true,
     arrows: true,
     speed: 1000,
     slidesToShow: 3,
@@ -56,30 +58,14 @@ jQuery(document).ready(function ($) {
       {
         scrollTop: $($.attr(this, "href")).offset().top - 100,
       },
-      500
-    );
+      500);
   });
 
   // globalNav
   var PID = $("body").attr("id");
   $(".footer-menu li." + PID + " a").addClass("current");
-
-  openfraijo_off();
-  
-});
-
-//サイドのバナー
-$(function () {
-  var floBtn = $(".float-btn");
-  floBtn.hide();
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > 900) {
-      floBtn.fadeIn();
-    } else {
-      floBtn.fadeOut();
-    }
-  });
-});
+openfraijo_off();
+})
 
 var fraijoSpeed = 300;
 
@@ -104,3 +90,17 @@ function openfraijo_on(){
 		bottom:$('.fixed-btn').height(),opacity:1
 	},fraijoSpeed);
 }
+
+
+//サイドのバナー
+$(function () {
+  var floBtn = $(".float-btn");
+  floBtn.hide();
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 900) {
+      floBtn.fadeIn();
+    } else {
+      floBtn.fadeOut();
+    }
+  });
+});
