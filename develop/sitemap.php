@@ -47,7 +47,7 @@
 						<li class="blog">マンション情報ブログ</li>
 						<li class="faq"><a href="/tokai/higashibetsuin/faq.cgi" target="_blank">FAQ</a></li>
 						<li class="link sitemap"><a href="sitemap.html"><span class="ja">サイトマップ</span></a></li>
-      					<script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=ct_noborito&LINK=footer"></script>
+      					<script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=tokai&PROP_CD=higashibetsuin&LINK=footer"></script>
 					</ul>
     </div>
   </section>
