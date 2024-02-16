@@ -1694,6 +1694,7 @@ a.disable {
   padding: 20px 2%;
   border-top: 1px solid #f1e9dc;
   border-bottom: 1px solid #f1e9dc;
+  background: #fff;
 }
 
 .breadcrumb ul {
@@ -1715,6 +1716,11 @@ a.disable {
   display: inline-block;
 }
 
+.annotation-area{
+  background: #fff;
+  color: #000;
+  padding: 40px 0;
+}
 .footer-contacts {
   padding: 160px 60px;
   background: #534d44;
