@@ -135,7 +135,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
       </nav>
       <div class="header-menu-right">
       <ul class="header-menu-btn">
-          <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=tokai&PROP_CD=furukawabashi&LINK=header-menu"></script>
+          <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=tokai&PROP_CD=higashibetsuin&LINK=header-menu"></script>
         </ul>
         <div class="header-menu-other">
           <ul>
