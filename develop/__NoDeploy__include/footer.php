@@ -115,7 +115,7 @@
       <a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">
         <p><img src="<?= $page_settings["directory_pos"]  ?>images/common/icn_map.png" alt="Œ»’nˆÄ“à}"><br>Œ»’nˆÄ“à}</p>
       </a>
-      <a href="/tokai/higashibetsuin/catalog.cgi" class="fixed-btn__mail">
+      <a href="/tokai/higashibetsuin/catalog.cgi" class="fixed-btn__mail" target="_blank">
         <p><img src="<?= $page_settings["directory_pos"]  ?>images/common/icn_mail.png" alt="Ž‘—¿¿‹"><br>Ž‘—¿¿‹</p>
       </a>
       <a href="javascript:openfraijo();" class="fixed-btn__btn002">
