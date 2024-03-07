@@ -35,7 +35,7 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/location01/mv.jpg" alt="" class="pc"><img src="./images/location01/mv-sp.jpg" alt="" class="sp"><p class="annotation white">image photo</p></div>
+   <div class="image"><img src="./images/location01/mv.jpg" alt="" class="pc"><img src="./images/location01/mv-sp.jpg" alt="" class="tb"><p class="annotation white">image photo</p></div>
   </header><!-- main-visual -->
 
 
@@ -59,14 +59,14 @@
 
 
   <section class="areas area01 clearfix">
-    <div class="title"><img src="./images/location01/area01-01.svg" alt="" class="pc"><img src="./images/location01/area01-01-sp.svg" alt="" class="sp"></div>
+    <div class="title"><img src="./images/location01/area01-01.svg" alt="" class="pc"><img src="./images/location01/area01-01-sp.svg" alt="" class="tb"></div>
     <div class="inner">
       <p class="text">未来を拓くターミナルシティへと飛躍する名駅エリア。</p>
       <p class="lead pc">モダンな高層ビルが建ち並ぶドラマチックな景観が印象的な「名古屋」駅周辺。リニア中央新幹線開業に伴う経済圏の拡大、国際的な都心拠点にふさわしい街づくりを目指し、さらなる開発が進行中です。</p>
     </div><!-- inner -->
     <div class="image">
       <img src="./images/location01/area01-02.jpg" alt="" class="pc">
-      <img src="./images/location01/area01-02-sp.jpg" alt="" class="sp">
+      <img src="./images/location01/area01-02-sp.jpg" alt="" class="tb">
       <p class="annotation white">image photo</p>
     </div>
     <div class="inner">
@@ -143,7 +143,7 @@
 
 
   <section class="areas area02 clearfix">
-    <div class="title"><img src="./images/location01/area02-01.svg" alt="" class="pc"><img src="./images/location01/area02-01-sp.svg" alt="" class="sp"></div>
+    <div class="title"><img src="./images/location01/area02-01.svg" alt="" class="pc"><img src="./images/location01/area02-01-sp.svg" alt="" class="tb"></div>
     <div class="inner">
       <p class="text">魅了しつづける都心。名古屋随一の商業都市「栄」。</p>
       <p class="lead pc">老舗デパートから最新のファッションビル、海外ブランドの店など多彩な施設が集まる名古屋最大の繁華街「栄」。“最高の時間と居心地を提供”を基本コンセプトに掲げる「栄地区グランドビジョン」に基づき、更に魅力的な街へと進化を続けています。
@@ -151,7 +151,7 @@
     </div><!-- inner -->
     <div class="image">
       <img src="./images/location01/area02-02.jpg" alt="" class="pc">
-      <img src="./images/location01/area02-02-sp.jpg" alt="" class="sp">
+      <img src="./images/location01/area02-02-sp.jpg" alt="" class="tb">
       <p class="annotation">image photo</p>
     </div>
     <div class="inner">
@@ -218,21 +218,21 @@
 
 
   <section class="areas area03 clearfix">
-    <div class="title"><img src="./images/location01/area03-01.svg" alt="" class="pc"><img src="./images/location01/area03-01-sp.svg" alt="" class="sp"></div>
+    <div class="title"><img src="./images/location01/area03-01.svg" alt="" class="pc"><img src="./images/location01/area03-01-sp.svg" alt="" class="tb"></div>
     <div class="inner">
       <p class="text">交通拠点から交流拠点へ。さらに進化する次世代ターミナル「金山」。</p>
       <p class="lead pc">JR東海道本線・中央本線、名鉄名古屋本線、地下鉄名城線・名港線の5路線が行き交う、市内有数のビッグターミナル「金山」駅。この特徴を基に当エリアでは「金山駅周辺まちづくり構想」を計画。交通要所としての回遊性・交流性を向上させながら商業・ビジネスなどの都市機能の充実を図っています。また名古屋市音楽プラザ、名古屋都市センター（約1,170m）などの文化芸術や創造拠点との連携によって、より賑わいあふれる街の形成を目指しています。</p>
     </div><!-- inner -->
     <div class="image">
       <img src="./images/location01/area03-02.jpg" alt="" class="pc">
-      <img src="./images/location01/area03-02-sp.jpg" alt="" class="sp">
+      <img src="./images/location01/area03-02-sp.jpg" alt="" class="tb">
       <p class="annotation white">image photo</p>
     </div>
     <div class="inner">
       <p class="lead sp">JR東海道本線・中央本線、名鉄名古屋本線、地下鉄名城線・名港線の5路線が行き交う、市内有数のビッグターミナル「金山」駅。この特徴を基に当エリアでは「金山駅周辺まちづくり構想」を計画。交通要所としての回遊性・交流性を向上させながら商業・ビジネスなどの都市機能の充実を図っています。また名古屋市音楽プラザ、名古屋都市センター（約1,170m）などの文化芸術や創造拠点との連携によって、より賑わいあふれる街の形成を目指しています。</p>
       <div class="image top">
         <img src="./images/location01/area03-03.jpg" alt="" class="pc">
-        <img src="./images/location01/area03-03-sp.jpg" alt="" class="sp">
+        <img src="./images/location01/area03-03-sp.jpg" alt="" class="tb">
         <p class="annotation white">航空写真2</p>
       </div>
       <ul class="list04">
@@ -313,7 +313,7 @@
 
 
   <section class="areas area04 clearfix">
-    <div class="title"><img src="./images/location01/area04-01.svg" alt="" class="pc"><img src="./images/location01/area04-01-sp.svg" alt="" class="sp"></div>
+    <div class="title"><img src="./images/location01/area04-01.svg" alt="" class="pc"><img src="./images/location01/area04-01-sp.svg" alt="" class="tb"></div>
     <div class="inner pc">
       <p class="text">名古屋の中枢を担う機能が集約した中区。</p>
       <p class="lead">愛知県庁・名古屋市役所などの行政機関や、栄・伏見・丸の内といったビジネス街が集中する中区は、西側の土地に比べて標高が高く安定した地盤であることから、徳川家康が名古屋城と城下町を築いた地と言われています。ここに形成された武家屋敷や神社・仏閣、町人の町などが現代の中区の基盤となって以来、名古屋市の中心地として発展を重ねています。</p>
@@ -322,14 +322,14 @@
       <img src="./images/location01/area04-02.jpg" alt="">
       <p class="annotation white">image photo</p>
     </div>
-    <div class="inner sp">
+    <div class="inner tb">
       <p class="text">名古屋の中枢を担う機能が集約した中区。</p>
     </div><!-- inner -->
-    <div class="image sp">
+    <div class="image tb">
       <img src="./images/location01/area04-02.jpg" alt="">
       <p class="annotation white">image photo</p>
     </div>
-    <div class="inner sp">
+    <div class="inner tb">
       <p class="lead">愛知県庁・名古屋市役所などの行政機関や、栄・伏見・丸の内といったビジネス街が集中する中区は、西側の土地に比べて標高が高く安定した地盤であることから、徳川家康が名古屋城と城下町を築いた地と言われています。ここに形成された武家屋敷や神社・仏閣、町人の町などが現代の中区の基盤となって以来、名古屋市の中心地として発展を重ねています。</p>
     </div><!-- inner -->
     <div class="inner">
@@ -343,7 +343,7 @@
         </li>
         <li>
         <p class="lead sp">名古屋城の南に位置する本計画は、標高約10.1mの安定した地盤といわれる熱田台地の上にあります。</p>
-          <div class="image sp">
+          <div class="image tb">
             <img src="./images/location01/area04-05.png" alt="">
           </div>
           <div class="image pc">
@@ -358,7 +358,7 @@
       </ul>
       <ul class="list07">
         <li>
-        <p class="text sp">名古屋城と城下町の入口となった<br class="pc">歴史を持つ橘二丁目付近</p>
+        <p class="text tb">名古屋城と城下町の入口となった<br class="pc">歴史を持つ橘二丁目付近</p>
           <div class="image">
             <img src="./images/location01/area04-06.jpg" alt="">
           </div>

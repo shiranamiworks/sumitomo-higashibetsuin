@@ -29,7 +29,7 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/access/mv.jpg" alt="" class="pc"><img src="./images/access/mv-sp.jpg" alt="" class="sp"><p class="annotation white">image photo</p></div>
+   <div class="image"><img src="./images/access/mv.jpg" alt="" class="pc"><img src="./images/access/mv-sp.jpg" alt="" class="tb"><p class="annotation white">image photo</p></div>
   </header><!-- main-visual -->
 
   <section class="intro sections clearfix">
@@ -55,24 +55,24 @@
       <div class="tit-box sta01 pc">
        <p class="min"><span class="line">地下鉄名城線</span>「<span class="name">東別院</span>」駅まで 徒歩<span class="num">8</span>分</p>
       </div>
-      <div class="info-box main sp">
+      <div class="info-box main tb">
         <p class="line">地下鉄名城線</p>
         <p class="min"><span class="name">「東別院」<span class="to">駅まで</span></span><span class="right">徒歩<span class="big">8</span>分</span></p>
       </div>
-      <div class="info-box main sp">
+      <div class="info-box main tb">
         <p class="line">地下鉄鶴舞線</p>
         <p class="min"><span class="name">「大須観音」<span class="to">駅まで</span></span><span class="right">徒歩<span class="big">12</span>分</span></p>
       </div>
       <div class="image image01">
         <img src="./images/access/line01.jpg" alt="" class="pc">
-        <img src="./images/access/line01-sp.jpg" alt="" class="sp">
+        <img src="./images/access/line01-sp.jpg" alt="" class="tb">
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box pc">
         <p class="min"><span class="name size">「栄」</span>駅<span class="min01">直通<span class="big">6</span>分<span class="mini">（6分）</span></span></p>
         <p class="sen">「東別院」駅より地下鉄名城線利用</p>
       </div>
-      <div class="info-box sp">
+      <div class="info-box tb">
       <p class="min"><span class="name">「栄」駅</span> </p>
         <p class="sub">直通<span class="big">6</span>分<span class="mini">（6分）</span></p>
         <p class="sen">「東別院」駅より地下鉄名城線利用</p>
@@ -84,14 +84,14 @@
       </div>
       <div class="image">
         <img src="./images/access/line02.jpg" alt="" class="pc">
-        <img src="./images/access/line02-sp.jpg" alt="" class="sp">
+        <img src="./images/access/line02-sp.jpg" alt="" class="tb">
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box pc">
         <p class="min"><span class="name size">「名古屋」</span>駅<span class="min01"><span class="big">7</span>分<span class="mini">（11分）</span></span></p>
         <p class="sen">「大須観音」駅より地下鉄鶴舞線利用、「伏見」駅で地下鉄東山線に乗換え</p>
       </div>
-      <div class="info-box sp">
+      <div class="info-box tb">
       <p class="min"><span class="name">「名古屋」駅</span> </p>
         <p class="sub"><span class="big">7</span>分<span class="mini">（11分）</span></p>
         <p class="sen">「大須観音」駅より地下鉄鶴舞線利用、「伏見」駅で地下鉄東山線に乗換え</p>
@@ -102,7 +102,7 @@
       <li>
       <div class="image">
         <img src="./images/access/line03.jpg" alt="" class="pc">
-        <img src="./images/access/line03-sp.jpg" alt="" class="sp">
+        <img src="./images/access/line03-sp.jpg" alt="" class="tb">
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box">
@@ -114,7 +114,7 @@
       <li>
       <div class="image">
         <img src="./images/access/line04.jpg" alt="" class="pc">
-        <img src="./images/access/line04-sp.jpg" alt="" class="sp">
+        <img src="./images/access/line04-sp.jpg" alt="" class="tb">
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box">
@@ -126,7 +126,7 @@
       <li>
       <div class="image">
         <img src="./images/access/line05.jpg" alt="" class="pc">
-        <img src="./images/access/line05-sp.jpg" alt="" class="sp">
+        <img src="./images/access/line05-sp.jpg" alt="" class="tb">
         <p class="annotation white">image photo</p>
       </div>
       <div class="info-box">
@@ -167,7 +167,7 @@
   <section class="taxi clearfix">
     <div class="image">
       <img src="./images/access/taxi01.svg" alt="" class="pc">
-      <img src="./images/access/taxi01-sp.svg" alt="" class="sp">
+      <img src="./images/access/taxi01-sp.svg" alt="" class="tb">
     </div>
     <div class="wrap">
     <p class="tit01">都心立地だからこそ、日常的に気軽にタクシー利用</p>
@@ -214,7 +214,7 @@
   <section class="car clearfix">
     <div class="image">
       <img src="./images/access/car01.svg" alt="" class="pc">
-      <img src="./images/access/car01-sp.svg" alt="" class="sp">
+      <img src="./images/access/car01-sp.svg" alt="" class="tb">
     </div>
     <div class="wrap">
     <p class="tit01">名古屋高速都心環状線の入口が近く、お出かけも軽快に。</p>
