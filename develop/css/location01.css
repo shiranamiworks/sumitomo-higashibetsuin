@@ -137,6 +137,20 @@
   width: 48.5%;
   margin-right: 2%;
 }
+.location01 .areas .list03 li .image {
+  position: relative;
+}
+.location01 .areas .list03 li .open {
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.2;
+  background-color: #8e8068;
+  padding: 10px 15px;
+  border-radius: 40px;
+}
 .location01 .areas .list03 li:last-child {
   margin-right: auto;
 }
