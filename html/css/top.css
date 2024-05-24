@@ -154,10 +154,27 @@
   letter-spacing: 0.1em;
   padding: 40px 0;
 }
+#top .top-txt a {
+  display: inline-block;
+  padding: 10px 5px;
+  background-color: #fff;
+  color: #000;
+  font-size: 18px;
+  line-height: 1.4;
+  margin-left: 15px;
+}
+#top .top-txt span {
+  font-size: 80%;
+  margin-left: -15px;
+  margin-right: -15px;
+}
 @media screen and (max-width: 768px) {
   #top .top-txt {
     font-size: 24px;
     padding: 20px 0;
+  }
+  #top .top-txt a {
+    margin-top: 10px;
   }
 }
 #top .points {
@@ -183,6 +200,8 @@
 }
 #top .points .lists {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 #top .points .lists li {
   position: relative;
@@ -194,7 +213,7 @@
   height: 100%;
   width: 1px;
   top: 0;
-  right: -3%;
+  right: 0;
   background-color: #888888;
 }
 #top .points .lists .list01 {
@@ -292,7 +311,10 @@
     font-size: 15px;
   }
   #top .points .text02 .big {
-    font-size: 120%;
+    font-size: 150%;
+  }
+  #top .points .text02 .color {
+    color: #9d7a41;
   }
 }
 @media screen and (max-width: 1024px) {
@@ -312,13 +334,13 @@
     flex-wrap: wrap; /* 折返し指定 */
   }
   #top .points .lists .list01 {
-    width: 30%;
+    width: 28%;
   }
   #top .points .lists .list02 {
-    width: 30%;
+    width: 36%;
   }
   #top .points .lists .list03 {
-    width: 40%;
+    width: 36%;
   }
   #top .points .lists .list04 {
     margin-top: 20px;

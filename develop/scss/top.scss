@@ -164,11 +164,28 @@
     font-size: 36px;
     letter-spacing: 0.1em;
     padding: 40px 0;
+    a{
+      display: inline-block;;
+      padding: 10px 5px;
+      background-color: #fff;
+      color: #000;
+      font-size: 18px;
+      line-height: 1.4;
+      margin-left: 15px;
+    }
+    span{
+      font-size: 80%;
+      margin-left: -15px;
+      margin-right: -15px;
+    }
   }
   @media screen and (max-width: 768px) {
     .top-txt {
       font-size: 24px;
       padding: 20px 0;
+      a{
+        margin-top: 10px;;
+      }
     }
   }
   .points {
@@ -193,6 +210,8 @@
     }
     .lists {
       display: flex;
+      justify-content: center;
+      align-items: center;
       li {
         position: relative;
         &::after {
@@ -202,7 +221,7 @@
           height: 100%;
           width: 1px;
           top: 0;
-          right: -3%;
+          right:0;
           background-color: #888888;
         }
       }
@@ -305,7 +324,10 @@
       .text02 {
         font-size: 15px;
         .big {
-          font-size: 120%;
+          font-size: 150%;
+        }
+        .color{
+          color: #9d7a41;
         }
       }
     } //points
@@ -327,13 +349,13 @@
       .lists {
         flex-wrap: wrap; /* 折返し指定 */
         .list01 {
-          width: 30%;
+          width: 28%;
         }
         .list02 {
-          width: 30%;
+          width: 36%;
         }
         .list03 {
-          width: 40%;
+          width: 36%;
         }
         .list04 {
           margin-top: 20px;
