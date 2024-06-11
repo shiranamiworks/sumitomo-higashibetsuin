@@ -11,8 +11,8 @@ $site_setting = array(
   "tel_link" => "tel:0120578758",
   "meta_link" => "https://www.sumitomo-rd-mansion.jp/gallery/",
   "requested_only" => "#requested_only",
-  // "twitter_link" => "https://twitter.com/higashibetsuin",
-  // "insta_link" => "https://www.instagram.com/higashibetsuin"
+  "twitter_link" => "https://x.com/ct_higasibetuin",
+  "insta_link" => "https://www.instagram.com/ct_higashibetsuin/"
 );
 $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 ?>
@@ -144,10 +144,10 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
             <li><a href="javascript:outline();">物件概要</a></li>
             <li><p>マンション情報ブログ</p></li>
           </ul>
-          <!-- <div class="header-sns">
-            <a href="<?=$site_setting["twitter_link"] ?>" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
+          <div class="header-sns">
+            <a href="<?=$site_setting["twitter_link"] ?>" target="_blank"><img src="./images/common/icn_x.png" alt="Twitter"></a>
             <a href="<?=$site_setting["insta_link"] ?>" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
-          </div> -->
+          </div>
           <!-- header-sns -->
         </div><!-- header-menu-other -->
       </div><!-- header-menu-right -->
@@ -173,10 +173,10 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=tokai&PROP_CD=higashibetsuin&LINK=sp-menu"></script>
       </ul>
     </nav>
-    <!-- <div class="sp-menu-sns d-flex justify-content-center align-items-center">
-      <a href="<?=$site_setting["twitter_link"] ?>" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/icn_twitter.png" alt="Twitter"></a>
+    <div class="sp-menu-sns d-flex justify-content-center align-items-center">
+      <a href="<?=$site_setting["twitter_link"] ?>" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/icn_x.png" alt="Twitter"></a>
       <a href="<?=$site_setting["insta_link"] ?>" target="_blank"><img src="<?= $page_settings["directory_pos"]  ?>images/common/icn_instagram.png" alt="Instagram"></a>
-    </div> -->
+    </div>
   </div><!--//sp-menu -->
 </header>
 <!-- #header -->
