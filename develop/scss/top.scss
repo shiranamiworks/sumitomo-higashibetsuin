@@ -143,7 +143,7 @@
       &.sub {
         top: 90%;
         left: 50%;
-        width: (460 / 1600) * 100%;
+        // width: (460 / 1600) * 100%;
       }
     }
   }
@@ -243,6 +243,9 @@
       .big {
         font-size: 120%;
       }
+      .color{
+        color: #9d7a41;
+      }
       .mini{
         font-size: 80%;
       }
@@ -325,9 +328,6 @@
         font-size: 15px;
         .big {
           font-size: 150%;
-        }
-        .color{
-          color: #9d7a41;
         }
       }
     } //points

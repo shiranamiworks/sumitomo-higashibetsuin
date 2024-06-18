@@ -35,7 +35,7 @@
   </div><!--//top-mv -->
 
 
-  <p class="top-txt">オンライン<span>（web）</span><br class="sp">事前ご案内会開催<br class="tb"><a href="javascript:openfraijo();">ご予約は<br class="pc">こちらから</a></p>
+  <p class="top-txt">オンライン<span>（web）</span><br class="sp">事前ご案内会開催<br class="tb"><a href="javascript:online();">ご予約は<br class="pc">こちらから</a></p>
 
   <div class="points">
     <ul class="lists wrap">

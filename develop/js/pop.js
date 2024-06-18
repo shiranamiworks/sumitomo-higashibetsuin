@@ -10,7 +10,7 @@ function raijo(){
 }
 
 function online(){
-	url = ebis.link("オンライン見学会予約URL");
+	url = "https://airrsv.net/AKR3871363019/calendar";
 	sub = window.open(url, "", "toolbar=no,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=850,height=580");
 }
 
