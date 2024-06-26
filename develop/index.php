@@ -21,16 +21,16 @@
 
 <div class="top-mv__slide pc">
   <figure><img src="./images/top/mv03.jpg" alt="" class="w_100 pc"><p class="annotation white">外観完成予想図</p></figure>
-  <figure><img src="./images/top/mv04.jpg" alt="" class="w_100 pc"><p class="annotation white"></p></figure>
-  <figure><img src="./images/top/mv05.jpg" alt="" class="w_100 pc"><p class="annotation white"></p></figure>
-  <figure><img src="./images/top/mv06.jpg" alt="" class="w_100 pc"><p class="annotation white"></p></figure>
+  <figure><img src="./images/top/mv04.jpg" alt="" class="w_100 pc"><p class="annotation white">image photo</p></figure>
+  <figure><img src="./images/top/mv05.jpg" alt="" class="w_100 pc"><p class="annotation white">下茶屋公園（約550m／徒歩7分）</p><p class="annotation white left top">東別院参道（約320ｍ／徒歩4分）</p><p class="annotation white left">下茶屋公園（約550m／徒歩7分）</p></figure>
+  <figure><img src="./images/top/mv06.jpg" alt="" class="w_100 pc"><p class="annotation white">image photo</p></figure>
   <figure><img src="./images/top/mv07.jpg" alt="" class="w_100 pc"><p class="annotation white">外観完成予想図・東別院（約340m／徒歩5分）</p></figure>
   </div><!--//top-mv -->
   <div class="top-mv__slide sp tb">
   <figure><img src="./images/top/mv03-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">外観完成予想図</p></figure>
-  <figure><img src="./images/top/mv04-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white"></p></figure>
-  <figure><img src="./images/top/mv05-sp.jpg" alt="" class="w_100 pc"><p class="annotation white"></p></figure>
-  <figure><img src="./images/top/mv06-sp.jpg" alt="" class="w_100 pc"><p class="annotation white"></p></figure>
+  <figure><img src="./images/top/mv04-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">image photo</p></figure>
+  <figure><img src="./images/top/mv05-sp.jpg" alt="" class="w_100 pc"><p class="annotation white">下茶屋公園（約550m／徒歩7分）</p><p class="annotation white left top">東別院参道（約320ｍ／徒歩4分）</p><p class="annotation white left">下茶屋公園<br>（約550m／徒歩7分）</p></figure>
+  <figure><img src="./images/top/mv06-sp.jpg" alt="" class="w_100 pc"><p class="annotation white">image photo</p></figure>
   <figure><img src="./images/top/mv07-sp.jpg" alt="" class="w_100 pc"><p class="annotation white">外観完成予想図・東別院（約340m／徒歩5分）</p></figure>
   </div><!--//top-mv -->
 

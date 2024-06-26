@@ -34,6 +34,15 @@
 .slick-initialized .slick-slide {
   position: relative;
 }
+.slick-initialized .slick-slide .annotation.left {
+  left: 10px;
+  right: auto;
+  line-height: 1.4;
+}
+.slick-initialized .slick-slide .annotation.top {
+  top: 10px;
+  bottom: auto;
+}
 
 /************* バナースライド *************/
 .top-banner {
