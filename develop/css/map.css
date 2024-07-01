@@ -224,11 +224,12 @@
     height: 53.125vw;
   }
   #map #submaincontainer #map2 {
-    width: 30.312vw;
-    margin: 0 auto 0 auto;
+    display: block;
+    width: 50vw;
+    margin: 50px auto 0 auto;
   }
   #map #submaincontainer #map2 img {
-    width: 30.312vw;
+    width: 33.312vw;
     height: 13.5vw;
   }
   #map #GoogleMap {
