@@ -139,6 +139,14 @@
   font-size: 3rem;
   margin-left: 20px;
 }
+#map .mapArea.map02 {
+  max-width: 1000px;
+  margin: 0 auto 100px;
+}
+#map .mapArea .ttl {
+  font-size: 2.4rem;
+  margin: 0 auto 30px;
+}
 #map #submaincontainer .zip {
   font-size: 30px;
   font-weight: normal;
@@ -225,7 +233,7 @@
   }
   #map #submaincontainer #map2 {
     display: block;
-    width: 50vw;
+    width: 75vw;
     margin: 50px auto 0 auto;
   }
   #map #submaincontainer #map2 img {
@@ -298,10 +306,13 @@
     width: 92%;
   }
   #map #submaincontainer .ttl {
-    width: 60%;
+    width: 94%;
     height: auto;
     margin: 40px auto;
     font-size: 30px;
+  }
+  #map #submaincontainer .mapArea .ttl {
+    font-size: 1.8rem;
   }
   #map #submaincontainer .zip {
     font-size: 22px;

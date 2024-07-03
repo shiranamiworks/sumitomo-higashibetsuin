@@ -19,9 +19,18 @@
 
 <main>
 <section id="submaincontainer" class="map-sec">
-    <h2 class="ttl"><span class="eng">MAP</span><span class="ja">現地案内図</span></h2>
+    <h2 class="ttl"><span class="eng">MAP</span><br><span class="ja">マンションギャラリー・現地案内図</span></h2>
+    <div class="mapArea map02">
+      <h2 class="ttl">総合マンションギャラリー栄館案内図</h2>
+        <div class="image pc"><img src="./images/map/map02.jpg" alt="現地案内図" id="map2"></div>
+        <figure class="img img05 tb">
+          <img src="./images/map/map02.jpg" class="sp-hide" alt="">
+          <img src="./images/map/map02.jpg" class="zoomImg sp" alt=""/>
+        </figure>
+      </div><!-- mapArea -->
     <div class="mapArea">
-        <div class="image pc"><img src="./images/map/map.jpg" alt="現地案内図" id="map1"></div>
+    <h2 class="ttl">現地案内図</h2>
+        <div class="image pc"><img src="./images/map/map.jpg" alt="マンションギャラリー・現地案内図" id="map1"></div>
         <figure class="img img05 tb">
           <img src="./images/map/map.jpg" class="sp-hide" alt="">
           <img src="./images/map/map.jpg" class="zoomImg sp" alt=""/>
@@ -36,13 +45,6 @@
     <div class="container">
 	     <p class="txt">※掲載の現地案内図は一部道路・施設等を抜粋して表記しています。</p>
     </div>
-    <div class="mapArea map02">
-        <div class="image pc"><img src="./images/map/map02.jpg" alt="現地案内図" id="map2"></div>
-        <figure class="img img05 tb">
-          <img src="./images/map/map02.jpg" class="sp-hide" alt="">
-          <img src="./images/map/map02.jpg" class="zoomImg sp" alt=""/>
-        </figure>
-      </div><!-- mapArea -->
 </section>
 </main>
 
