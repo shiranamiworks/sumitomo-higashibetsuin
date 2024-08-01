@@ -113,7 +113,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         </ul>
         <ul>
           <li>
-            <p><span class="f-en">PLAN</span><br>間取り</p>
+          <a href="https://www.sumitomo-rd-mansion.jp/shuto/tokai/higashibetsuin/list.php" target="_blank"><span class="f-en">PLAN</span><br>間取り</a>
           </li>
           <li>
             <p><span class="f-en">EQUIPMENT ・QUALITY</span><br>設備・仕様</p>
@@ -161,7 +161,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li>デザイン</li>
         <li>共&#12132;空間</li>
         <li>室内空間</li>
-        <li>間取り</li>
+        <li><a href="https://www.sumitomo-rd-mansion.jp/tokai/higashibetsuin/list.php" target="_blank">間取り</a></li>
         <li>設備・仕様</li>
         <li>構造・防災</li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>location01.html">ロケーション</a></li>

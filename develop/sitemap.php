@@ -31,7 +31,7 @@
 						（ <a href="private_01.html"></a> ／ <a href="private_02.html"></a> ）</span></li-->
 						<li class="private">室内空間</li>
 						<!--li class="plan"><a href="/tokai/higashibetsuin/list.php" target="_blank">間取り</a></li-->
-						<li class="plan">間取り</li>
+						<li class="plan"><a href="https://www.sumitomo-rd-mansion.jp/tokai/higashibetsuin/list.php" target="_blank">間取り</a></li>
 						<!--li class="equipment"><span>設備・仕様<br />
 						（ <a href="equipment_01.html">キッチン</a> ／ <a href="equipment_02.html">サニタリー</a> ／ <a href="equipment_03.html">健康・エコ・省エネ</a> ／ <a href="equipment_04.html">収納・快適仕様</a> ／ <a href="equipment_05.html">ユニバーサルデザイン・マルチメディア</a> ）</span></li-->
 						<li class="equipment">設備・仕様</li>

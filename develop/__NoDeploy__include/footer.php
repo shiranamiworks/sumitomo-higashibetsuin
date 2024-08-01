@@ -19,7 +19,7 @@
         <li class="design">デザイン</li>
         <li class="public">共&#12132;空間</li>
         <li class="private">室内空間</li>
-        <li class="roomplan">間取り</li>
+        <li class="roomplan"><a href="https://www.sumitomo-rd-mansion.jp/tokai/higashibetsuin/list.php" target="_blank">間取り</a></li>
         <li class="equipment">設備・仕様</li>
         <li class="structure">構造・防災</li>
         <li class="location"><a href="<?= $page_settings["directory_pos"]  ?>location01.html">ロケーション</a></li>
