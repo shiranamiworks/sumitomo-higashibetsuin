@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* 
+  css設定 @charsetが消されるsass仕様へのハック用コメントです。削除しないでください。新規作成時も必須！
+ */
+@import "inc/mixin.scss";
+@import "inc/functions.scss";
+@import "inc/param.scss";
+#adtag {
+  opacity: 0;
+}
+#public {
+  main img {
+    max-width: 100%;
+  }
+  .img {
+    position: relative;
+  }
+
+  main {
+    background: #000;
+    color: #fff;
+    font-family: "RyuminPro", serif;
+    line-height: 1;
+  }
+  sp {
+    display: none;
+  }
+  pc {
+    display: block;
+  }
+  .page-annotation {
+    font-family: "Noto Sans JP", sans-serif;
+  }
+  .main-visual {
+    position: relative;
+    border: none;
+    .annotation {
+      bottom: 50px;
+    }
+  }
+  .sections {
+    .inner {
+      margin: 0 auto;
+      width: 80%;
+      max-width: 1200px;
+    }
+    .image {
+      position: relative;
+    }
+    .annotation {
+      font-size: 10px;
+      text-align: right;
+    }
+    .texts {
+      padding: 100px 0;
+      .tit {
+        font-size: 26px;
+        color: #a2a383;
+        letter-spacing: 0.2em;
+        margin-bottom: 20px;
+      }
+      .line {
+        border-left: 0.5px solid #a2a383;
+        padding: 30px 40px;
+        box-sizing: border-box;
+      }
+      .txt01 {
+        font-size: 30px;
+        margin-bottom: 30px;
+      }
+      .txt02 {
+        font-size: 18px;
+        line-height: 2;
+      }
+      .btn{
+        text-align: right;
+        a{
+          font-size: 18px;
+          padding: 10px 15px;
+          background-color: #a2a383;
+        }
+      }
+    }
+  } //sections
+  .intro {
+    padding: 140px 0 0;
+    .text {
+      font-size: 22px;
+      line-height: 2.2;
+      margin-bottom: 180px;
+    }
+    .img01 {
+      margin-bottom: 10px;
+    }
+    li {
+      float: left;
+      width: 49.7%;
+    }
+    li:last-child {
+      float: right;
+    }
+  } //intro
+  .urban {
+    .img01 {
+      margin-bottom: 10px;
+    }
+    li {
+      float: left;
+      width: 49.7%;
+    }
+    li:last-child {
+      float: right;
+    }
+  } //urban
+
+  @media screen and (max-width: 1300px) {
+  }
+  @media screen and (max-width: 1024px) {
+  }
+  @media screen and (max-width: 768px) {
+    sp {
+      display: block;
+    }
+    pc {
+      display: none;
+    }
+
+    .main-visual {
+      .annotation {
+        bottom: 40px;
+      }
+    }
+    .sections {
+      .texts {
+        padding: 60px 0 90px;
+        .tit {
+          font-size: 20px;
+        }
+        .line {
+          padding: 10px 20px;
+          margin-bottom: 20px;
+        }
+        .txt01 {
+          font-size: 22px;
+          line-height: 1.6;
+          margin-bottom: 20px;
+        }
+        .txt02 {
+          font-size: 16px;
+        }
+      }
+    } //sections
+    .intro {
+      padding: 60px 0 0;
+      .text {
+        font-size: 16px;
+        margin-bottom: 60px;
+      }
+      li {
+        float: none;
+        width: 100%;
+      }
+      li:last-child {
+        float: none;
+        margin-top: 10px;
+      }
+    } //intro
+    .urban {
+      li {
+        float: none;
+        width: 100%;
+      }
+      li:last-child {
+        float: none;
+        margin-top: 10px;
+      }
+    } //urban
+  } //sp
+}

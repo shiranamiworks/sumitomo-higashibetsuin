@@ -1,0 +1,158 @@
+@charset "UTF-8";
+/* 
+  css設定 @charsetが消されるsass仕様へのハック用コメントです。削除しないでください。新規作成時も必須！
+ */
+#adtag {
+  opacity: 0;
+}
+
+#public main img {
+  max-width: 100%;
+}
+#public .img {
+  position: relative;
+}
+#public main {
+  background: #000;
+  color: #fff;
+  font-family: "RyuminPro", serif;
+  line-height: 1;
+}
+#public sp {
+  display: none;
+}
+#public pc {
+  display: block;
+}
+#public .page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+}
+#public .main-visual {
+  position: relative;
+  border: none;
+}
+#public .main-visual .annotation {
+  bottom: 50px;
+}
+#public .sections .inner {
+  margin: 0 auto;
+  width: 80%;
+  max-width: 1200px;
+}
+#public .sections .image {
+  position: relative;
+}
+#public .sections .annotation {
+  font-size: 10px;
+  text-align: right;
+}
+#public .sections .texts {
+  padding: 100px 0;
+}
+#public .sections .texts .tit {
+  font-size: 26px;
+  color: #a2a383;
+  letter-spacing: 0.2em;
+  margin-bottom: 20px;
+}
+#public .sections .texts .line {
+  border-left: 0.5px solid #a2a383;
+  padding: 30px 40px;
+  box-sizing: border-box;
+}
+#public .sections .texts .txt01 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+#public .sections .texts .txt02 {
+  font-size: 18px;
+  line-height: 2;
+}
+#public .sections .texts .btn {
+  text-align: right;
+}
+#public .sections .texts .btn a {
+  font-size: 18px;
+  padding: 10px 15px;
+  background-color: #a2a383;
+}
+#public .intro {
+  padding: 140px 0 0;
+}
+#public .intro .text {
+  font-size: 22px;
+  line-height: 2.2;
+  margin-bottom: 180px;
+}
+#public .intro .img01 {
+  margin-bottom: 10px;
+}
+#public .intro li {
+  float: left;
+  width: 49.7%;
+}
+#public .intro li:last-child {
+  float: right;
+}
+#public .urban .img01 {
+  margin-bottom: 10px;
+}
+#public .urban li {
+  float: left;
+  width: 49.7%;
+}
+#public .urban li:last-child {
+  float: right;
+}
+@media screen and (max-width: 768px) {
+  #public sp {
+    display: block;
+  }
+  #public pc {
+    display: none;
+  }
+  #public .main-visual .annotation {
+    bottom: 40px;
+  }
+  #public .sections .texts {
+    padding: 60px 0 90px;
+  }
+  #public .sections .texts .tit {
+    font-size: 20px;
+  }
+  #public .sections .texts .line {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+  }
+  #public .sections .texts .txt01 {
+    font-size: 22px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  #public .sections .texts .txt02 {
+    font-size: 16px;
+  }
+  #public .intro {
+    padding: 60px 0 0;
+  }
+  #public .intro .text {
+    font-size: 16px;
+    margin-bottom: 60px;
+  }
+  #public .intro li {
+    float: none;
+    width: 100%;
+  }
+  #public .intro li:last-child {
+    float: none;
+    margin-top: 10px;
+  }
+  #public .urban li {
+    float: none;
+    width: 100%;
+  }
+  #public .urban li:last-child {
+    float: none;
+    margin-top: 10px;
+  }
+}/*# sourceMappingURL=public.css.map */

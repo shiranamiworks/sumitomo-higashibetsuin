@@ -149,7 +149,7 @@
       left: 64%;
       transform: translateX(-50%);
       max-width: 908px;
-      width: (908 / 1600) * 100%;
+      width: calc(908 / 1600) * 100%;
       filter: drop-shadow(0 0 5px rgba(138, 124, 201, 1))
         drop-shadow(0 0 5px rgba(138, 124, 201, 1));
       &.sub {
