@@ -28,13 +28,9 @@
 	<!--// パンくずリスト -->
 
   <header class="main-visual clearfix">
-  <div class="top-mv__slide pc">
-  <figure><img src="./images/public/mv01.jpg" alt="" class="w_100 pc"><p class="annotation white">エントランス完成予想図</p></figure>
-  <figure><img src="./images/public/mv02.jpg" alt="" class="w_100 pc"><p class="annotation white">エントランス完成予想図</p></figure>
-  </div><!--//top-mv -->
-  <div class="top-mv__slide sp tb">
-  <figure><img src="./images/top/mv01-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">エントランス完成予想図</p></figure>
-  <figure><img src="./images/top/mv02-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">エントランス完成予想図</p></figure>
+  <div class="top-mv__slide">
+  <figure><img src="./images/public/mv01.jpg" alt="" class="w_100"><p class="annotation white">エントランス完成予想図</p></figure>
+  <figure><img src="./images/public/mv02.jpg" alt="" class="w_100"><p class="annotation white">エントランス完成予想図</p></figure>
   </div><!--//top-mv -->
 
   </header><!-- main-visual -->

@@ -123,7 +123,7 @@
 }
 #public .intro .txt01 {
   font-size: 30px;
-  line-height: 2.2;
+  line-height: 1.8;
   margin-bottom: 20px;
 }
 #public .intro .txt02 {
@@ -152,11 +152,8 @@
   #public pc {
     display: none;
   }
-  #public .main-visual .annotation {
-    bottom: 40px;
-  }
   #public .sections .texts {
-    padding: 60px 0 90px;
+    padding: 40px 0 30px;
   }
   #public .sections .texts .tit {
     font-size: 20px;
@@ -176,24 +173,16 @@
   #public .intro {
     padding: 60px 0 0;
   }
-  #public .intro .text {
+  #public .intro .txt01 {
+    font-size: 24px;
+  }
+  #public .intro .txt02 {
     font-size: 16px;
-    margin-bottom: 60px;
   }
-  #public .intro li {
-    float: none;
-    width: 100%;
+  #public .hall .txt01 {
+    font-size: 24px;
   }
-  #public .intro li:last-child {
-    float: none;
-    margin-top: 10px;
-  }
-  #public .urban li {
-    float: none;
-    width: 100%;
-  }
-  #public .urban li:last-child {
-    float: none;
-    margin-top: 10px;
+  #public .hall .txt02 {
+    font-size: 16px;
   }
 }/*# sourceMappingURL=public.css.map */

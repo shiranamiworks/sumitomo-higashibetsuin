@@ -16,8 +16,8 @@
       <ul>
         <li class="start top"><a href="<?= $page_settings["directory_pos"]  ?>">トップページ</a></li>
         <li class="concept"><a href="<?= $page_settings["directory_pos"]  ?>concept.html">コンセプト</a></li>
-        <li class="design">デザイン</li>
-        <li class="public">共&#12132;空間</li>
+        <li class="design"><a href="<?= $page_settings["directory_pos"]  ?>design.html">デザイン</a></li>
+        <li class="public"><a href="<?= $page_settings["directory_pos"]  ?>public.html">共&#12132;空間</a></li>
         <li class="private">室内空間</li>
         <li class="roomplan"><a href="https://www.sumitomo-rd-mansion.jp/tokai/higashibetsuin/list.php" target="_blank">間取り</a></li>
         <li class="equipment">設備・仕様</li>

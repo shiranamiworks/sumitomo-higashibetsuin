@@ -88,6 +88,7 @@
     .title{
       font-size: 30px;
       margin-bottom: 30px;
+      line-height: 1.8;
     }
     .text {
       font-size: 22px;
@@ -101,8 +102,9 @@
   .landplan {
     background: #fff;
     color: #000;
+    padding-top: 100px;
     .img01 {
-      margin-bottom: 10px;
+      margin: 80px auto 10px;
     }
   } //urban
 
@@ -125,7 +127,7 @@
     }
     .sections {
       .texts {
-        padding: 60px 0 90px;
+        padding: 60px 0 0;
         .tit {
           font-size: 20px;
         }
@@ -141,6 +143,9 @@
         .txt02 {
           font-size: 16px;
         }
+        .img01{
+          margin-top: 40px;
+        }
       }
     } //sections
     .intro {
@@ -148,14 +153,6 @@
       .text {
         font-size: 16px;
         margin-bottom: 60px;
-      }
-      li {
-        float: none;
-        width: 100%;
-      }
-      li:last-child {
-        float: none;
-        margin-top: 10px;
       }
     } //intro
     .urban {

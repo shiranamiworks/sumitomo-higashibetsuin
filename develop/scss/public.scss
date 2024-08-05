@@ -135,7 +135,7 @@
     }
     .txt01 {
       font-size: 30px;
-      line-height: 2.2;
+      line-height: 1.8;
       margin-bottom: 20px;
     }
     .txt02 {
@@ -173,14 +173,10 @@
       display: none;
     }
 
-    .main-visual {
-      .annotation {
-        bottom: 40px;
-      }
-    }
+
     .sections {
       .texts {
-        padding: 60px 0 90px;
+        padding: 40px 0 30px;
         .tit {
           font-size: 20px;
         }
@@ -200,27 +196,19 @@
     } //sections
     .intro {
       padding: 60px 0 0;
-      .text {
+      .txt01 {
+        font-size: 24px;
+      }
+      .txt02 {
         font-size: 16px;
-        margin-bottom: 60px;
-      }
-      li {
-        float: none;
-        width: 100%;
-      }
-      li:last-child {
-        float: none;
-        margin-top: 10px;
       }
     } //intro
-    .urban {
-      li {
-        float: none;
-        width: 100%;
+    .hall {
+      .txt01 {
+        font-size: 24px;
       }
-      li:last-child {
-        float: none;
-        margin-top: 10px;
+      .txt02 {
+        font-size: 16px;
       }
     } //urban
   } //sp

@@ -28,8 +28,7 @@
 	<!--// パンくずリスト -->
 
   <header class="main-visual clearfix">
-    <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/design/mv.jpg" alt="" class="pc"><img src="./images/design/mv-sp.jpg" alt="" class="tb"><p class="annotation white">外観完成予想図</p></div>
+   <div class="image"><img src="./images/design/mv.jpg" alt=""><p class="annotation white">外観完成予想図</p></div>
   </header><!-- main-visual -->
 
   <section class="intro sections clearfix">
@@ -45,12 +44,10 @@
 
 
   <section class="sections landplan clearfix">
+  <div class="tit"><img src="./images/design/title.svg" alt="" class="pc"><img src="./images/design/title-sp.svg" alt="" class="tb"></div>
     <div class="texts inner">
-      <div class="tit"><img src="./images/design/title.svg" alt="" class="pc"></div>
-      <div class="line">
-        <p class="txt01">都市生活に快適さと安心感をもたらす、<br>全戸南東向きのランドスケープ。</p>
+        <p class="txt01">都市生活に快適さと安心感をもたらす、<br class="pc">全戸南東向きのランドスケープ。</p>
         <p class="txt02">安心できる暮らしのために、日々をサポートする機能的な共用設備や仕様、さらに安全性に配慮した歩車分離設計を採用。<br>都心生活にふさわしいランドプランを実現しています。</p>
-      </div>
       <div class="image img01">
         <img src="./images/design/landplan.png" alt=""><p class="annotation">敷地配置イラスト</p>
       </div>

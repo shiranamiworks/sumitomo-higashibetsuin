@@ -83,6 +83,7 @@
 #design .intro .title {
   font-size: 30px;
   margin-bottom: 30px;
+  line-height: 1.8;
 }
 #design .intro .text {
   font-size: 22px;
@@ -95,9 +96,10 @@
 #design .landplan {
   background: #fff;
   color: #000;
+  padding-top: 100px;
 }
 #design .landplan .img01 {
-  margin-bottom: 10px;
+  margin: 80px auto 10px;
 }
 @media screen and (max-width: 768px) {
   #design sp {
@@ -110,7 +112,7 @@
     bottom: 40px;
   }
   #design .sections .texts {
-    padding: 60px 0 90px;
+    padding: 60px 0 0;
   }
   #design .sections .texts .tit {
     font-size: 20px;
@@ -127,20 +129,15 @@
   #design .sections .texts .txt02 {
     font-size: 16px;
   }
+  #design .sections .texts .img01 {
+    margin-top: 40px;
+  }
   #design .intro {
     padding: 60px 0 0;
   }
   #design .intro .text {
     font-size: 16px;
     margin-bottom: 60px;
-  }
-  #design .intro li {
-    float: none;
-    width: 100%;
-  }
-  #design .intro li:last-child {
-    float: none;
-    margin-top: 10px;
   }
   #design .urban li {
     float: none;
