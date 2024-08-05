@@ -6,6 +6,9 @@
   opacity: 0;
 }
 
+#public {
+  /************* バナースライド *************/
+}
 #public main img {
   max-width: 100%;
 }
@@ -32,7 +35,41 @@
   border: none;
 }
 #public .main-visual .annotation {
-  bottom: 50px;
+  bottom: 10px;
+}
+#public .top-mv {
+  background: #f1e9dc;
+}
+#public .top-mv__slide .slick-dots li {
+  width: 10px;
+  height: 10px;
+}
+#public .top-mv__slide .slick-dots li button {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border-radius: 50%;
+  background-color: #707070;
+}
+#public .top-mv__slide .slick-dots li.slick-active button {
+  background-color: rgb(80, 50, 30);
+}
+#public .top-mv__slide .slick-dots li button:before {
+  display: none;
+}
+#public .slick-initialized .slick-slide {
+  position: relative;
+}
+#public .slick-initialized .slick-slide .annotation.left {
+  left: 10px;
+  right: auto;
+  line-height: 1.4;
+}
+#public .slick-initialized .slick-slide .annotation.top {
+  top: 10px;
+  bottom: auto;
+  line-height: 1.4;
+  text-align: right;
 }
 #public .sections .inner {
   margin: 0 auto;
@@ -47,7 +84,7 @@
   text-align: right;
 }
 #public .sections .texts {
-  padding: 100px 0;
+  padding: 40px 0;
 }
 #public .sections .texts .tit {
   font-size: 26px;
@@ -77,32 +114,36 @@
   background-color: #a2a383;
 }
 #public .intro {
-  padding: 140px 0 0;
+  padding: 40px 0 0;
 }
-#public .intro .text {
-  font-size: 22px;
+#public .intro h1 {
+  max-width: 1256px;
+  width: 78.5%;
+  margin: 0 auto 40px;
+}
+#public .intro .txt01 {
+  font-size: 30px;
   line-height: 2.2;
-  margin-bottom: 180px;
+  margin-bottom: 20px;
 }
-#public .intro .img01 {
-  margin-bottom: 10px;
+#public .intro .txt02 {
+  font-size: 18px;
+  line-height: 2.2;
+  margin-bottom: 80px;
 }
-#public .intro li {
-  float: left;
-  width: 49.7%;
+#public .hall .txt01 {
+  font-size: 30px;
+  line-height: 2.2;
+  margin-bottom: 20px;
 }
-#public .intro li:last-child {
-  float: right;
+#public .hall .txt02 {
+  font-size: 18px;
+  line-height: 2.2;
 }
-#public .urban .img01 {
-  margin-bottom: 10px;
-}
-#public .urban li {
-  float: left;
-  width: 49.7%;
-}
-#public .urban li:last-child {
-  float: right;
+#public .hall .img01 {
+  max-width: 1280px;
+  width: 80%;
+  margin: 40px auto 100px;
 }
 @media screen and (max-width: 768px) {
   #public sp {
