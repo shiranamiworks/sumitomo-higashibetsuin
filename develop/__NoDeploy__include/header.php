@@ -160,10 +160,8 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
       <ul>
         <li><a href="<?= $page_settings["directory_pos"]  ?>">トップ</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>concept.html">コンセプト</a></li>
-        <!-- <li><a href="<?= $page_settings["directory_pos"]  ?>design.html">デザイン</a></li> -->
+        <li><p href="<?= $page_settings["directory_pos"]  ?>design.html">デザイン</p></li>
         <li><p href="<?= $page_settings["directory_pos"]  ?>public.html">共&#12132;空間</li>
-        <li><a href="<?= $page_settings["directory_pos"]  ?>public.html">共&#12132;空間</a></li>
-        <!-- <li><a href="<?= $page_settings["directory_pos"]  ?>public.html">共&#12132;空間</a></li> -->
         <li>室内空間</li>
         <li><a href="https://www.sumitomo-rd-mansion.jp/tokai/higashibetsuin/list.php" target="_blank">間取り</a></li>
         <li>設備・仕様</li>
