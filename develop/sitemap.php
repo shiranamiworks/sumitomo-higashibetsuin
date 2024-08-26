@@ -23,8 +23,8 @@
   <ul>
 						<li class="top"><a href="/tokai/higashibetsuin/">シティタワー東別院 トップ</a></li>
 						<li class="concept"><a href="concept.html">コンセプト</a></li>
-						<li class="design"><p href="design.html">デザイン</p></li>
-						<li class="public"><p href="public.html">共用空間</p></li>
+						<li class="design"><a href="design.html">デザイン</a></li>
+						<li class="public"><a href="public.html">共用空間</a></li>
 						<!--li class="private"><span>室内空間
 						（ <a href="private_01.html"></a> ／ <a href="private_02.html"></a> ）</span></li-->
 						<li class="private">室内空間</li>
