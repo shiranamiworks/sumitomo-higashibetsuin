@@ -36,13 +36,20 @@
 .equipment02 .sections .tit {
   font-size: 22px;
   letter-spacing: 0.12em;
-  background: #77612c;
+  background: #b9a277;
   color: #fff;
   padding: 6px 0 6px 16px;
   margin-bottom: 30px;
 }
 .equipment02 .sections .tit-img {
+  font-size: 28px;
+  line-height: 1;
+  padding-bottom: 10px;
+  border-bottom: 1px solid;
   margin-bottom: 10px;
+}
+.equipment02 .sections .tit-img span {
+  font-size: 18px;
 }
 .equipment02 .sections .lead {
   font-size: 17px;
@@ -80,70 +87,31 @@
 .equipment02 .sec01 .lists li:last-child {
   margin-right: auto;
 }
-.equipment02 .sec01 .list02 {
-  margin-top: -90px;
-  margin-bottom: 60px;
-}
-.equipment02 .sec01 .list02 li {
-  position: relative;
-  vertical-align: bottom;
-}
-.equipment02 .sec01 .list02 li:first-child .image {
-  width: 50%;
-  float: left;
-}
-.equipment02 .sec01 .list02 li:first-child .image .annotation {
-  right: 60%;
-}
-.equipment02 .sec01 .list02 li .text01 {
-  width: 45%;
-  float: right;
-  font-size: 14px;
-  line-height: 1.4;
-}
-.equipment02 .sec01 .list02 li:last-child .image img {
-  display: block;
+.equipment02 .sec01 .lists .size {
   width: 60%;
   margin: auto;
 }
-.equipment02 .sec01 .list03 {
-  margin-bottom: 10px;
-}
-.equipment02 .sec01 .list04 {
-  margin-bottom: 40px;
-}
-.equipment02 .sec01 .list04 li:first-child .image {
-  width: 60%;
+.equipment02 .sec01 .list00 .images li {
   display: inline-block;
+  width: 31%;
+  margin-right: 2%;
 }
-.equipment02 .sec01 .list04 li:first-child .image.img-sub {
-  width: 30%;
-  margin-left: 5%;
-}
-.equipment02 .sec01 .list05 {
-  padding-bottom: 40px;
-}
-.equipment02 .sec01 .list05 li:first-child {
-  margin-bottom: 50px;
-}
-.equipment02 .sec01 .list05 li:first-child .image {
-  width: 42%;
-  display: inline-block;
-}
-.equipment02 .sec01 .list05 li:first-child .image.img-sub {
-  width: 50%;
-  margin-left: 5%;
-}
-.equipment02 .sec01 .list05 li:nth-child(2) {
+.equipment02 .sec01 .list00 .images li:last-child {
   margin-right: auto;
 }
-.equipment02 .sec01 .list07 li .image img {
-  display: block;
-  width: 60%;
-  margin: 0 auto 60px;
+.equipment02 .sec01 .list00 .images .text01 {
+  font-size: 14px;
+  line-height: 1.4;
+  margin-top: 20px;
 }
-.equipment02 .sec01 .list07 li:last-child img {
-  width: 80%;
+.equipment02 .sec01 .list02 {
+  margin-bottom: 60px;
+}
+.equipment02 .sec01 .list03 {
+  margin-bottom: 60px;
+}
+.equipment02 .sec01 .list04 {
+  margin-bottom: 60px;
 }
 .equipment02 .sec01 .list08 li {
   margin-bottom: 60px;
@@ -174,6 +142,12 @@
     font-size: 18px;
     margin-bottom: 20px;
   }
+  .equipment02 .sections .tit-img {
+    font-size: 24px;
+  }
+  .equipment02 .sections .tit-img span {
+    font-size: 14px;
+  }
   .equipment02 .sections .lead span {
     font-size: 13px;
   }
@@ -201,44 +175,26 @@
   .equipment02 .sec01 .lists li.double .lead {
     margin-bottom: 30px;
   }
-  .equipment02 .sec01 .list01 .text01 {
-    margin-bottom: 20px;
-  }
-  .equipment02 .sec01 .list01 li:last-child {
+  .equipment02 .sec01 .lists li.full {
     width: 100%;
+    margin-bottom: 40px;
   }
-  .equipment02 .sec01 .list01 li:last-child .image img {
+  .equipment02 .sec01 .list00 .images li {
     display: block;
-    width: 60%;
-    margin: auto;
-  }
-  .equipment02 .sec01 .list03 .img-sub {
-    width: 70%;
-    margin: 20px auto;
-  }
-  .equipment02 .sec01 .list05 {
-    padding-bottom: 0;
-  }
-  .equipment02 .sec01 .list05 li:first-child .image {
     width: 100%;
-    margin-bottom: 20px;
+    margin-top: 20px;
   }
-  .equipment02 .sec01 .list05 li:first-child .image.img-sub {
-    width: 100%;
+  .equipment02 .sec01 .list00 .images li:last-child .text01 {
+    display: none;
   }
-  .equipment02 .sec01 .list05 li:last-child {
-    margin-top: 40px;
+  .equipment02 .sec01 .list03 {
+    margin-bottom: 40px;
+  }
+  .equipment02 .sec01 .list04 {
+    margin-bottom: 0;
   }
   .equipment02 main {
     padding-bottom: 50px;
-  }
-  .equipment02 .list06 li:first-child .image {
-    width: 100%;
-  }
-  .equipment02 .list06 .image {
-    width: 70%;
-    min-width: 240px;
-    margin: auto;
   }
   .equipment02 .sec01 .list08 li:first-child .image {
     display: block;

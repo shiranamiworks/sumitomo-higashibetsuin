@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティテラス登戸｜登戸 マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー東別院｜東別院 マンション｜トップ</a></li>
       <li><a href="./equipment03.html">設備・仕様</a></li>
       <li><p>収納</p></li>
     </ul>
@@ -41,33 +41,24 @@
       <h2 class="tit">収納</h2>
       <ul class="lists list01">
         <li>
-          <div class="tit-img">
-            <img src="./images/equipment03/tit01.png" alt="" class="">
-          </div>
+          <p class="tit-img">トール型下足入</p>
           <p class="lead">玄関には、天井近くまでの高さがあるトール型の下足入を設けました。靴類はもちろん、背丈のあるブーツや傘まで、すっきりと収納できます。</p>
           <div class="image tb">
             <img src="./images/equipment03/img01.jpg" alt="" class="">
-            <p class="annotation gothic">（参考写真１）</p>
           </div>
         </li>
         <li>
-          <div class="tit-img">
-            <img src="./images/equipment03/tit02.png" alt="" class="">
-          </div>
-          <p class="lead">クロゼットは、お使いになる方の好みやライフスタイル、部屋の用途に応じてパーツをオプション（有償）で加えることのできるシステム収納を採用しました。</p>
+          <p class="tit-img">システム収納</p>
+          <p class="lead">クロゼットは、お使いになる方の好みやライフスタイル、部屋の用途に応じてパーツをオプション（有償）で加えることのできるシステム収納を採用しました。<br><span>※Aa・Abタイプを除く。</span></p>
           <div class="image tb">
             <img src="./images/equipment03/img02.jpg" alt="" class="">
-            <p class="annotation gothic">（参考写真１）</p>
           </div>
         </li>
         <li>
-          <div class="tit-img">
-            <img src="./images/equipment03/tit03.png" alt="" class="">
-          </div>
+          <p class="tit-img">ウォークインクロゼット</p>
           <p class="lead">ひと目で収納物を確認できるウォークインクロゼットは、ゆとりの広さを備えた大型収納。数多くの衣類に加え、足元には引出しや衣装箱、シューズボックスなども収納することができます。</p>
           <div class="image tb">
             <img src="./images/equipment03/img03.jpg" alt="" class="">
-            <p class="annotation gothic">（参考写真１）</p>
           </div>
         </li>
       </ul>
@@ -75,31 +66,25 @@
         <li>
           <div class="image">
             <img src="./images/equipment03/img01.jpg" alt="" class="">
-            <p class="annotation gothic">（参考写真１）</p>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="./images/equipment03/img02.jpg" alt="" class="">
-            <p class="annotation gothic">（参考写真１）</p>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="./images/equipment03/img03.jpg" alt="" class="">
-            <p class="annotation gothic">（参考写真１）</p>
           </div>
         </li>
       </ul>
       <ul class="lists list03">
         <li>
-          <div class="tit-img">
-            <img src="./images/equipment03/tit04.png" alt="" class="">
-          </div>
-          <p class="lead">ゴルフバッグなどのスポーツ・アウトドア用品から、季節物の生活用品まで、豊富に収納できる納戸をご用意しました。<br><span>※上部には分電盤などを設置しています。</span></p>
+          <p class="tit-img">網戸</p>
+          <p class="lead">ゴルフバッグやスーツケースなどのスポーツ・アウトドア用品から、季節物の生活用品まで、収納できる納戸をご用意しました。また、コンセント付きのため、コードレス掃除機の充電などに対応します。<br><span>※上部には分電盤などを設置しています。</span></p>
           <div class="image">
             <img src="./images/equipment03/img04.jpg" alt="" class="">
-            <p class="annotation gothic">（参考写真１）</p>
           </div>
         </li>
       </ul>
@@ -109,7 +94,8 @@
 
 
 
-  <p class="page-annotation js-scroll wrap">※掲載の参考写真１は本物件と同等仕様のコンセプトルーム（総合マンションギャラリー秋葉原館）を撮影（2022年8月）したもので、本物件のものではありません。家具・調度品等オプション仕様は販売価格に含まれません。※設備・仕様はタイプにより異なります。 </p>
+  <div class="annotation-area">
+  <p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（Dcタイプ）を撮影（2024年8月）したものです。<br>※設備・仕様はタイプにより異なります。<br>※掲載の参考写真は本物件のモデルルームを撮影したものではありません。</p></div>
 </main>
 
   <div class="equipment-link equipment-link--5">
