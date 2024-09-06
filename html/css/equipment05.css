@@ -30,9 +30,11 @@
   text-align: center;
 }
 .equipment05 .sections .annotation {
-  bottom: -20px;
   font-size: 12px;
   text-align: right;
+}
+.equipment05 .sections .annotation.bt {
+  bottom: -20px;
 }
 .equipment05 .sections .tit {
   font-size: 22px;
@@ -130,12 +132,6 @@
   width: 48%;
   float: right;
 }
-.equipment05 .sec03 .lists li .image.right .annotation {
-  bottom: -25px;
-}
-.equipment05 .sec03 .lists li .image.right .annotation.bt {
-  bottom: 10px;
-}
 .equipment05 .sec03 .lists li .lead.left {
   width: 48%;
   float: left;
@@ -151,6 +147,12 @@
 }
 .equipment05 .sec03 .lists li:last-child {
   margin: auto;
+}
+.equipment05 .sec03 .mini {
+  text-align: left;
+  font-size: 14px;
+  line-height: 1.4;
+  margin-top: 10px;
 }
 .equipment05 .sec03 .list01 {
   margin-bottom: 60px;
@@ -245,13 +247,13 @@
   .equipment05 .sec01 .lists li:last-child {
     width: 100%;
   }
-  .equipment05 .sec02 {
-    margin-bottom: 20px;
+  .equipment05 .sec01 .list03 {
+    margin-bottom: 40px;
   }
   .equipment05 .sec02 .lists li {
     display: block;
     width: 100%;
-    margin-bottom: 40px;
+    margin-bottom: 40px !important;
   }
   .equipment05 .sec02 .lists li.double {
     width: 100%;
@@ -271,20 +273,26 @@
     width: 50%;
     margin: auto;
   }
-  .equipment05 .sec03 .lists li .lead,
-  .equipment05 .sec03 .lists li .image {
+  .equipment05 .sec03 .lists li {
     width: 100%;
-    margin-bottom: 0;
   }
-  .equipment05 .sec03 .lists li .lead .annotation,
-  .equipment05 .sec03 .lists li .image .annotation {
-    bottom: -40px;
+  .equipment05 .sec03 .lists li .lead {
+    width: 100%;
   }
-  .equipment05 .sec03 .lists li:first-child .lead {
-    margin-bottom: 60px;
+  .equipment05 .sec03 .lists li .image.right {
+    width: 100%;
+    float: none;
   }
-  .equipment05 .sec03 .lists li:nth-child(2) .image {
-    margin-bottom: 60px;
+  .equipment05 .sec03 .lists li .lead.left {
+    width: 100%;
+    float: none;
+    margin-bottom: 10px;
+  }
+  .equipment05 .sec03 .lists li.double {
+    width: 100%;
+  }
+  .equipment05 .sec03 .list01 {
+    margin-bottom: 40px;
   }
   .equipment05 .sec04 .lists li {
     width: 100%;
