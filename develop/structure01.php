@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-    <li><a href="./index.html">シティタワー東別院｜東別院 マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー東別院｜東別院 マンション｜トップ</a></li>
       <li><a href="./structure01.html">構造・防災</a></li>
       <li><p>基本構造</p></li>
     </ul>
@@ -70,8 +70,9 @@
           <p class="caps">［劣化対策等級3］</p><p class="caps">劣化対策等級3は、構造躯体等について「通常想定される自然条件および維持管理の条件の下で、3世代（概ね75～90年）まで、大規模な改修を必要とするまでの期間を伸長するために必要な対策が講じられている」ことを認定基準としています。</p><p class="caps">※コンクリートの耐久性は強度が高いほど高くなると言われております。 ※コンクリートの性質上、乾燥収縮や温度変化による収縮に伴うひび割れが発生する場合があります。（一般的に構造上の問題はありません。） ※健全な状態を保つためには、予定されている大規模修繕工事など定期的かつ適切な維持管理が必要となります。</p>
         </li>
         <li>
-          <div class="tit-img">
+          <div class="image">
             <img src="./images/structure01/img05.png" alt="" class="">
+            <p class="annotation gothic bt">（概念図）</span></p>
           </div>
         </li>
       </ul>
@@ -95,6 +96,7 @@
           <p class="lead">強度の高い建物づくりには、強固な支持層まで達する杭で建物をしっかりと支えることが重要です。<br>●地盤<br>地下約42ｍ?約44m以深、最大Ｎ値50以上の強固な地盤を支持層としています。<br>●基礎杭<br>場所打ちコンクリート杭［杭径（軸径）約1,300㎜?約2,000㎜］を26本打ち込んでいます。<br><span>※Ｎ値とは：<br>地盤の硬さ等を示す数値。重量63.5㎏のハンマーを76㎝自由落下させ、サンプラーと呼ばれる鋼管パイプを地中に30㎝打ち込むのに、上から何回叩いたか、その回数を示すものです。Ｎ値50とは、30㎝打ち込むために50回叩かねばならない強固な地盤であることを示します。</span></p>
           <div class="image">
             <img src="./images/structure01/img04.png" alt="" class="">
+            <p class="annotation gothic bt">（概念図）</span></p>
           </div>
         </li>
       </ul>
@@ -109,6 +111,7 @@
           <p class="lead">住戸のある建物の耐震壁の鉄筋は、コンクリートの中に二重に鉄筋を配したダブル配筋を採用しています。シングル配筋に比べより高い耐震性を確保します。</p>
           <div class="image img06">
             <img src="./images/structure01/img06.png" alt="" class="">
+            <p class="annotation gothic">（概念図）</span></p>
           </div>
         </li>
         <li>
@@ -116,6 +119,7 @@
           <p class="lead">住戸のある建物の主要な柱部分には帯筋の接続部を溶接した、溶接閉鎖型帯筋を採用しました。工場溶接による安定した強度の確保によって、地震時の主筋のはらみ出しを抑制して、コンクリートの拘束力を高めます。<br><span>※柱と梁の接合部を除く。</span></p>
           <div class="image">
             <img src="./images/structure01/img07.png" alt="" class="">
+            <p class="annotation gothic">（概念図）</span></p>
           </div>
         </li>
       </ul>
@@ -156,6 +160,7 @@
           <p class="lead">重量床衝撃音対策として、住戸間のコンクリートスラブ厚は約240㎜を確保しています。</p>
           <div class="image img09">
             <img src="./images/structure01/img09.png" alt="" class="">
+            <p class="annotation gothic">（概念図）</span></p>
           </div>
           <p class="box">同レベルの音であっても生活する時間帯などにより、音の感じ方には個人差があります。本建物では遮音性に配慮しておりますが、居住者様がお互いに音に対するマナーを守り、快適なマンションライフをお過ごしいただくことが大切となります。</p>
         </li>
@@ -164,6 +169,7 @@
           <p class="lead">住戸内の間仕切り壁は厚さ約9.5㎜のプラスターボード貼としていますが、一部には、ボード下地材間にグラスウールを充填し、遮音性に配慮しています。<br><span>※一部除く。詳細は係員にお尋ねください。</span></p>
           <div class="image img10">
             <img src="./images/structure01/img10.png" alt="" class="">
+            <p class="annotation gothic">（概念図）</span></p>
           </div>
         </li>
       </ul>
@@ -173,6 +179,7 @@
           <p class="lead">共用廊下側の窓に、羽板が可動式で角度調節が可能なブラインドタイプのルーバー面格子を採用しました。お好みにより光や風を調節しながら効果的に外からの視線を遮ることができ、プライバシー性と防犯性を高めます。</p>
           <div class="image img11">
             <img src="./images/structure01/img11.png" alt="" class="">
+            <p class="annotation gothic bt">（参考写真）</span></p>
           </div>
         </li>
       </ul>

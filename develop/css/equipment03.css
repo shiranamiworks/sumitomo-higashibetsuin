@@ -27,6 +27,7 @@
 }
 .equipment03 .sections .image {
   position: relative;
+  text-align: center;
 }
 .equipment03 .sections .annotation {
   bottom: -20px;
@@ -36,7 +37,7 @@
 .equipment03 .sections .tit {
   font-size: 22px;
   letter-spacing: 0.12em;
-  background: #77612c;
+  background: #b9a277;
   color: #fff;
   padding: 6px 0 6px 16px;
   margin-bottom: 30px;

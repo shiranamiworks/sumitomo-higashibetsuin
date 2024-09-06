@@ -31,11 +31,14 @@
     }
     .image {
       position: relative;
+      text-align: center;
     }
     .annotation {
-      bottom: -20px;
       font-size: 12px;
       text-align: right;
+      &.bt {
+        bottom: -20px;
+      }
     }
     .tit {
       font-size: 22px;
@@ -85,6 +88,9 @@
       li:last-child {
         margin-right: auto;
       }
+    }
+    .list01 {
+      margin-bottom: 60px;
     }
     .list02 {
       margin-top: -36px;
@@ -141,23 +147,11 @@
       li {
         vertical-align: bottom;
       }
-      .img13 {
-        width: 51%;
-        margin: auto;
-      }
     }
-    .list06 {
-      padding-bottom: 60px;
-      li {
-        vertical-align: top;
+    .list05 {
+      li:last-child {
+        margin-top: 50px;
       }
-      .img17 {
-        width: 90%;
-        margin: auto;
-      }
-    }
-    .list08 {
-      padding-bottom: 60px;
     }
   } //sec02
 
@@ -210,6 +204,9 @@
           width: 100%;
         }
       }
+      .list01 {
+        margin-bottom: 0;
+      }
       .list03 {
         .img-sub {
           width: 70%;
@@ -230,6 +227,9 @@
           display: block;
           width: 100%;
           margin-bottom: 40px;
+          &.full {
+            margin-bottom: 40px;
+          }
         }
         li:last-child {
           width: 100%;

@@ -29,9 +29,16 @@
       width: 70%;
       max-width: 1030px;
     }
+    .image {
+      position: relative;
+      text-align: center;
+    }
     .annotation {
       font-size: 10px;
       text-align: right;
+      &.bt {
+        bottom: -20px;
+      }
     }
     .tit {
       font-size: 22px;

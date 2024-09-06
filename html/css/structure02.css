@@ -25,9 +25,16 @@
   width: 70%;
   max-width: 1030px;
 }
+.structure02 .sections .image {
+  position: relative;
+  text-align: center;
+}
 .structure02 .sections .annotation {
   font-size: 10px;
   text-align: right;
+}
+.structure02 .sections .annotation.bt {
+  bottom: -20px;
 }
 .structure02 .sections .tit {
   font-size: 22px;

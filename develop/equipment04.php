@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティテラス登戸｜登戸 マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー東別院｜東別院 マンション｜トップ</a></li>
       <li><a href="./equipment03.html">設備・仕様</a></li>
       <li><p>マルチメディア</p></li>
     </ul>
@@ -41,39 +41,22 @@
       <h2 class="tit">マルチメディア</h2>
       <ul class="lists list01">
         <li class="full">
-          <div class="tit-img">
-            <img src="./images/equipment04/tit01.png" alt="" class="pc">
-            <img src="./images/equipment04/tit01-sp.png" alt="" class="tb">
-          </div>
-          <p class="lead">エントランスホールにはノートパソコン、スマートフォンなどの利用が可能な無線LAN（SUISUI-WiFi）を設置。快適にインターネットがお楽しみいただけます。<br><span>※ご利用対象者はご入居者の方のみとなります。またご利用には制限がございます。詳細は係員にお尋ねください。</span></p>
+          <p class="tit-img">SUISUI Lite-Plus(A)<br><span>［すいすいライトプラス（エー）］</span></p>
+          <p class="lead">マンションに光ファイバーによるインターネット専用回線を引き込み、居住者の皆様に常時接続のインターネットサービスを提供いたします。インターネットサービスプロバイダーは、住友不動産建物サービス（株）となります。<br><span>任意加入型のインターネットサービスにもご加入いただけます。<br>●個別回線をご希望の方は、NTT西日本のインターネットサービスがご利用いただけます。（有料）<br>※詳細は係員にお尋ねください。</span></p>
         </li>
       </ul>
-      <ul class="lists list012">
+      <ul class="lists list02">
         <li>
-          <div class="tit-img">
-            <img src="./images/equipment04/tit02.png" alt="" class="">
-          </div>
-          <p class="lead">各居室のアウトレットに接続して、地上デジタル放送はもちろんJ: COM（CATV）の多彩なオプションプログラムをお楽しみいただけます。また、固定電話回線（J:COM PHONE プラス）もオプションでご利用いただけます。<br>
-          <span>※固定電話回線（J:COM PHONE プラス）は、別途お客様のご負担となります。<br>※J:COM（CATV）のオプションプログラムの視聴にあたっては、戸別に契約していただくとともに、チューナー等を設置する必要があります。視聴料などはお客様のご負担となります。<br>※J:COM（CATV）のオプションプログラムで、4K8K衛星放送を視聴する場合、4K8Kテレビおよび専用チューナーを設置する必要があります。視聴可能なチャンネルについては、J:COMまでお問い合わせ下さい。<br>※NHK受信料は別途お客様のご負担となります。</span></p>
-          <div class="image">
-            <img src="./images/equipment04/img02.jpg" alt="" class="">
-          </div>
+          <p class="tit-img">スカパーJSATテレビ視聴サービス</p>
+          <p class="lead">各居室のアウトレットに接続して、地上デジタル、BSデジタル（４K８K衛星放送含む）、FMなど多彩な放送サービスが利用可能です。<br>
+          <span>※NHK受信料は別途お客様負担となります。<br>※BSデジタルの有料放送は別途視聴契約が必要です。<br>※スカパーJSATテレビ視聴サービス利用料は管理費に含まれます。<br>※4K8K衛星放送のご視聴には、4K8Kテレビおよび4K8Kチューナーが必要です。</span></p>
         </li>
         <li>
-          <div class="tit-img">
-            <img src="./images/equipment04/tit03.png" alt="" class="">
-          </div>
-          <p class="lead">リビング・ダイニング1箇所にLAN端子を設置しております。将来増設が可能なように、その他のリビング・ダイニング・洋室のメディアコンセントに対して、コンセントプレートに増設対応スペースとLAN配線用の将来配管が用意されていますので、必要に応じて追加することが可能です。
-            <br><span>※追加費用は、別途お客様のご負担となります。<br>※標準で設置されている宅内HUBは5ポートです。5ポートの内、WAN1ポート、LAN1ポートを使用しているため、有線LANの増設は残り3ポートまで可能です。宅内HUBにWi-Fi等の機器を直接接続する場合、増設可能なポート数が減ることを予めご了承ください。</span>
+          <p class="tit-img">スカパー！/プレミアムサービス光</p>
+          <p class="lead">圧倒的なハイビジョンチャンネル数により、多彩なジャンルの番組を高画質でお楽しみいただけます。<br><span>※別途視聴契約とチューナーの設置が必要です。</span>
           </p>
-        </li>
-        <li>
-          <div class="tit-img">
-            <img src="./images/equipment04/tit04.png" alt="" class="">
-          </div>
-          <p class="lead">多彩なジャンルの番組をお楽しみいただけます。<br><span>※別途視聴契約とチューナーの設置が必要です。<br>※4K8K衛星放送のご視聴には、4K8Kテレビおよび4K8Kチューナーが必要です。</span></p>
           <div class="image">
-            <img src="./images/equipment04/img04.jpg" alt="" class="">
+            <img src="./images/equipment04/img01.png" alt="" class="">
           </div>
         </li>
       </ul>
@@ -83,7 +66,8 @@
 
 
 
-  <p class="page-annotation js-scroll wrap">※設備・仕様はタイプにより異なります。</p>
+  <div class="annotation-area">
+  <p class="page-annotation js-scroll wrap clearfix"></p></div>
 </main>
 
   <div class="equipment-link equipment-link--5">

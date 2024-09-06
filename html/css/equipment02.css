@@ -27,6 +27,7 @@
 }
 .equipment02 .sections .image {
   position: relative;
+  text-align: center;
 }
 .equipment02 .sections .annotation {
   bottom: -20px;
