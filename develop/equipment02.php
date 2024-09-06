@@ -43,35 +43,21 @@
         <li class="full">
           <p class="tit-img">エコジョーズ</p>
           <p class="lead">環境と家計の両方に優しい東邦ガスの高効率ガス給湯器「エコジョーズ」を採用。キッチン、バスルーム、パウダールームへのスムーズな給湯はもちろん、床暖房や浴室暖房乾燥機までをトータルにサポートします。</p>
-          <p class="text01 tb">※1 FT4215ARSAW6Qの場合（スタンダードの一例）※2 FT4220・FT4222シリーズの場合（エコジョーズの一例）※1※2はJIS S 2109で定める測定方法により算定 ただし※1～2ともご使用状況により熱効率は異なります。</p>
-          <ul class="images">
-            <li>
-              <div class="image">
-                <img src="./images/equipment02/img01.png" alt="" class="">
-              </div>
-            </li>
-            <li>
-              <div class="image sub01">
-                <img src="./images/equipment02/img01-01.png" alt="" class="">
-                <p class="annotation gothic">参考写真</p>
-              </div>
-            </li>
-            <li>
-              <div class="image sub02">
-                <img src="./images/equipment02/img01-02.png" alt="" class="">
-              </div>
-              <p class="text01">※1 FT4215ARSAW6Qの場合（スタンダードの一例）※2 FT4220・FT4222シリーズの場合（エコジョーズの一例）※1※2はJIS S 2109で定める測定方法により算定 ただし※1～2ともご使用状況により熱効率は異なります。</p>
-            </li>
-          </ul>
+          <div class="lead-box">
+          <p class="text01">※1 FT4215ARSAW6Qの場合（スタンダードの一例）※2 FT4220・FT4222シリーズの場合（エコジョーズの一例）<br>※1※2はJIS S 2109で定める測定方法により算定 ただし※1～2ともご使用状況により熱効率は異なります。</p>
+          <div class="image">
+            <img src="./images/equipment02/img01.png" alt="" class="">
+          </div>
+          </div>
         </li>
       </ul>
       <ul class="lists list01">
         <li>
-          <p class="tit-img">エコ機能給湯リモコン</p>
-          <p class="lead">キッチンとバスルームの給湯リモコンには「エコ運転機能」を搭載。画面メニューから「エコ」をタッチするだけで給湯量が自動調整でき、省エネ・節約に効果的です。また、熱源機（エコジョーズ）で使用した一日のガス・お湯の量、使用料金の目安、CO2の排出量を表示する「エネルック機能」も付いています。<br><span>※「エコ運転機能」を利用して2ヶ所以上でお湯を使うと湯細りする可能性があります。</span></p>
-          <div class="image tb size">
-            <img src="./images/equipment02/img02.png" alt="" class="">
-            <p class="annotation gothic">（参考写真）</p>
+          <p class="tit-img">Low-Eガラス</p>
+          <p class="lead">開口部には省エネ効果に優れたLow-Eガラスを採用。ガラスの表面にコーティングされた日射熱の反射性を高める特殊金属膜（Low-E膜）と断熱性を高める空気層により、冷暖房両方の負荷を軽減します。<br><span>※詳細は係員にお尋ねください。</span></p>
+          <div class="image size tb">
+            <img src="./images/equipment02/img09.jpg" alt="" class="">
+            <p class="annotation gothic">（概念図）</p>
           </div>
         </li>
         <li>
@@ -94,8 +80,8 @@
       <ul class="lists list02 pc">
         <li>
           <div class="image size">
-            <img src="./images/equipment02/img02.png" alt="" class="">
-            <p class="annotation gothic">（参考写真）</p>
+            <img src="./images/equipment02/img09.jpg" alt="" class="">
+            <p class="annotation gothic">（概念図）</p>
           </div>
         </li>
         <li>
@@ -121,12 +107,12 @@
         </li>
       </ul>
       <ul class="lists list03">
-      <li>
-          <p class="tit-img">Low-Eガラス</p>
-          <p class="lead">開口部には省エネ効果に優れたLow-Eガラスを採用。ガラスの表面にコーティングされた日射熱の反射性を高める特殊金属膜（Low-E膜）と断熱性を高める空気層により、冷暖房両方の負荷を軽減します。<br><span>※詳細は係員にお尋ねください。</span></p>
+        <li>
+          <p class="tit-img">エコ機能給湯リモコン</p>
+          <p class="lead">キッチンとバスルームの給湯リモコンには「エコ運転機能」を搭載。画面メニューから「エコ」をタッチするだけで給湯量が自動調整でき、省エネ・節約に効果的です。また、熱源機（エコジョーズ）で使用した一日のガス・お湯の量、使用料金の目安、CO2の排出量を表示する「エネルック機能」も付いています。<br><span>※「エコ運転機能」を利用して2ヶ所以上でお湯を使うと湯細りする可能性があります。</span></p>
           <div class="image size">
-            <img src="./images/equipment02/img09.jpg" alt="" class="">
-            <p class="annotation gothic">（概念図）</p>
+            <img src="./images/equipment02/img02.png" alt="" class="">
+            <p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
         <li class="double">

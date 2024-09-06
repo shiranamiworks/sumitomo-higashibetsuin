@@ -45,14 +45,14 @@
   margin-bottom: 30px;
 }
 .equipment01 .sections .tit-img {
-  font-size: 28px;
+  font-size: 24px;
   line-height: 1;
   padding-bottom: 10px;
   border-bottom: 1px solid;
   margin-bottom: 10px;
 }
 .equipment01 .sections .tit-img span {
-  font-size: 18px;
+  font-size: 14px;
 }
 .equipment01 .sections .lead {
   font-size: 17px;
@@ -150,12 +150,6 @@
   .equipment01 .sections .tit {
     font-size: 18px;
     margin-bottom: 20px;
-  }
-  .equipment01 .sections .tit-img {
-    font-size: 24px;
-  }
-  .equipment01 .sections .tit-img span {
-    font-size: 14px;
   }
   .equipment01 .sections .lead span {
     font-size: 13px;

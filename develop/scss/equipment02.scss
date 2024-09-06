@@ -47,13 +47,13 @@
       margin-bottom: 30px;
     }
     .tit-img {
-      font-size: 28px;
+      font-size: 24px;
       line-height: 1;
       padding-bottom: 10px;
       border-bottom: 1px solid;
       margin-bottom: 10px;
       span {
-        font-size: 18px;
+        font-size: 14px;
       }
     }
     .lead {
@@ -94,24 +94,22 @@
         margin-right: auto;
       }
       .size {
-        width: 60%;
+        width: 70%;
         margin: auto;
       }
     }
     .list00 {
-      .images {
-        li {
-          display: inline-block;
-          width: 31%;
-          margin-right: 2%;
-        }
-        li:last-child {
-          margin-right: auto;
-        }
+      .lead-box {
+        display: flex;
         .text01 {
           font-size: 14px;
           line-height: 1.4;
-          margin-top: 20px;
+          width: 64%;
+          float: left;
+        }
+        .image {
+          width: 36%;
+          margin: auto;
         }
       }
     }
@@ -133,6 +131,10 @@
             }
           }
         }
+      }
+      .size {
+        width: 60%;
+        margin: auto;
       }
     }
     .list08 {
@@ -163,12 +165,6 @@
       .tit {
         font-size: 18px;
         margin-bottom: 20px;
-      }
-      .tit-img {
-        font-size: 24px;
-        span {
-          font-size: 14px;
-        }
       }
       .lead {
         span {
@@ -206,16 +202,18 @@
         }
       }
       .list00 {
-        .images {
-          li {
-            display: block;
+        .lead-box {
+          display: block;
+          .text01 {
+            font-size: 14px;
+            line-height: 1.4;
             width: 100%;
-            margin-top: 20px;
+            float: none;
+            margin-bottom: 10px;
           }
-          li:last-child {
-            .text01 {
-              display: none;
-            }
+          .image {
+            width: 100%;
+            margin: auto;
           }
         }
       }

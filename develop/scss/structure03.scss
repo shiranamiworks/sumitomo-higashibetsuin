@@ -49,13 +49,13 @@
       margin-bottom: 30px;
     }
     .tit-img {
-      font-size: 28px;
+      font-size: 24px;
       line-height: 1;
       padding-bottom: 10px;
       border-bottom: 1px solid;
       margin-bottom: 10px;
       span {
-        font-size: 18px;
+        font-size: 14px;
       }
     }
     .lead {
@@ -141,19 +141,19 @@
     .list04 {
       margin-bottom: 40px;
       li {
-        width: 48%;
-        margin-right: 2%;
-      }
-      li:last-child {
-        margin-right: auto;
-      }
-      .img01 {
-        width: 65%;
+        width: 100%;
         margin: auto;
       }
-      .annotation {
-        bottom: -15px;
-        font-size: 12px;
+      .lead-box {
+        display: flex;
+        .img01 {
+          width: 36%;
+          margin: auto;
+        }
+        .lead {
+          width: 64%;
+          float: left;
+        }
       }
     }
   } //sec01
@@ -173,12 +173,6 @@
       .tit {
         font-size: 18px;
         margin-bottom: 20px;
-      }
-      .tit-img {
-        font-size: 24px;
-        span {
-          font-size: 14px;
-        }
       }
       .lead {
         span {
@@ -236,6 +230,18 @@
         li:last-child {
           margin-right: auto;
         }
+        .lead-box {
+          display: block;
+          .img01 {
+            width: 100%;
+            margin: auto;
+          }
+          .lead {
+            width: 100%;
+            float: none;
+            margin-bottom: 10px;
+          }
+        }
       }
       .list03 {
         margin-bottom: 0;
@@ -260,12 +266,17 @@
         li:last-child {
           margin-bottom: auto;
         }
-        .img01 {
-          width: 100%;
-          margin: auto;
-        }
-        .annotation {
-          font-size: 10px;
+        .lead-box {
+          display: block;
+          .img01 {
+            width: 100%;
+            margin: auto;
+          }
+          .lead {
+            width: 100%;
+            float: none;
+            margin-bottom: 10px;
+          }
         }
       }
     } //sec01

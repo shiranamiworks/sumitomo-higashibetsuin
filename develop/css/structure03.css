@@ -45,14 +45,14 @@
   margin-bottom: 30px;
 }
 .structure03 .sections .tit-img {
-  font-size: 28px;
+  font-size: 24px;
   line-height: 1;
   padding-bottom: 10px;
   border-bottom: 1px solid;
   margin-bottom: 10px;
 }
 .structure03 .sections .tit-img span {
-  font-size: 18px;
+  font-size: 14px;
 }
 .structure03 .sections .lead {
   font-size: 17px;
@@ -136,19 +136,19 @@
   margin-bottom: 40px;
 }
 .structure03 .sec01 .list04 li {
-  width: 48%;
-  margin-right: 2%;
-}
-.structure03 .sec01 .list04 li:last-child {
-  margin-right: auto;
-}
-.structure03 .sec01 .list04 .img01 {
-  width: 65%;
+  width: 100%;
   margin: auto;
 }
-.structure03 .sec01 .list04 .annotation {
-  bottom: -15px;
-  font-size: 12px;
+.structure03 .sec01 .list04 .lead-box {
+  display: flex;
+}
+.structure03 .sec01 .list04 .lead-box .img01 {
+  width: 36%;
+  margin: auto;
+}
+.structure03 .sec01 .list04 .lead-box .lead {
+  width: 64%;
+  float: left;
 }
 .structure03 main {
   padding-bottom: 50px;
@@ -160,12 +160,6 @@
   .structure03 .sections .tit {
     font-size: 18px;
     margin-bottom: 20px;
-  }
-  .structure03 .sections .tit-img {
-    font-size: 24px;
-  }
-  .structure03 .sections .tit-img span {
-    font-size: 14px;
   }
   .structure03 .sections .lead span {
     font-size: 13px;
@@ -218,6 +212,18 @@
   .structure03 .sec01 .list02 li:last-child {
     margin-right: auto;
   }
+  .structure03 .sec01 .list02 .lead-box {
+    display: block;
+  }
+  .structure03 .sec01 .list02 .lead-box .img01 {
+    width: 100%;
+    margin: auto;
+  }
+  .structure03 .sec01 .list02 .lead-box .lead {
+    width: 100%;
+    float: none;
+    margin-bottom: 10px;
+  }
   .structure03 .sec01 .list03 {
     margin-bottom: 0;
   }
@@ -240,12 +246,17 @@
   .structure03 .sec01 .list04 li:last-child {
     margin-bottom: auto;
   }
-  .structure03 .sec01 .list04 .img01 {
+  .structure03 .sec01 .list04 .lead-box {
+    display: block;
+  }
+  .structure03 .sec01 .list04 .lead-box .img01 {
     width: 100%;
     margin: auto;
   }
-  .structure03 .sec01 .list04 .annotation {
-    font-size: 10px;
+  .structure03 .sec01 .list04 .lead-box .lead {
+    width: 100%;
+    float: none;
+    margin-bottom: 10px;
   }
   .structure03 main {
     padding-bottom: 50px;

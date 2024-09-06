@@ -98,11 +98,13 @@
       </ul>
 
       <ul class="lists list04">
-        <li>
+        <li class="full">
           <p class="tit-img">防犯センサー</p>
+          <div class="lead-box">
           <p class="lead">玄関ドア、2階・5階の一部住戸の窓、接地階住戸の窓には防犯センサーを設置（※面格子の付く窓とFIX窓を除く）。防犯セットしている間に防犯センサーが設置された開口部が開けられると、センサーが反応し、住戸内インターホン（親機）と玄関前インターホン（子機）より警報が鳴り、室内外に異常をお知らせするとともに、警備会社、住友不動産建物サービス設備管理センターへ自動通報されます。</p>
           <div class="image img01">
             <img src="./images/structure03/img08.png" alt="" class="">
+          </div>
           </div>
         </li>
       </ul>
