@@ -120,27 +120,24 @@
     }
     .list03 {
       margin-bottom: 60px;
-    }
-    .list04 {
-      margin-bottom: 60px;
+      li.double {
+        .image {
+          width: 35%;
+          display: inline-block;
+          vertical-align: top;
+          &.img-sub {
+            width: 50%;
+            margin-left: 5%;
+            .annotation {
+              bottom: -30px;
+            }
+          }
+        }
+      }
     }
     .list08 {
       li {
         margin-bottom: 60px;
-        &:first-child {
-          .image {
-            width: 35%;
-            display: inline-block;
-            vertical-align: top;
-            &.img-sub {
-              width: 50%;
-              margin-left: 5%;
-              .annotation {
-                bottom: -30px;
-              }
-            }
-          }
-        }
       }
       li:nth-child(2n) {
         margin-right: auto;

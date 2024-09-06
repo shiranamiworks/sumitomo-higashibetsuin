@@ -111,23 +111,20 @@
 .equipment02 .sec01 .list03 {
   margin-bottom: 60px;
 }
-.equipment02 .sec01 .list04 {
-  margin-bottom: 60px;
-}
-.equipment02 .sec01 .list08 li {
-  margin-bottom: 60px;
-}
-.equipment02 .sec01 .list08 li:first-child .image {
+.equipment02 .sec01 .list03 li.double .image {
   width: 35%;
   display: inline-block;
   vertical-align: top;
 }
-.equipment02 .sec01 .list08 li:first-child .image.img-sub {
+.equipment02 .sec01 .list03 li.double .image.img-sub {
   width: 50%;
   margin-left: 5%;
 }
-.equipment02 .sec01 .list08 li:first-child .image.img-sub .annotation {
+.equipment02 .sec01 .list03 li.double .image.img-sub .annotation {
   bottom: -30px;
+}
+.equipment02 .sec01 .list08 li {
+  margin-bottom: 60px;
 }
 .equipment02 .sec01 .list08 li:nth-child(2n) {
   margin-right: auto;
