@@ -77,21 +77,36 @@
         <li>
           <p class="tit-img">ダブルロック</p>
           <p class="lead">防犯性を高めるため、玄関ドアは上下2ヶ所で施錠できるダブルロック仕様としました。</p>
-          <div class="image">
+          <div class="image tb">
             <img src="./images/structure03/img05.png" alt="" class="">
           </div>
         </li>
         <li>
           <p class="tit-img">鎌デッド錠</p>
           <p class="lead">枠と扉の間にバールなどを差し込んで解錠する、こじ開けの手口への対策として、玄関ドアのカギを施錠すると鎌状の金具がせりだす鎌デッド錠を採用しました。</p>
-          <div class="image">
+          <div class="image tb">
             <img src="./images/structure03/img06.png" alt="" class="">
           </div>
         </li>
         <li>
           <p class="tit-img">防犯サムターン</p>
           <p class="lead">工具をドアの内側に入れサムターンを回してしまう不正解錠に対応したスイッチ式防犯サムターン（上部1ヶ所）を採用しました。</p>
-          <div class="image">
+          <div class="image tb">
+            <img src="./images/structure03/img07.png" alt="" class="">
+          </div>
+        </li>
+        <li>
+          <div class="image pc">
+            <img src="./images/structure03/img05.png" alt="" class="">
+          </div>
+        </li>
+        <li>
+          <div class="image pc">
+            <img src="./images/structure03/img06.png" alt="" class="">
+          </div>
+        </li>
+        <li>
+          <div class="image pc">
             <img src="./images/structure03/img07.png" alt="" class="">
           </div>
         </li>

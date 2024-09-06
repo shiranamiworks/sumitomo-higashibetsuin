@@ -43,7 +43,7 @@
   margin-bottom: 30px;
 }
 .equipment04 .sections .tit-img {
-  font-size: 24px;
+  font-size: 22px;
   line-height: 1;
   padding-bottom: 10px;
   border-bottom: 1px solid;
@@ -58,15 +58,17 @@
   margin-bottom: 10px;
 }
 .equipment04 .sections .lead span {
-  font-size: 15px;
-  letter-spacing: 0;
+  display: block;
+  font-size: 12px;
+  line-height: 1.6;
+  margin-top: 10px;
 }
 .equipment04 .sections .text {
   font-size: 19px;
   line-height: 1.6;
 }
 .equipment04 .sections .caps {
-  font-size: 15px;
+  font-size: 12px;
   line-height: 1.2;
 }
 .equipment04 .sec01 {

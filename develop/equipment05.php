@@ -131,8 +131,8 @@
         </li>
         <li>
           <p class="tit-img">無線LAN給湯リモコン</p>
-          <p class="lead">専用アプリケーションを使ってお手元のスマートフォンから給湯器・床暖房などの操作や機器の状態をどこからでも確認することができます※1。帰宅途中にスマートフォンからお湯はり・追い焚きをしておけば、帰ってすぐお風呂に入れます。また、寒い冬の日は床暖房を運転ONにしておけば、家に帰るころにはお部屋あたたか。</p>
-          <p class="lead sub">※1.ご利用には予め準備が必要な事項もございます。詳細につきましては取扱説明書をご確認ください。<br>※2.家庭用無線LANルーターは別途ご用意頂く必要がございます。<br>※3.機器ごとによって仕様・接続方法が異なりますので、詳細につきましては取扱説明書をご確認ください。</p>
+          <p class="lead">専用アプリケーションを使ってお手元のスマートフォンから給湯器・床暖房などの操作や機器の状態をどこからでも確認することができます※1。帰宅途中にスマートフォンからお湯はり・追い焚きをしておけば、帰ってすぐお風呂に入れます。また、寒い冬の日は床暖房を運転ONにしておけば、家に帰るころにはお部屋あたたか。
+          <br><span>※1.ご利用には予め準備が必要な事項もございます。詳細につきましては取扱説明書をご確認ください。<br>※2.家庭用無線LANルーターは別途ご用意頂く必要がございます。<br>※3.機器ごとによって仕様・接続方法が異なりますので、詳細につきましては取扱説明書をご確認ください。</span></p>
           <div class="image">
             <img src="./images/equipment05/img11.jpg" alt="" class="">
             <p class="annotation gothic bt">（イメージ図）</p>
@@ -140,23 +140,33 @@
         </li>
       </ul>
       <ul class="lists list03 clearfix">
-        <li>
+        <li class="mb0">
           <p class="tit-img">お引越し無料パック</p>
           <p class="lead">梱包資材の提供や荷物の搬出・運搬・搬入など、お引越しを無料でサポートします。また、必要に応じて家電の取付けやトランクルームの手配などの各種サービスもオプション（有料）で行います。<br><span>※サービスのご利用には制限がございます。詳細は係員にお尋ねください。</span></p>
-          <div class="image">
-            <img src="./images/equipment05/img19.png" alt="" class="">
+          <div class="image tb">
+            <img src="./images/equipment05/img19.jpg" alt="" class="">
           </div>
         </li>
         <li>
           <p class="tit-img">スロップシンク</p>
           <p class="lead">バルコニーにスロップシンクを備えました。ガーデニングやお掃除など、便利に活用できます。</p>
-          <div class="image">
+          <div class="image tb">
             <img src="./images/equipment05/img09.jpg" alt="" class="">
           </div>
         </li>
-        <li>
+        <li class="mr0 mb0">
           <p class="tit-img">透明耐熱強化ガラス</p>
           <p class="lead">一部住戸には、透明耐熱強化ガラスを採用し、眺望を妨げる網をなくすと同時に強化処理を加えた防火ガラスとなっています。また万一割れた際には破片が細かく砕けるので、安全性にも優れています。<br><span>※詳細は係員にお尋ねください。</span></p>
+        </li>
+        <li>
+          <div class="image pc">
+            <img src="./images/equipment05/img19.jpg" alt="" class="">
+          </div>
+        </li>
+        <li class="mr100">
+          <div class="image pc">
+            <img src="./images/equipment05/img09.jpg" alt="" class="">
+          </div>
         </li>
         <li>
           <p class="tit-img">二重天井</p>
@@ -166,7 +176,7 @@
           <p class="tit-img">専用玄関ポーチ</p>
           <p class="lead">玄関の前に住戸専用のポーチを設けたプランをご用意しました。玄関に奥行を与え、住まいの独立性、プライバシー性を高めています。 <br><span>※Eタイプのみ。</span></p>
         </li>
-        <li>
+        <li class="mr0">
           <p class="tit-img">テラス</p>
           <p class="lead">１階住戸には、タイルを張ったテラスのあるプランをご用意しました。戸建て感覚を演出し、住まいに憩いと広がりを与えます。</p>
         </li>

@@ -205,8 +205,8 @@
           <p class="tit-img">ミュージックリモコン</p>
           <p class="lead">音楽プレイヤーをキッチンリモコンに接続すると、バスルーム内で音楽や音声プログラムを楽しむことができます。</p>
           <div class="image tb">
-            <img src="./images/equipment01/img17.png" alt="" class="">
-            <p class="annotation gothic bt">参考写真</p>
+            <img src="./images/equipment01/img17.jpg" alt="" class="">
+            <p class="annotation gothic bt">（参考写真）</p>
           </div>
         </li>
         <li>
@@ -226,7 +226,7 @@
         <li>
           <div class="image">
             <img src="./images/equipment01/img17.png" alt="" class="">
-            <p class="annotation gothic bt">参考写真</p>
+            <p class="annotation gothic bt">（参考写真）</p>
           </div>
         </li>
         <li>
@@ -279,7 +279,7 @@
         <li>
           <p class="tit-img">ヘルスメータースペース</p>
           <p class="lead">洗面化粧台のキャビネットの下部を有効利用し、体重計の収納に便利なヘルスメータースペースを設けています。<br><span>※ヘルスメーターのサイズによっては収納できないものもあります。</span></p>
-          <div class="image tb">
+          <div class="image">
             <img src="./images/equipment01/img12.jpg" alt="" class="">
           </div>
         </li>
