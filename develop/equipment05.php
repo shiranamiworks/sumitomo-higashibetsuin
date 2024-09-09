@@ -135,7 +135,7 @@
           <br><span>※1.ご利用には予め準備が必要な事項もございます。詳細につきましては取扱説明書をご確認ください。<br>※2.家庭用無線LANルーターは別途ご用意頂く必要がございます。<br>※3.機器ごとによって仕様・接続方法が異なりますので、詳細につきましては取扱説明書をご確認ください。</span></p>
           <div class="image">
             <img src="./images/equipment05/img11.jpg" alt="" class="">
-            <p class="annotation gothic bt">（イメージ図）</p>
+            <p class="annotation gothic bt">（概念図）</p>
           </div>
         </li>
       </ul>
@@ -230,7 +230,7 @@
       </ul>
       <ul class="lists list01 clearfix">
         <li class="double">
-          <p class="tit-img">住まいサポート12 PREMIUM<br><span>（オプション・有料）</span></p>
+          <p class="tit-img">住まいサポート12 PREMIUM<br class="tb"><span>（オプション・有料）</span></p>
           <p class="lead">お引き渡しより、通常2年のアフターサービス期間終了後、本来ご自身で対応されることとなる住まいのトラブル対応、住宅設備機器等のリペアやメンテナンス等を、お引渡しより12年間サポートします。<br><span>※詳細は係員にお尋ねください。</span></p>
           <div class="image">
             <img src="./images/equipment05/img15.png" alt="" class="">
@@ -251,7 +251,7 @@
 
 
   <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix">※設備・仕様はタイプにより異なります。<br>※掲載の参考写真は本物件のモデルルームを撮影したものではありません。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（Dcタイプ）を撮影（2024年8月）したものです。<br>※設備・仕様はタイプにより異なります。<br>※掲載の参考写真は本物件のモデルルームを撮影したものではありません。</p></div>
 </main>
 
   <div class="equipment-link equipment-link--5">
