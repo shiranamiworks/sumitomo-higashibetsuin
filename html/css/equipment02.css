@@ -125,6 +125,12 @@
 .equipment02 .sec01 .list03 li.double .image.img-sub .annotation {
   bottom: -30px;
 }
+.equipment02 .sec01 .list04 {
+  margin-bottom: 60px;
+}
+.equipment02 .sec01 .list04 li {
+  vertical-align: bottom;
+}
 .equipment02 .sec01 .list08 li {
   margin-bottom: 60px;
 }
