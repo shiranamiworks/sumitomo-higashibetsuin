@@ -63,7 +63,7 @@
   display: block;
   font-size: 12px;
   line-height: 1.6;
-  margin-top: 10px;
+  margin-bottom: 5px;
 }
 .structure01 .sections .text {
   font-size: 19px;
@@ -80,11 +80,11 @@
   display: inline-block;
   vertical-align: top;
 }
-.structure01 .sec01 .list01 li {
+.structure01 .sec01 .list01 li:nth-child(2) {
   width: 58%;
   margin-right: 1%;
 }
-.structure01 .sec01 .list01 li:last-child {
+.structure01 .sec01 .list01 li:nth-child(3) {
   width: 40%;
   margin-right: auto;
 }
@@ -103,15 +103,21 @@
   margin-bottom: 40px;
 }
 .structure01 .sec01 .list03 li {
-  width: 32%;
-  margin-right: 1%;
+  width: 31%;
+  margin-right: 2%;
+}
+.structure01 .sec01 .list03 li.double {
+  width: 64%;
+}
+.structure01 .sec01 .list03 li.title {
+  vertical-align: bottom;
 }
 .structure01 .sec01 .list03 li:last-child {
   width: 66%;
   margin-right: auto;
 }
 .structure01 .sec01 .list03 li:last-child .image {
-  max-width: 370px;
+  max-width: 300px;
   width: 64%;
   margin: auto;
 }
@@ -133,11 +139,14 @@
   margin-bottom: 40px;
 }
 .structure01 .sec01 .list06 li {
-  width: 32%;
-  margin-right: 1%;
+  width: 31%;
+  margin-right: 2%;
 }
 .structure01 .sec01 .list06 li.mr0 {
   margin-right: auto;
+}
+.structure01 .sec01 .list06 li.title {
+  vertical-align: bottom;
 }
 .structure01 .sec01 .list06 li:last-child {
   margin-right: auto;
@@ -190,10 +199,23 @@
 }
 @media screen and (max-width: 1024px) {
   .structure01 .sec01 .list06 li {
-    width: 48%;
+    width: 100%;
     margin-right: 1%;
   }
-  .structure01 .sec01 .list06 li:nth-child(2) {
+  .structure01 .sec01 .list06 li .tit-img {
+    width: 100%;
+  }
+  .structure01 .sec01 .list06 li .tit-img.pc {
+    display: none;
+  }
+  .structure01 .sec01 .list06 li .tit-img.tb {
+    display: block;
+  }
+  .structure01 .sec01 .list06 li .image {
+    width: 60%;
+    margin: auto;
+  }
+  .structure01 .sec01 .list06 li:nth-child(2), .structure01 .sec01 .list06 li:nth-child(4) {
     margin-right: auto;
   }
   .structure01 .sec01 .list06 li:last-child {
@@ -226,6 +248,17 @@
   .structure01 .sec01 .list01 li {
     width: 100%;
   }
+  .structure01 .sec01 .list01 li:nth-child(2) {
+    width: 100%;
+  }
+  .structure01 .sec01 .list01 li:nth-child(5) {
+    width: 100%;
+  }
+  .structure01 .sec01 .list01 li:nth-child(5) .image {
+    width: 60%;
+    max-width: 300px;
+    margin: auto;
+  }
   .structure01 .sec01 .list01 li:last-child {
     width: 100%;
     margin-bottom: 20px;
@@ -247,6 +280,10 @@
   .structure01 .sec01 .list03 li {
     width: 100%;
     margin-right: auto;
+    margin-bottom: 40px;
+  }
+  .structure01 .sec01 .list03 li.double {
+    width: 100%;
   }
   .structure01 .sec01 .list03 li:last-child {
     width: 100%;
@@ -258,7 +295,7 @@
     margin: auto;
   }
   .structure01 .sec01 .list03 .lead {
-    margin: auto;
+    margin-bottom: 10px;
   }
   .structure01 .sec01 .list04 li {
     width: 100%;

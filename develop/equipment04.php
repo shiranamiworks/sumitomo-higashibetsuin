@@ -66,8 +66,8 @@
 
 
 
- <!-- <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix"></p></div>-->
+ <div class="annotation-area">
+  <p class="page-annotation js-scroll wrap clearfix">※設備・仕様はタイプにより異なります。</p></div>
 </main>
 
   <div class="equipment-link equipment-link--5">

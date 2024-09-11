@@ -71,12 +71,16 @@
           <p class="lead">災害時などに安全に避難できるようエントランスのオートドアには強化ガラスを採用しました。強化ガラスは衝撃に強く割れにくい上に、万一割れた場合でも破片の角が鋭利にならないという特徴があります。</p>
         </li>
         <li>
-          <p class="tit-img">非常用マンホールトイレ検知器</p>
+          <p class="tit-img">非常用マンホールトイレ</p>
           <p class="lead">災害時に敷地内の特定のマンホールのフタを外して簡易トイレ（非常用マンホールトイレ）を設置するだけですぐに利用できます。</p>
         </li>
         <li>
-          <p class="tit-img">ホーム保安灯</p>
-          <p class="lead">停電時にライトが自動点灯するホーム保安灯を採用しました。コンセントから簡単に取り外せるので、非常時の携帯電灯としても使用できます。さらに、周囲が暗くなると自動点灯するナイトライト機能も付いています。</p>
+          <p class="tit-img">ガス漏れ検知器</p>
+          <p class="lead">万一ガス漏れが発生した場合は、ガス漏れ検知器が作動。当該住戸内のインターホン（親機）と玄関前インターホン（子機）より警報音が鳴り、室内外に異常をお知らせするとともに、警備会社および住友不動産建物サービス設備管理センターへ自動通報されます。</p>
+          <div class="image tb">
+            <img src="./images/structure02/img04.jpg" alt="" class="">
+            <p class="annotation gothic">（参考写真２）</p>
+          </div>
         </li>
         <li>
           <p class="tit-img">火災感知器</p>
@@ -89,19 +93,12 @@
       </ul>
       <ul class="lists list03">
         <li>
-          <p class="tit-img">ガス漏れ検知器</p>
-          <p class="lead">万一ガス漏れが発生した場合は、ガス漏れ検知器が作動。当該住戸内のインターホン（親機）と玄関前インターホン（子機）より警報音が鳴り、室内外に異常をお知らせするとともに、警備会社および住友不動産建物サービス設備管理センターへ自動通報されます。</p>
-          <div class="image tb">
-            <img src="./images/structure02/img04.jpg" alt="" class="">
-            <p class="annotation gothic">（参考写真２）</p>
-          </div>
+          <p class="tit-img">ホーム保安灯</p>
+          <p class="lead">停電時にライトが自動点灯するホーム保安灯を採用しました。コンセントから簡単に取り外せるので、非常時の携帯電灯としても使用できます。さらに、周囲が暗くなると自動点灯するナイトライト機能も付いています。</p>
         </li>
         <li>
-          <p class="tit-img">耐震ラッチ</p>
-          <p class="lead">洗面化粧台の三面鏡収納の扉には、地震の揺れによって扉が開いて、収納物が落下しないように、耐震ラッチを設置。住まう方の安全に配慮しています。</p>
-          <div class="image">
-            <img src="./images/structure02/img05.png" alt="" class="">
-          </div>
+          <p class="tit-img">バルコニー避難ハッチ</p>
+          <p class="lead">災害発生時、バルコニーを通って下階に降りられるよう各階バルコニーの必要箇所に避難ハッチを設けました。避難ハッチのない住戸は、バルコニーの隔板を破って同一階で移動することにより、避難ハッチを利用することができます。</p>
         </li>
         <li>
           <p class="tit-img">非常用発電機</p>
@@ -111,8 +108,11 @@
 
       <ul class="lists list05">
         <li>
-          <p class="tit-img">バルコニー避難ハッチ</p>
-          <p class="lead">災害発生時、バルコニーを通って下階に降りられるよう各階バルコニーの必要箇所に避難ハッチを設けました。避難ハッチのない住戸は、バルコニーの隔板を破って同一階で移動することにより、避難ハッチを利用することができます。</p>
+          <p class="tit-img">耐震ラッチ</p>
+          <p class="lead">洗面化粧台の三面鏡収納の扉には、地震の揺れによって扉が開いて、収納物が落下しないように、耐震ラッチを設置。住まう方の安全に配慮しています。</p>
+          <div class="image tb">
+            <img src="./images/structure02/img05.png" alt="" class="">
+          </div>
         </li>
         <li>
           <p class="tit-img">耐震ドア枠</p>
@@ -129,7 +129,12 @@
             <img src="./images/structure02/img07.png" alt="" class="">
           </div>
         </li>
-        <li class="ml34">
+        <li>
+          <div class="image pc">
+            <img src="./images/structure02/img05.png" alt="" class="">
+          </div>
+        </li>
+        <li>
           <div class="image img06 pc">
             <img src="./images/structure02/img06.png" alt="" class="">
             <p class="annotation gothic bt">（概念図）</span></p>

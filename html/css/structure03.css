@@ -87,11 +87,26 @@
   margin-bottom: 40px;
 }
 .structure03 .sec01 .list01 li {
+  width: 100%;
+  margin-bottom: 40px;
+}
+.structure03 .sec01 .list01 li .text {
+  width: 50%;
+  float: left;
+}
+.structure03 .sec01 .list01 li .image {
   width: 48%;
-  margin-right: 2%;
+  float: right;
+  margin-top: 30px;
 }
 .structure03 .sec01 .list01 li:last-child {
   margin-right: auto;
+}
+.structure03 .sec01 .list01 li:last-child .text {
+  width: 58%;
+}
+.structure03 .sec01 .list01 li:last-child .image {
+  width: 40%;
 }
 .structure03 .sec01 .list01 .annotation {
   bottom: -15px;
@@ -149,11 +164,11 @@
   display: flex;
 }
 .structure03 .sec01 .list04 .lead-box .img01 {
-  width: 36%;
-  margin-left: 4%;
+  width: 20%;
+  margin-left: 2%;
 }
 .structure03 .sec01 .list04 .lead-box .lead {
-  width: 60%;
+  width: 78%;
   float: left;
 }
 .structure03 main {
@@ -190,8 +205,17 @@
     margin-right: auto;
     margin-bottom: 30px;
   }
+  .structure03 .sec01 .list01 li .text, .structure03 .sec01 .list01 li .image {
+    width: 100%;
+  }
+  .structure03 .sec01 .list01 li .image {
+    margin-bottom: 30px;
+  }
   .structure03 .sec01 .list01 li:last-child {
     margin-right: auto;
+  }
+  .structure03 .sec01 .list01 li:last-child .text, .structure03 .sec01 .list01 li:last-child .image {
+    width: 100%;
   }
   .structure03 .sec01 .list01 .lead-box {
     display: block;

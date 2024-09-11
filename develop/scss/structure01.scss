@@ -66,7 +66,7 @@
         display: block;
         font-size: 12px;
         line-height: 1.6;
-        margin-top: 10px;
+        margin-bottom: 5px;
       }
     }
     .text {
@@ -87,11 +87,11 @@
       }
     }
     .list01 {
-      li {
+      li:nth-child(2) {
         width: 58%;
         margin-right: 1%;
       }
-      li:last-child {
+      li:nth-child(3) {
         width: 40%;
         margin-right: auto;
       }
@@ -110,14 +110,20 @@
     .list03 {
       margin-bottom: 40px;
       li {
-        width: 32%;
-        margin-right: 1%;
+        width: 31%;
+        margin-right: 2%;
+        &.double{
+          width: 64%;
+        }
+        &.title{
+          vertical-align: bottom;
+        }
       }
       li:last-child {
         width: 66%;
         margin-right: auto;
         .image {
-          max-width: 370px;
+          max-width: 300px;
           width: 64%;
           margin: auto;
         }
@@ -140,10 +146,13 @@
     .list06 {
       margin-bottom: 40px;
       li {
-        width: 32%;
-        margin-right: 1%;
+        width: 31%;
+        margin-right: 2%;
         &.mr0{
           margin-right: auto;
+        }
+        &.title{
+          vertical-align: bottom;
         }
       }
       li:last-child {
@@ -206,10 +215,23 @@
     .sec01 {
       .list06 {
         li {
-          width: 48%;
+          width: 100%;
           margin-right: 1%;
+          .tit-img{
+            width: 100%;
+            &.pc{
+              display: none;
+            }
+            &.tb{
+              display: block;
+            }
+          }
+          .image{
+            width: 60%;
+            margin: auto;
+          }
         }
-        li:nth-child(2) {
+        li:nth-child(2),li:nth-child(4) {
           margin-right: auto;
         }
         li:last-child {
@@ -249,6 +271,17 @@
       .list01 {
         li {
           width: 100%;
+          &:nth-child(2){
+            width: 100%;
+          }
+          &:nth-child(5){
+            width: 100%;
+            .image{
+              width: 60%;
+              max-width: 300px;
+              margin: auto;
+            }
+          }
         }
         li:last-child {
           width: 100%;
@@ -271,6 +304,10 @@
         li {
           width: 100%;
           margin-right: auto;
+          margin-bottom: 40px;
+          &.double{
+            width: 100%;
+          }
         }
         li:last-child {
           width: 100%;
@@ -282,7 +319,7 @@
           }
         }
         .lead {
-          margin: auto;
+          margin-bottom: 10px;
         }
       }
       .list04 {
