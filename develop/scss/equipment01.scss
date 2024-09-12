@@ -32,6 +32,7 @@
     .image {
       position: relative;
       text-align: center;
+      margin-bottom: 20px;
     }
     .annotation {
       font-size: 12px;
@@ -41,12 +42,13 @@
       }
     }
     .tit {
-      font-size: 22px;
+      font-size: 24px;
       letter-spacing: 0.12em;
       background: #b9a277;
       color: #fff;
-      padding: 6px 0 6px 16px;
+      padding: 10px 0 10px 16px;
       margin-bottom: 30px;
+      font-weight: bold;
     }
     .tit-img {
       font-size: 22px;
@@ -56,6 +58,9 @@
       margin-bottom: 10px;
       span {
         font-size: 14px;
+        &.mini{
+          font-size: 18px;
+        }
       }
     }
     .lead {
@@ -84,8 +89,8 @@
       li {
         display: inline-block;
         vertical-align: top;
-        width: 32%;
-        margin-right: 1%;
+        width: 31%;
+        margin-right: 2%;
       }
       li:last-child {
         margin-right: auto;
@@ -102,7 +107,7 @@
       }
     }
     .list03 {
-      margin-bottom: 10px;
+      margin-bottom: 60px;
     }
     .list04 {
       margin-bottom: 40px;
@@ -112,7 +117,7 @@
       }
     }
     .list05 {
-      padding-bottom: 40px;
+      padding-bottom: 60px;
       li:nth-child(3) {
         margin-right: auto;
       }
@@ -124,11 +129,12 @@
   .sec02 {
     margin-bottom: 60px;
     .lists {
+      margin-bottom: 60px;
       li {
         display: inline-block;
         vertical-align: top;
-        width: 32%;
-        margin-right: 1%;
+        width: 31%;
+        margin-right: 2%;
         &.full {
           width: 100%;
           margin-bottom: 60px;
@@ -176,7 +182,7 @@
         width: 84%;
       }
       .tit {
-        font-size: 18px;
+        font-size: 22px;
         margin-bottom: 20px;
       }
       .lead {

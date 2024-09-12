@@ -144,6 +144,9 @@
   width: 32%;
   margin-right: 1%;
 }
+.structure02 .sec01 .list05 li.bottom {
+  vertical-align: bottom;
+}
 .structure02 .sec01 .list05 li:last-child {
   margin-right: auto;
 }

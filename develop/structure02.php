@@ -126,23 +126,24 @@
           <p class="tit-img">家具固定用下地補強</p>
           <p class="lead">万一の地震時による家具転倒予防として、キッチンの一部の間仕切壁などに家具固定用下地補強を施しました。壁面の一部分にある下地補強に家具を固定することで家具が倒れにくくなり、住まう方の安全に配慮された仕様です。<br><span>※住戸タイプにより設置箇所は異なります。詳細は係員にお尋ねください。<br>※取付金具は別途お客様のご負担となります。</span></p>
           <div class="image tb">
-            <img src="./images/structure02/img07.png" alt="" class="">
+            <img src="./images/structure02/img07.png" alt="" class=""><p class="annotation gothic bt">（概念図）</span></p>
           </div>
         </li>
-        <li>
+        <li class="bottom">
           <div class="image pc">
             <img src="./images/structure02/img05.png" alt="" class="">
           </div>
         </li>
-        <li>
+        <li class="bottom">
           <div class="image img06 pc">
             <img src="./images/structure02/img06.png" alt="" class="">
             <p class="annotation gothic bt">（概念図）</span></p>
           </div>
         </li>
-        <li>
+        <li class="bottom">
           <div class="image pc">
             <img src="./images/structure02/img07.png" alt="" class="">
+            <p class="annotation gothic bt">（概念図）</span></p>
           </div>
         </li>
       </ul>

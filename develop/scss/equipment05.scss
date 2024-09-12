@@ -32,6 +32,7 @@
     .image {
       position: relative;
       text-align: center;
+      margin-bottom: 20px;
     }
     .annotation {
       font-size: 12px;
@@ -39,14 +40,18 @@
       &.bt {
         bottom: -20px;
       }
+      &.mr-35{
+        margin-right: -35px;
+      }
     }
     .tit {
-      font-size: 22px;
+      font-size: 24px;
       letter-spacing: 0.12em;
       background: #b9a277;
       color: #fff;
-      padding: 6px 0 6px 16px;
+      padding: 10px 0 10px 16px;
       margin-bottom: 30px;
+      font-weight: bold;
     }
     .tit-img {
       font-size: 22px;
@@ -85,8 +90,9 @@
       li {
         display: inline-block;
         vertical-align: top;
-        width: 32%;
-        margin-right: 1%;
+        width: 31%;
+        margin-right: 2%;
+        margin-bottom: 60px;
       }
       li:last-child {
         margin-right: auto;
@@ -110,8 +116,8 @@
       li {
         display: inline-block;
         vertical-align: top;
-        width: 32%;
-        margin-right: 1%;
+        width: 31%;
+        margin-right: 2%;
         margin-bottom: 60px;
         &.double {
           width: 66%;
@@ -146,6 +152,36 @@
         }
       }
     }
+    .list02{
+      .full{
+        .lead{
+          width: 68%;
+          float: left;
+        }
+        .image{
+          width: 30%;
+          float: right;
+        }
+      }
+      .half{
+        display: inline-block;
+        width: 48%;
+        margin-bottom: 10px;
+        &.pc{
+          vertical-align: bottom;
+        }
+        .image{
+          max-width: 300px;
+          margin: auto;
+        }
+        &:nth-child(3),:nth-child(5){
+          margin-right: auto;
+        }
+        &:nth-child(4),:last-child{
+          margin-bottom: 60px;
+        }
+      }
+    }
   } //sec02
 
   .sec03 {
@@ -154,8 +190,8 @@
       li {
         display: inline-block;
         vertical-align: top;
-        width: 32%;
-        margin-right: 1%;
+        width: 31%;
+        margin-right: 2%;
         margin-bottom: 60px;
         .image.right {
           width: 48%;
@@ -206,7 +242,7 @@
         width: 84%;
       }
       .tit {
-        font-size: 18px;
+        font-size: 21px;
         margin-bottom: 20px;
       }
       .lead {
@@ -263,11 +299,25 @@
           .lead {
             width: 100%;
             float: none;
-            margin-bottom: 10px;
+            margin-bottom: 20px;
           }
           .image {
             width: 100%;
             margin: auto;
+          }
+        }
+      }
+      .list02{
+        .full .lead,.full .image{
+          width: 100%;
+        }
+        .half{
+          width: 100%;
+          .image{
+            margin-bottom: 20px;
+          }
+          &.pc{
+            display: none;
           }
         }
       }

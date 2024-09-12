@@ -38,46 +38,51 @@
 
   <section class="sections sec01 clearfix">
     <div class="wrap">
-      <h2 class="tit">健康・エコ・省エネ</h2>
+      <h2 class="tit">■ 健康・エコ・省エネ</h2>
       <ul class="lists list00">
-        <li class="full">
+        <li class="double">
           <p class="tit-img">エコジョーズ</p>
           <p class="lead">環境と家計の両方に優しい東邦ガスの高効率ガス給湯器「エコジョーズ」を採用。キッチン、バスルーム、パウダールームへのスムーズな給湯はもちろん、床暖房や浴室暖房乾燥機までをトータルにサポートします。</p>
           <div class="lead-box">
           <p class="text01">※1 FT4215ARSAW6Qの場合（スタンダードの一例）※2 FT4220・FT4222シリーズの場合（エコジョーズの一例）<br>※1※2はJIS S 2109で定める測定方法により算定 ただし※1～2ともご使用状況により熱効率は異なります。</p>
-          <div class="image">
+          <!-- <div class="image">
             <img src="./images/equipment02/img01.jpg" alt="" class=""><p class="annotation gothic">（参考写真）</p>
+          </div> -->
           </div>
+        </li>
+        <li>
+          <div class="lead-box">
+            <img src="./images/equipment02/img01.jpg" alt="" class=""><p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
       </ul>
       <ul class="lists list01">
         <li>
           <p class="tit-img">Low-Eガラス</p>
-          <p class="lead">開口部には省エネ効果に優れたLow-Eガラスを採用。ガラスの表面にコーティングされた日射熱の反射性を高める特殊金属膜（Low-E膜）と断熱性を高める空気層により、冷暖房両方の負荷を軽減します。<br><span>※詳細は係員にお尋ねください。</span></p>
-          <div class="image size tb">
+          <div class="image size">
             <img src="./images/equipment02/img09.jpg" alt="" class="">
             <p class="annotation gothic">（概念図）</p>
           </div>
+          <p class="lead">開口部には省エネ効果に優れたLow-Eガラスを採用。ガラスの表面にコーティングされた日射熱の反射性を高める特殊金属膜（Low-E膜）と断熱性を高める空気層により、冷暖房両方の負荷を軽減します。<br><span>※詳細は係員にお尋ねください。</span></p>
         </li>
         <li>
           <p class="tit-img">ガス温水式床暖房</p>
-          <p class="lead">リビング・ダイニング・隣接洋室には、東邦ガスの温水床暖房を採用。温水を利用して足元から心地よく室内を暖め、理想的といわれる『頭寒足熱』を実現する暖房システムです。</p>
-          <div class="image tb">
+          <div class="image">
             <img src="./images/equipment02/img05.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
+          <p class="lead">リビング・ダイニング・隣接洋室には、東邦ガスの温水床暖房を採用。温水を利用して足元から心地よく室内を暖め、理想的といわれる『頭寒足熱』を実現する暖房システムです。</p>
         </li>
         <li>
           <p class="tit-img">太陽光発電システム</p>
-          <p class="lead">自然エネルギーを有効に活用した太陽光発電システムを屋上に設置。マンションの共用部で使用する電力の一部を賄う事ができます。</p>
-          <div class="image tb">
+          <div class="image">
             <img src="./images/equipment02/img04.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
+          <p class="lead">自然エネルギーを有効に活用した太陽光発電システムを屋上に設置。マンションの共用部で使用する電力の一部を賄う事ができます。</p>
         </li>
       </ul>
-      <ul class="lists list02 pc">
+      <!-- <ul class="lists list02 pc">
         <li>
           <div class="image size">
             <img src="./images/equipment02/img09.jpg" alt="" class="">
@@ -96,16 +101,14 @@
             <p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
-      </ul>
+      </ul> -->
       <ul class="lists list04 clearfix">
-        <li class="double">
+        <li class="full">
           <p class="tit-img">ミストサウナ</p>
           <p class="lead">一般のドライサウナと比べ、低温・高湿度で息苦しくなくリラックスして楽しめます。気分をリフレッシュしたいとき、お肌をやさしくいたわりたいとき、ミストサウナ入浴で素敵なバスタイムを。さらに、衣類のリフレッシュや浴室のカビ抑制により、家事の負担を軽減します。</p>
           <div class="image">
             <img src="./images/equipment02/img08.jpg" alt="" class="">
           </div>
-        </li>
-        <li>
           <div class="image img02">
             <img src="./images/equipment02/img08-02.png" alt="" class="">
           </div>
@@ -114,15 +117,14 @@
       <ul class="lists list03">
         <li>
           <p class="tit-img">エコ機能付き給湯リモコン</p>
-          <p class="lead">キッチンとバスルームの給湯リモコンには「エコ運転機能」を搭載。画面メニューから「エコ」をタッチするだけで給湯量が自動調整でき、省エネ・節約に効果的です。また、熱源機（エコジョーズ）で使用した一日のガス・お湯の量、使用料金の目安、CO2の排出量を表示する「エネルック機能」も付いています。<br><span>※「エコ運転機能」を利用して2ヶ所以上でお湯を使うと湯細りする可能性があります。</span></p>
           <div class="image size">
             <img src="./images/equipment02/img02.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
+          <p class="lead">キッチンとバスルームの給湯リモコンには「エコ運転機能」を搭載。画面メニューから「エコ」をタッチするだけで給湯量が自動調整でき、省エネ・節約に効果的です。また、熱源機（エコジョーズ）で使用した一日のガス・お湯の量、使用料金の目安、CO2の排出量を表示する「エネルック機能」も付いています。<br><span>※「エコ運転機能」を利用して2ヶ所以上でお湯を使うと湯細りする可能性があります。</span></p>
         </li>
         <li class="double">
           <p class="tit-img">節湯水栓</p>
-          <p class="lead">キッチン・パウダールームなどの水栓で湯水を使用する際、必要以上の流量で湯水を使用すると、水の消費量だけでなく、給湯のためのエネルギー消費量も増大します。水と湯水の境目にある切替ポイントでスマートにエコを意識し、効率的に無駄な湯水を省くことのできる節湯水栓を採用しています。</p>
           <div class="image">
             <img src="./images/equipment02/img12.png" alt="" class="">
           </div>
@@ -130,6 +132,7 @@
             <img src="./images/equipment02/img12-02.png" alt="" class="">
             <p class="annotation"><span class="gothic">（概念図）</span><br>※【条件】給水圧：0.1MPa 給湯圧：0.1MPa レバー中央（水）位置での値</p>
           </div>
+          <p class="lead">キッチン・パウダールームなどの水栓で湯水を使用する際、必要以上の流量で湯水を使用すると、水の消費量だけでなく、給湯のためのエネルギー消費量も増大します。水と湯水の境目にある切替ポイントでスマートにエコを意識し、効率的に無駄な湯水を省くことのできる節湯水栓を採用しています。</p>
         </li>
       </ul>
       <ul class="lists list08">
