@@ -37,12 +37,13 @@
   bottom: -20px;
 }
 .structure03 .sections .tit {
-  font-size: 22px;
+  font-size: 24px;
   letter-spacing: 0.12em;
   background: #b9a277;
   color: #fff;
-  padding: 6px 0 6px 16px;
+  padding: 10px 0 10px 16px;
   margin-bottom: 30px;
+  font-weight: bold;
 }
 .structure03 .sections .tit-img {
   font-size: 22px;
@@ -179,7 +180,7 @@
     width: 84%;
   }
   .structure03 .sections .tit {
-    font-size: 18px;
+    font-size: 21px;
     margin-bottom: 20px;
   }
   .structure03 .sections .lead span {

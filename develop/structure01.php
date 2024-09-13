@@ -36,7 +36,7 @@
 
   <section class="sections sec01 clearfix">
     <div class="wrap">
-      <h2 class="tit">基本構造</h2>
+      <h2 class="tit">■ 基本構造</h2>
       <p class="tit-img">住宅性能評価</p>
       <ul class="lists list01">
         <li>
@@ -159,7 +159,7 @@
 
   <section class="sections sec02 clearfix">
     <div class="wrap">
-      <h2 class="tit">プライバシー</h2>
+      <h2 class="tit">■ プライバシー</h2>
       <ul class="lists list01 clearfix">
         <li>
           <p class="tit-img">サッシュ</p>

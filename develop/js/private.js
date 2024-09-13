@@ -6,7 +6,7 @@ $(function () {
       asNavFor: ".thumbnail",
     });
     $(".thumbnail").slick({
-      slidesToShow: 8,
+      slidesToShow: 7,
       asNavFor: ".slider",
       focusOnSelect: true,
           responsive: [

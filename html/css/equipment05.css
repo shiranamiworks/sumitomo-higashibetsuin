@@ -48,6 +48,7 @@
   padding: 10px 0 10px 16px;
   margin-bottom: 30px;
   font-weight: bold;
+  line-height: 1.6;
 }
 .equipment05 .sections .tit-img {
   font-size: 22px;
@@ -161,8 +162,8 @@
 .equipment05 .sec02 .list02 .half:nth-child(3), .equipment05 .sec02 .list02 .half :nth-child(5) {
   margin-right: auto;
 }
-.equipment05 .sec02 .list02 .half:nth-child(4), .equipment05 .sec02 .list02 .half :last-child {
-  margin-bottom: 60px;
+.equipment05 .sec02 .list02 .half .image {
+  margin-bottom: 20px;
 }
 .equipment05 .sec03 .lists li {
   display: inline-block;

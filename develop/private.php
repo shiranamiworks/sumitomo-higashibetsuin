@@ -86,7 +86,7 @@
         <p class="caption">LIVING DINING ROOM</p>
       </div>
     </div>
-    <div class="thumbnail-img">
+    <div class="thumbnail-img mr0">
       <div class="image">
         <img src="./images/private/img03.jpg" alt="">
         <p class="caption">LIVING DINING ROOM</p>
@@ -102,7 +102,7 @@
         <img src="./images/private/img05.jpg" alt="">
         <p class="caption">KITCHEN</p>
       </div>    </div>
-    <div class="thumbnail-img">
+    <div class="thumbnail-img mr0">
       <div class="image">
         <img src="./images/private/img06.jpg" alt="">
         <p class="caption">BALCONY</p>

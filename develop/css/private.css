@@ -65,7 +65,7 @@
   transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.4;
   letter-spacing: 0.12em;
   z-index: 10;
@@ -92,19 +92,25 @@
 }
 @media screen and (max-width: 768px) {
   #private .content {
-    margin: 40px auto 0;
+    margin: 0 auto;
+    padding-top: 20px;
+  }
+  #private .content .caption {
+    font-size: 18px;
   }
   #private .content .thumbnail .caption {
-    font-size: 14px;
+    font-size: 10px;
+    width: 100%;
+    margin: auto;
   }
   #private .content .thumbnail .slick-list, #private .content .thumbnail .slick-track {
     display: block;
   }
   #private .content .thumbnail-img {
-    margin: 0 1%;
+    width: 31% !important;
+    margin: 0 2% 10px 0;
   }
-  #private .content .thumbnail-img {
-    width: 30.5% !important;
-    margin-bottom: 10px;
+  #private .content .thumbnail-img.mr0 {
+    margin-right: 0;
   }
 }/*# sourceMappingURL=private.css.map */

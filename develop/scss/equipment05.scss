@@ -52,6 +52,7 @@
       padding: 10px 0 10px 16px;
       margin-bottom: 30px;
       font-weight: bold;
+      line-height: 1.6;
     }
     .tit-img {
       font-size: 22px;
@@ -177,8 +178,8 @@
         &:nth-child(3),:nth-child(5){
           margin-right: auto;
         }
-        &:nth-child(4),:last-child{
-          margin-bottom: 60px;
+        .image{
+          margin-bottom: 20px;
         }
       }
     }
