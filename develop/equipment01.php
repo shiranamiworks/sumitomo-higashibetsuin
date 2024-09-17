@@ -38,7 +38,7 @@
 
   <section class="sections sec01 clearfix">
     <div class="wrap">
-      <h2 class="tit">■ キッチン</h2>
+      <h2 class="tit">Kitchen</h2>
       <ul class="lists list01 clearfix">
         <li>
         <p class="tit-img">対面フラットカウンター</p>
@@ -91,10 +91,10 @@
           <div class="image">
             <img src="./images/equipment01/img04.jpg" alt="" class="">
           </div>
+          <p class="lead">世界中で愛される、ドイツ・ショット社製の耐熱セラミックガラストッププレートを採用。熱や衝撃に強く、汚れがつきにくいので、お手入れも簡単です。</p>
           <div class="image img-sub">
             <img src="./images/equipment01/img04-02.jpg" alt="" class="">
           </div>
-          <p class="lead">世界中で愛される、ドイツ・ショット社製の耐熱セラミックガラストッププレートを採用。熱や衝撃に強く、汚れがつきにくいので、お手入れも簡単です。</p>
         </li>
         <li>
           <p class="tit-img">レンジフード</p>
@@ -128,7 +128,7 @@
 
   <section class="sections sec02 clearfix">
     <div class="wrap">
-      <h2 class="tit">■ サニタリー</h2>
+      <h2 class="tit">Sanitary</h2>
       <ul class="lists list00 clearfix">
         <li class="full">
           <p class="tit-img">セミオートバス<br><span>（リモコン通話機能付）</span></p>

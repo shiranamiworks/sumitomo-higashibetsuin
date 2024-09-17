@@ -38,7 +38,7 @@
 
   <section class="sections sec01 clearfix">
     <div class="wrap">
-      <h2 class="tit">¡ Žû”[</h2>
+      <h2 class="tit">Storage</h2>
       <ul class="lists list01">
         <li>
           <p class="tit-img">ƒg[ƒ‹Œ^‰º‘«“ü</p>

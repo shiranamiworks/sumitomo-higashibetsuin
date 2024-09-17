@@ -38,20 +38,17 @@
 
   <section class="sections sec01 clearfix">
     <div class="wrap">
-      <h2 class="tit">■ 健康・エコ・省エネ</h2>
+      <h2 class="tit">Health,Ecology and<br class="sp"> Energy saving</h2>
       <ul class="lists list00">
-        <li class="double">
-          <p class="tit-img">エコジョーズ</p>
-          <p class="lead">環境と家計の両方に優しい東邦ガスの高効率ガス給湯器「エコジョーズ」を採用。キッチン、バスルーム、パウダールームへのスムーズな給湯はもちろん、床暖房や浴室暖房乾燥機までをトータルにサポートします。</p>
-          <div class="lead-box">
-          <p class="text01">※1 FT4215ARSAW6Qの場合（スタンダードの一例）※2 FT4220・FT4222シリーズの場合（エコジョーズの一例）<br>※1※2はJIS S 2109で定める測定方法により算定 ただし※1～2ともご使用状況により熱効率は異なります。</p>
-          <!-- <div class="image">
-            <img src="./images/equipment02/img01.jpg" alt="" class=""><p class="annotation gothic">（参考写真）</p>
-          </div> -->
+        <li class="full">
+        <p class="tit-img">エコジョーズ</p>
+          <div class="text">
+            <p class="lead">環境と家計の両方に優しい東邦ガスの高効率ガス給湯器「エコジョーズ」を採用。キッチン、バスルーム、パウダールームへのスムーズな給湯はもちろん、床暖房や浴室暖房乾燥機までをトータルにサポートします。</p>
+            <div class="lead-box">
+             <p class="text01">※1 FT4215ARSAW6Qの場合（スタンダードの一例）※2 FT4220・FT4222シリーズの場合（エコジョーズの一例）<br>※1※2はJIS S 2109で定める測定方法により算定 ただし※1～2ともご使用状況により熱効率は異なります。</p>
+            </div>
           </div>
-        </li>
-        <li>
-          <div class="lead-box">
+          <div class="image">
             <img src="./images/equipment02/img01.jpg" alt="" class=""><p class="annotation gothic">（参考写真）</p>
           </div>
         </li>

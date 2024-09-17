@@ -38,7 +38,7 @@
 
   <section class="sections sec01 clearfix">
     <div class="wrap">
-      <h2 class="tit">■ ユニバーサルデザイン</h2>
+      <h2 class="tit">Universal Design</h2>
       <ul class="lists list01">
         <li>
           <p class="tit-img">フラットフロア</p>
@@ -83,7 +83,7 @@
 
   <section class="sections sec02 clearfix">
     <div class="wrap">
-      <h2 class="tit">■ 快適提案</h2>
+      <h2 class="tit">Comfort</h2>
       <ul class="lists list01">
         <li class="full">
           <p class="tit-img">ダブルオープンフレキシブルプラン</p>
@@ -104,13 +104,26 @@
             <p class="annotation gothic">（概念図）</p>
           </div>
         </li>
-        <li class="half pc">
-          <p class="tit-img pc">宅配ボックス<br><span>（着荷表示機能付）</span></p>
+        <li class="full">
+          <p class="tit-img">無線LAN給湯リモコン</p>
+          <p class="lead">専用アプリケーションを使ってお手元のスマートフォンから給湯器・床暖房などの操作や機器の状態をどこからでも確認することができます※1。帰宅途中にスマートフォンからお湯はり・追い焚きをしておけば、帰ってすぐお風呂に入れます。また、寒い冬の日は床暖房を運転ONにしておけば、家に帰るころにはお部屋あたたか。<br><span>※1.ご利用には予め準備が必要な事項もございます。詳細につきましては取扱説明書をご確認ください。<br>※2.家庭用無線LANルーターは別途ご用意頂く必要がございます。<br>※3.機器ごとによって仕様・接続方法が異なりますので、詳細につきましては取扱説明書をご確認ください。</span></p>
+          <div class="image">
+            <img src="./images/equipment05/img11.jpg" alt="" class="">
+            <p class="annotation gothic mr-35">（概念図）</p>
+          </div>
         </li>
-        <li class="half pc">
-          <p class="tit-img pc">無線LAN給湯リモコン</p>
+      </ul>
+      <ul class="lists list03 clearfix">
+        <li class="title pc">
+          <p class="tit-img">宅配ボックス<br><span>（着荷表示機能付）</span></p>
         </li>
-        <li class="half">
+        <li class="title pc">
+          <p class="tit-img">お引越し無料パック</p>
+        </li>
+        <li class="title pc mr0">
+          <p class="tit-img">スロップシンク</p>
+        </li>
+        <li>
           <p class="tit-img tb">宅配ボックス<br><span>（着荷表示機能付）</span></p>
           <div class="image">
             <img src="./images/equipment05/img18.jpg" alt="" class="">
@@ -118,32 +131,21 @@
           </div>
           <p class="lead">留守中に届いた荷物を、24時間いつでも受け取ることができる他、宅配物の発送やクリーニングの依頼が行えます。宅配物発送料金・クリーニング料金はクレジットカードで決済することも可能。また、留守中に届いた荷物は住戸内のインターホン親機で着荷表示により確認できます。</p>
         </li>
-        <li class="half">
-          <p class="tit-img tb">無線LAN給湯リモコン</p>
-          <div class="image">
-            <img src="./images/equipment05/img11.jpg" alt="" class="">
-            <p class="annotation gothic mr-35">（概念図）</p>
-          </div>
-          <p class="lead">専用アプリケーションを使ってお手元のスマートフォンから給湯器・床暖房などの操作や機器の状態をどこからでも確認することができます※1。帰宅途中にスマートフォンからお湯はり・追い焚きをしておけば、帰ってすぐお風呂に入れます。また、寒い冬の日は床暖房を運転ONにしておけば、家に帰るころにはお部屋あたたか。
-          <br><span>※1.ご利用には予め準備が必要な事項もございます。詳細につきましては取扱説明書をご確認ください。<br>※2.家庭用無線LANルーターは別途ご用意頂く必要がございます。<br>※3.機器ごとによって仕様・接続方法が異なりますので、詳細につきましては取扱説明書をご確認ください。</span></p>
-        </li>
-      </ul>
-      <ul class="lists list03 clearfix">
         <li>
-          <p class="tit-img">お引越し無料パック</p>
+          <p class="tit-img tb">お引越し無料パック</p>
           <div class="image">
             <img src="./images/equipment05/img19.jpg" alt="" class="">
           </div>
           <p class="lead">梱包資材の提供や荷物の搬出・運搬・搬入など、お引越しを無料でサポートします。また、必要に応じて家電の取付けやトランクルームの手配などの各種サービスもオプション（有料）で行います。<br><span>※サービスのご利用には制限がございます。詳細は係員にお尋ねください。</span></p>
         </li>
-        <li>
-          <p class="tit-img">スロップシンク</p>
+        <li class="mr0">
+          <p class="tit-img tb">スロップシンク</p>
           <div class="image">
             <img src="./images/equipment05/img09.jpg" alt="" class="">
           </div>
           <p class="lead">バルコニーにスロップシンクを備えました。ガーデニングやお掃除など、便利に活用できます。</p>
         </li>
-        <li class="mr0 mb0">
+        <li class="mb0">
           <p class="tit-img">透明耐熱強化ガラス</p>
           <p class="lead">一部住戸には、透明耐熱強化ガラスを採用し、眺望を妨げる網をなくすと同時に強化処理を加えた防火ガラスとなっています。また万一割れた際には破片が細かく砕けるので、安全性にも優れています。<br><span>※詳細は係員にお尋ねください。</span></p>
         </li>
@@ -151,11 +153,11 @@
           <p class="tit-img">二重天井</p>
           <p class="lead">住戸内を二重天井とすることで、配管・配線のコンクリートスラブへの打込みを減らし、将来のリフォームやメンテナンスへの対応に配慮しています。</p>
         </li>
-        <li>
+        <li class="mr0">
           <p class="tit-img">専用玄関ポーチ</p>
           <p class="lead">玄関の前に住戸専用のポーチを設けたプランをご用意しました。玄関に奥行を与え、住まいの独立性、プライバシー性を高めています。 <br><span>※Eタイプのみ。</span></p>
         </li>
-        <li class="mr0">
+        <li>
           <p class="tit-img">テラス</p>
           <p class="lead">１階住戸には、タイルを張ったテラスのあるプランをご用意しました。戸建て感覚を演出し、住まいに憩いと広がりを与えます。</p>
         </li>
@@ -163,7 +165,7 @@
           <p class="tit-img">ペット足洗い場</p>
           <p class="lead">散歩で汚れたペットの足を清潔に保つペット専用の足洗い場を設けました。</p>
         </li>
-        <li>
+        <li class="mr0">
           <p class="tit-img">防水コンセント</p>
           <p class="lead">テラスのお掃除などにご利用いただける、防水コンセントを備えました。</p>
         </li>
@@ -180,7 +182,7 @@
 
   <section class="sections sec03 clearfix">
     <div class="wrap">
-      <h2 class="tit">■ メンテナンス／アフターサービス</h2>
+      <h2 class="tit">Maintenance <br class="sp">&<br class="sp"> After service</h2>
       <ul class="lists list01 clearfix">
         <li class="full">
           <div class="tit-img">長期修繕計画</div>
@@ -200,28 +202,27 @@
       <ul class="lists list01 clearfix">
         <li class="full">
           <p class="tit-img">宅配型 外部収納サービス エアトランク</p>
+          <p class="lead">たまにしか使わないモノや大事にとっておきたいモノを"毎回、梱包不要、集荷・配送無料”で預けて、必要な時に玄関先までお届けします。新築物件契約時（現居）よりご利用が可能なため、新居お引っ越しの荷物量だけでなく、引っ越し作業軽減にも役立ちます。初期費用なく、最低契約期間3ヶ月にてご利用いただけます。<br><span>※本サービスは有料となります。※規定あり。下記諸条件をご参照ください。</span>
           <div class="image">
             <img src="./images/equipment05/img21.jpg" alt="" class="pc">
             <img src="./images/equipment05/img21-sp.jpg" alt="" class="tb"><img src="./images/equipment05/img21-02-sp.jpg" alt="" class="tb">
-          </div>
-          <p class="lead">たまにしか使わないモノや大事にとっておきたいモノを"毎回、梱包不要、集荷・配送無料”で預けて、必要な時に玄関先までお届けします。新築物件契約時（現居）よりご利用が可能なため、新居お引っ越しの荷物量だけでなく、引っ越し作業軽減にも役立ちます。初期費用なく、最低契約期間3ヶ月にてご利用いただけます。<br><span>※本サービスは有料となります。※規定あり。下記諸条件をご参照ください。</span>
-        </li>
+          </div>        </li>
       </ul>
       <ul class="lists list01 clearfix">
         <li class="double">
           <p class="tit-img">住まいサポート12 PREMIUM<br class="tb"><span>（オプション・有料）</span></p>
+          <p class="lead">お引き渡しより、通常2年のアフターサービス期間終了後、本来ご自身で対応されることとなる住まいのトラブル対応、住宅設備機器等のリペアやメンテナンス等を、お引渡しより12年間サポートします。<br><span>※詳細は係員にお尋ねください。</span></p>
           <div class="image">
             <img src="./images/equipment05/img15.png" alt="" class="">
             <p class="mini gothic">※アフターサービス業務規準における補修項目と異なります。<br class="pc">詳しいサービス内容は利用規約をご覧ください。</p>
-          </div>
-          <p class="lead">お引き渡しより、通常2年のアフターサービス期間終了後、本来ご自身で対応されることとなる住まいのトラブル対応、住宅設備機器等のリペアやメンテナンス等を、お引渡しより12年間サポートします。<br><span>※詳細は係員にお尋ねください。</span></p>
+          </div>        
         </li>
         <li>
           <p class="tit-img">カード決済サービス</p>
+          <p class="lead">マンションの管理費、修繕積立金、駐車場利用料、駐輪場利用料、その他共用施設使用料等のお支払いに、「住友不動産 ショッピングシティイオンカード」によるカード決済がご利用いただけます。管理費等のお支払いでポイントがたまるなど、おトクなサービスです。<br><span>※カード決済は住友不動産 ショッピングシティイオンカードでのお支払いに限ります。※カード決済可能な費用の詳細は係員にお尋ねください。※カードの発行には所定の審査がございます。※サービス内容は変更となる場合があります。</span></p>
           <div class="image">
             <img src="./images/equipment05/img26.jpg" alt="" class="">
           </div>
-          <p class="lead">マンションの管理費、修繕積立金、駐車場利用料、駐輪場利用料、その他共用施設使用料等のお支払いに、「住友不動産 ショッピングシティイオンカード」によるカード決済がご利用いただけます。管理費等のお支払いでポイントがたまるなど、おトクなサービスです。<br><span>※カード決済は住友不動産 ショッピングシティイオンカードでのお支払いに限ります。※カード決済可能な費用の詳細は係員にお尋ねください。※カードの発行には所定の審査がございます。※サービス内容は変更となる場合があります。</span></p>
         </li>
       </ul>
    </div>

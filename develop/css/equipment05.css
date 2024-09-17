@@ -41,14 +41,26 @@
   margin-right: -35px;
 }
 .equipment05 .sections .tit {
-  font-size: 24px;
+  font-size: 42px;
   letter-spacing: 0.12em;
-  background: #b9a277;
-  color: #fff;
+  color: #b9a277;
+  letter-spacing: normal;
+  text-align: center;
   padding: 10px 0 10px 16px;
   margin-bottom: 30px;
-  font-weight: bold;
   line-height: 1.6;
+}
+.equipment05 .sections .tit:before, .equipment05 .sections .tit:after {
+  content: "";
+  display: inline-block;
+  width: 30px;
+  height: 2px;
+  background-color: #b9a277;
+  margin-right: 15px;
+  vertical-align: middle;
+}
+.equipment05 .sections .tit:before, .equipment05 .sections .tit:after {
+  margin-left: 15px;
 }
 .equipment05 .sections .tit-img {
   font-size: 22px;
@@ -56,6 +68,7 @@
   padding-bottom: 10px;
   border-bottom: 1px solid;
   margin-bottom: 10px;
+  font-family: "Noto Sans JP";
 }
 .equipment05 .sections .tit-img span {
   font-size: 14px;
@@ -125,6 +138,10 @@
 .equipment05 .sec02 .lists li.mb0 {
   margin-bottom: auto;
 }
+.equipment05 .sec02 .lists li.pc {
+  vertical-align: bottom;
+  margin-bottom: 0;
+}
 .equipment05 .sec02 .lists li:last-child {
   margin-right: auto;
 }
@@ -140,12 +157,13 @@
   margin: auto;
 }
 .equipment05 .sec02 .list02 .full .lead {
-  width: 68%;
+  width: 60%;
   float: left;
 }
 .equipment05 .sec02 .list02 .full .image {
-  width: 30%;
+  width: 38%;
   float: right;
+  margin-bottom: 0;
 }
 .equipment05 .sec02 .list02 .half {
   display: inline-block;
@@ -209,8 +227,12 @@
     width: 84%;
   }
   .equipment05 .sections .tit {
-    font-size: 21px;
-    margin-bottom: 20px;
+    font-size: 30px;
+    margin-bottom: 30px;
+    line-height: 1.4;
+  }
+  .equipment05 .sections .tit:before, .equipment05 .sections .tit:after {
+    content: none;
   }
   .equipment05 .sections .lead span {
     font-size: 13px;
@@ -247,6 +269,9 @@
     width: 100%;
     margin-bottom: 40px;
   }
+  .equipment05 .sec02 .lists li.pc {
+    display: none;
+  }
   .equipment05 .sec02 .lists li:last-child {
     width: 100%;
     margin-bottom: 0;
@@ -265,6 +290,9 @@
   }
   .equipment05 .sec02 .list02 .full .lead, .equipment05 .sec02 .list02 .full .image {
     width: 100%;
+  }
+  .equipment05 .sec02 .list02 .full .image {
+    margin-bottom: 40px;
   }
   .equipment05 .sec02 .list02 .half {
     width: 100%;

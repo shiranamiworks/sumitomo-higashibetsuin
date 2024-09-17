@@ -45,14 +45,26 @@
       }
     }
     .tit {
-      font-size: 24px;
+      font-size: 42px;
       letter-spacing: 0.12em;
-      background: #b9a277;
-      color: #fff;
+      color: #b9a277;
+      letter-spacing: normal;
+      text-align: center;
       padding: 10px 0 10px 16px;
       margin-bottom: 30px;
-      font-weight: bold;
       line-height: 1.6;
+      &:before,&:after{
+        content: "";
+        display: inline-block;
+        width: 30px;
+        height: 2px;
+        background-color: #b9a277;
+        margin-right: 15px;
+        vertical-align: middle;
+      }
+      &:before,&:after{
+        margin-left: 15px;
+      }
     }
     .tit-img {
       font-size: 22px;
@@ -60,6 +72,7 @@
       padding-bottom: 10px;
       border-bottom: 1px solid;
       margin-bottom: 10px;
+      font-family: 'Noto Sans JP';
       span {
         font-size: 14px;
       }
@@ -135,6 +148,10 @@
         &.mb0{
           margin-bottom: auto;
         }
+        &.pc{
+          vertical-align: bottom;
+          margin-bottom: 0;
+        }
       }
       li:last-child {
         margin-right: auto;
@@ -156,12 +173,13 @@
     .list02{
       .full{
         .lead{
-          width: 68%;
+          width: 60%;
           float: left;
         }
         .image{
-          width: 30%;
+          width: 38%;
           float: right;
+          margin-bottom: 0;
         }
       }
       .half{
@@ -243,8 +261,12 @@
         width: 84%;
       }
       .tit {
-        font-size: 21px;
-        margin-bottom: 20px;
+        font-size: 30px;
+        margin-bottom: 30px;
+        line-height: 1.4;
+        &:before,&:after{
+          content: none;
+        }
       }
       .lead {
         span {
@@ -288,6 +310,9 @@
               margin-bottom: 40px;
             }
           }
+          &.pc{
+            display: none;
+          }
         }
         li:last-child {
           width: 100%;
@@ -311,6 +336,9 @@
       .list02{
         .full .lead,.full .image{
           width: 100%;
+        }
+        .full .image{
+          margin-bottom: 40px;
         }
         .half{
           width: 100%;

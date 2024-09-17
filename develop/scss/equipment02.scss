@@ -40,13 +40,26 @@
       text-align: right;
     }
     .tit {
-      font-size: 24px;
+      font-size: 42px;
       letter-spacing: 0.12em;
-      background: #b9a277;
-      color: #fff;
+      color: #b9a277;
       padding: 10px 0 10px 16px;
       margin-bottom: 30px;
-      font-weight: bold;
+      letter-spacing: normal;
+      text-align: center;
+      line-height: 1.4;
+      &:before,&:after{
+        content: "";
+        display: inline-block;
+        width: 30px;
+        height: 2px;
+        background-color: #b9a277;
+        margin-right: 15px;
+        vertical-align: middle;
+      }
+      &:before,&:after{
+        margin-left: 15px;
+      }
     }
     .tit-img {
       font-size: 22px;
@@ -54,6 +67,7 @@
       padding-bottom: 10px;
       border-bottom: 1px solid;
       margin-bottom: 10px;
+      font-family: 'Noto Sans JP';
       span {
         font-size: 14px;
       }
@@ -106,18 +120,16 @@
       }
     }
     .list00 {
-      .lead-box {
-        display: flex;
-        .text01 {
+      .text {
+        width: 55%;
+        float: left;
+        .text01{
           font-size: 14px;
-          line-height: 1.4;
-          width: 64%;
-          float: left;
         }
-        .image {
-          width: 36%;
-          margin: auto;
         }
+      .image {
+        width: 40%;
+        float: right;
       }
     }
     .list02 {
@@ -180,8 +192,11 @@
         width: 84%;
       }
       .tit {
-        font-size: 21px;
-        margin-bottom: 20px;
+        font-size: 30px;
+        margin-bottom: 30px;
+        &:before,&:after{
+          content: none;
+        }
       }
       .lead {
         span {
@@ -219,8 +234,9 @@
         }
       }
       .list00 {
-        .lead-box {
+        .text {
           display: block;
+          width: 100%;
           .text01 {
             font-size: 14px;
             line-height: 1.4;
@@ -228,10 +244,10 @@
             float: none;
             margin-bottom: 10px;
           }
-          .image {
-            width: 100%;
-            margin: auto;
-          }
+        }
+        .image {
+          width: 100%;
+          margin: 0 auto 40px;
         }
       }
       .list03 {
