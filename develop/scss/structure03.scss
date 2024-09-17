@@ -40,14 +40,32 @@
         bottom: -20px;
       }
     }
-    .tit {
-      font-size: 24px;
+    .tit01 {
+      font-size: 21px;
       letter-spacing: 0.12em;
       background: #b9a277;
       color: #fff;
-      padding: 10px 0 10px 16px;
+      padding: 6px 0 6px 16px;
       margin-bottom: 30px;
-      font-weight: bold;
+    }
+    .tit {
+      font-size: 42px;
+      letter-spacing: 0.12em;
+      color: #b9a277;
+      margin-bottom: 60px;
+      text-align: center;
+      &:before,&:after{
+        content: "";
+        display: inline-block;
+        width: 30px;
+        height: 2px;
+        background-color: #b9a277;
+        margin-right: 15px;
+        vertical-align: middle;
+      }
+      &:before,&:after{
+        margin-left: 15px;
+      }
     }
     .tit-img {
       font-size: 22px;
@@ -55,8 +73,12 @@
       padding-bottom: 10px;
       border-bottom: 1px solid;
       margin-bottom: 10px;
+      font-family: 'Noto Sans JP';
       span {
         font-size: 14px;
+        &.mini{
+          font-size: 18px;
+        }
       }
     }
     .lead {
@@ -107,12 +129,14 @@
       }
       li:last-child {
         margin-right: auto;
-        .text{
-          width: 58%;
+        .lead img{
+          display: block;
+          max-width: 124px;
+          margin-top: 10px;
         }
-        .image{
-          width: 40%;
-        }
+        // .image{
+        //   width: 40%;
+        // }
       }
       .annotation {
         bottom: -15px;
@@ -193,8 +217,11 @@
         width: 84%;
       }
       .tit {
-        font-size: 21px;
-        margin-bottom: 20px;
+        font-size: 30px;
+        margin-bottom: 30px;
+        &:before,&:after{
+          content: none;
+        }
       }
       .lead {
         span {

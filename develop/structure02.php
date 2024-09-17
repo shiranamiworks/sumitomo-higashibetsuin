@@ -36,7 +36,7 @@
 
   <section class="sections sec01 clearfix">
     <div class="wrap">
-      <h2 class="tit">■ 災害対策装備</h2>
+      <h2 class="tit">Safety</h2>
       <ul class="lists list01">
         <li>
           <p class="tit-img">エレベーター安全装置</p>
@@ -109,42 +109,25 @@
       <ul class="lists list05">
         <li>
           <p class="tit-img">耐震ラッチ</p>
-          <p class="lead">洗面化粧台の三面鏡収納の扉には、地震の揺れによって扉が開いて、収納物が落下しないように、耐震ラッチを設置。住まう方の安全に配慮しています。</p>
-          <div class="image tb">
+          <div class="image">
             <img src="./images/structure02/img05.png" alt="" class="">
           </div>
+          <p class="lead">洗面化粧台の三面鏡収納の扉には、地震の揺れによって扉が開いて、収納物が落下しないように、耐震ラッチを設置。住まう方の安全に配慮しています。</p>
         </li>
         <li>
           <p class="tit-img">耐震ドア枠</p>
-          <p class="lead">万一の地震時に、玄関扉の枠が歪んでも、枠と扉の隙間を大きく設けることにより、扉の開放を容易にできるように配慮した対震ドア枠を採用しました。</p>
-          <div class="image img06 tb">
+          <div class="image img06">
             <img src="./images/structure02/img06.png" alt="" class="">
             <p class="annotation gothic bt">（概念図）</span></p>
           </div>
+          <p class="lead">万一の地震時に、玄関扉の枠が歪んでも、枠と扉の隙間を大きく設けることにより、扉の開放を容易にできるように配慮した対震ドア枠を採用しました。</p>
         </li>
         <li class="mr0">
           <p class="tit-img">家具固定用下地補強</p>
+          <div class="image">
+          <img src="./images/structure02/img07.png" alt="" class="pc"><img src="./images/structure02/img07-sp.png" alt="" class="tb"><p class="annotation gothic bt">（概念図）</span></p>
+          </div>
           <p class="lead">万一の地震時による家具転倒予防として、キッチンの一部の間仕切壁などに家具固定用下地補強を施しました。壁面の一部分にある下地補強に家具を固定することで家具が倒れにくくなり、住まう方の安全に配慮された仕様です。<br><span>※住戸タイプにより設置箇所は異なります。詳細は係員にお尋ねください。<br>※取付金具は別途お客様のご負担となります。</span></p>
-          <div class="image tb">
-            <img src="./images/structure02/img07.png" alt="" class=""><p class="annotation gothic bt">（概念図）</span></p>
-          </div>
-        </li>
-        <li class="bottom">
-          <div class="image pc">
-            <img src="./images/structure02/img05.png" alt="" class="">
-          </div>
-        </li>
-        <li class="bottom">
-          <div class="image img06 pc">
-            <img src="./images/structure02/img06.png" alt="" class="">
-            <p class="annotation gothic bt">（概念図）</span></p>
-          </div>
-        </li>
-        <li class="bottom">
-          <div class="image pc">
-            <img src="./images/structure02/img07.png" alt="" class="">
-            <p class="annotation gothic bt">（概念図）</span></p>
-          </div>
         </li>
       </ul>
     </div>

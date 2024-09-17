@@ -34,19 +34,29 @@
   text-align: right;
 }
 .structure02 .sections .annotation.bt {
-  bottom: -20px;
+  bottom: 0;
 }
 .structure02 .sections .annotation02 {
   right: 37%;
 }
 .structure02 .sections .tit {
-  font-size: 24px;
+  font-size: 42px;
   letter-spacing: 0.12em;
-  background: #b9a277;
-  color: #fff;
-  padding: 10px 0 10px 16px;
-  margin-bottom: 30px;
-  font-weight: bold;
+  color: #b9a277;
+  margin-bottom: 60px;
+  text-align: center;
+}
+.structure02 .sections .tit:before, .structure02 .sections .tit:after {
+  content: "";
+  display: inline-block;
+  width: 30px;
+  height: 2px;
+  background-color: #b9a277;
+  margin-right: 15px;
+  vertical-align: middle;
+}
+.structure02 .sections .tit:before, .structure02 .sections .tit:after {
+  margin-left: 15px;
 }
 .structure02 .sections .tit-img {
   font-size: 22px;
@@ -54,9 +64,13 @@
   padding-bottom: 10px;
   border-bottom: 1px solid;
   margin-bottom: 10px;
+  font-family: "Noto Sans JP";
 }
 .structure02 .sections .tit-img span {
   font-size: 14px;
+}
+.structure02 .sections .tit-img span.mini {
+  font-size: 18px;
 }
 .structure02 .sections .lead {
   font-size: 17px;
@@ -82,6 +96,7 @@
 }
 .structure02 .sec01 .image {
   position: relative;
+  margin-bottom: 10px;
 }
 .structure02 .sec01 .lists li {
   display: inline-block;
@@ -151,10 +166,6 @@
 .structure02 .sec01 .list05 li:last-child {
   margin-right: auto;
 }
-.structure02 .sec01 .list05 .img06 {
-  width: 90%;
-  margin: auto;
-}
 .structure02 .sec01 .list05 .mr0 {
   margin-right: auto;
 }
@@ -169,8 +180,11 @@
     width: 84%;
   }
   .structure02 .sections .tit {
-    font-size: 21px;
-    margin-bottom: 20px;
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  .structure02 .sections .tit:before, .structure02 .sections .tit:after {
+    content: none;
   }
   .structure02 .sections .lead span {
     font-size: 13px;
