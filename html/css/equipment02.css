@@ -112,6 +112,9 @@
   width: 70%;
   margin: 0 auto 30px;
 }
+.equipment02 .sec01 .lists .size .annotation {
+  bottom: 0;
+}
 .equipment02 .sec01 .list00 .text {
   width: 55%;
   float: left;
@@ -231,6 +234,12 @@
     width: 100%;
     margin-left: 0;
     margin-bottom: 40px;
+  }
+  .equipment02 .sec01 .list03 li.double .image.pc {
+    display: none;
+  }
+  .equipment02 .sec01 .list03 li.double {
+    margin-bottom: 80px;
   }
   .equipment02 .sec01 .list04 {
     margin-bottom: 0;

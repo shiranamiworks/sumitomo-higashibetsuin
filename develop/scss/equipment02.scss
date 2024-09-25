@@ -116,6 +116,9 @@
       .size {
         width: 70%;
         margin: 0 auto 30px;
+        .annotation{
+          bottom: 0;
+        }
       }
     }
     .list00 {
@@ -260,6 +263,12 @@
             margin-left: 0;
             margin-bottom: 40px;
           }
+          &.pc{
+            display: none;
+          }
+        }
+        li.double{
+          margin-bottom: 80px;
         }
       }
       .list04 {

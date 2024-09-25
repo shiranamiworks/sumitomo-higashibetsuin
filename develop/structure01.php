@@ -65,7 +65,7 @@
       <ul class="lists list02">
         <li>
           <div class="image">
-            <img src="./images/structure01/img02.png" alt="" class="">
+            <img src="./images/structure01/img02.png" alt="" class="pc"><img src="./images/structure01/img02-sp.png" alt="" class="tb">
           </div>
         </li>
         <li>

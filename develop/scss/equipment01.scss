@@ -44,6 +44,9 @@
       &.bt {
         bottom: -20px;
       }
+      &.bt0 {
+        bottom: 0;
+      }
     }
     .tit {
       font-size: 42px;
@@ -246,13 +249,11 @@
     .sec02 {
       margin-bottom: 20px;
       .lists {
+        margin-bottom: 40px;
         li {
           display: block;
           width: 100%;
           margin-bottom: 40px;
-          &.full {
-            margin-bottom: 40px;
-          }
         }
         li:last-child {
           width: 100%;

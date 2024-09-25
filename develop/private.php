@@ -65,7 +65,7 @@
         <p class="caption">BALCONY</p>
       </div>
     </div>
-    <div class="slick-img">
+    <div class="slick-img img07">
       <div class="image">
         <img src="./images/private/img07.jpg" alt="">
         <p class="caption">POWDER ROOM</p>

@@ -98,6 +98,9 @@
   #private .content .caption {
     font-size: 18px;
   }
+  #private .content .img07 .caption {
+    letter-spacing: 0;
+  }
   #private .content .thumbnail .caption {
     font-size: 10px;
     width: 100%;

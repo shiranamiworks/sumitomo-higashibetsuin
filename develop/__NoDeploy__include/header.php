@@ -105,10 +105,10 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
             <a href="<?= $page_settings["directory_pos"]  ?>design.html"><span class="f-en">DESIGN</span><br>デザイン</a>
           </li>
           <li>
-          <a href="<?= $page_settings["directory_pos"]  ?>public.html"><span class="f-en">COMMON SPACE</span><br>共&#12132;空間</a>
+           <a href="<?= $page_settings["directory_pos"]  ?>public.html"><span class="f-en">COMMON SPACE</span><br>共&#12132;空間</a>
           </li>
           <li>
-            <p><span class="f-en">PRIVATE SPACE</span><br>室内空間</p>
+           <a href="<?= $page_settings["directory_pos"]  ?>private.html"><span class="f-en">PRIVATE SPACE</span><br>室内空間</a>
           </li>
         </ul>
         <ul>
@@ -160,7 +160,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li><a href="<?= $page_settings["directory_pos"]  ?>concept.html">コンセプト</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>design.html">デザイン</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>public.html">共&#12132;空間</a></li>
-        <li>室内空間</li>
+        <li><a href="<?= $page_settings["directory_pos"]  ?>private.html">室内空間</a></li>
         <li><a href="https://www.sumitomo-rd-mansion.jp/tokai/higashibetsuin/list.php" target="_blank">間取り</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>equipment01.html">設備・仕様</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>structure01.html">構造・防災</a></li>

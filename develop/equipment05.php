@@ -42,24 +42,33 @@
       <ul class="lists list01">
         <li>
           <p class="tit-img">フラットフロア</p>
-          <div class="image">
+          <div class="image pc">
             <img src="./images/equipment05/img01.jpg" alt="" class="">
           </div>
           <p class="lead">つまずいて転倒するなど住戸内での思わぬ事故を防ぐために、住戸内の床段差を極力なくしたフラットフロアを実現しました。<br><span>※玄関、バスルーム、バルコニーの出入口を除く。</span></p>
+          <div class="image tb">
+            <img src="./images/equipment05/img01.jpg" alt="" class="">
+          </div>
         </li>
         <li>
           <p class="tit-img">低床型ユニットバス</p>
-          <div class="image">
+          <div class="image pc">
             <img src="./images/equipment05/img02.jpg" alt="" class="">
           </div>
           <p class="lead">浴槽へのまたぎ高を約430㎜に抑え、出入口の段差も極力解消した、低床設計のユニットバスを採用しました。さらに、壁には手すりを設置した、人にやさしい仕様です。</span></p>
+          <div class="image tb">
+            <img src="./images/equipment05/img02.jpg" alt="" class="">
+          </div>
         </li>
         <li>
           <p class="tit-img">ハンズフリーキー</p>
-          <div class="image">
+          <div class="image pc">
             <img src="./images/equipment05/img03.jpg" alt="" class="">
           </div>
           <p class="lead">主なオートロックドアには、鍵をカバンやポケットに入れたままで解錠可能な、ハンズフリーキーを採用。<br><span>※周辺通行時の意図しない解錠・誤作動防止のため、設置箇所により認証方法・検知範囲が異なります。また、検知範囲には限度があり、構造上、動線がカバーされていない箇所もあります。</span></p>
+          <div class="image tb">
+            <img src="./images/equipment05/img03.jpg" alt="" class="">
+          </div>
         </li>
       </ul>
       <ul class="lists list03">
@@ -125,25 +134,35 @@
         </li>
         <li>
           <p class="tit-img tb">宅配ボックス<br><span>（着荷表示機能付）</span></p>
-          <div class="image">
+          <div class="image pc">
             <img src="./images/equipment05/img18.jpg" alt="" class="">
             <p class="annotation gothic">参考写真</p>
           </div>
           <p class="lead">留守中に届いた荷物を、24時間いつでも受け取ることができる他、宅配物の発送やクリーニングの依頼が行えます。宅配物発送料金・クリーニング料金はクレジットカードで決済することも可能。また、留守中に届いた荷物は住戸内のインターホン親機で着荷表示により確認できます。</p>
+          <div class="image tb">
+            <img src="./images/equipment05/img18.jpg" alt="" class="">
+            <p class="annotation gothic">参考写真</p>
+          </div>
         </li>
         <li>
           <p class="tit-img tb">お引越し無料パック</p>
-          <div class="image">
+          <div class="image pc">
             <img src="./images/equipment05/img19.jpg" alt="" class="">
           </div>
           <p class="lead">梱包資材の提供や荷物の搬出・運搬・搬入など、お引越しを無料でサポートします。また、必要に応じて家電の取付けやトランクルームの手配などの各種サービスもオプション（有料）で行います。<br><span>※サービスのご利用には制限がございます。詳細は係員にお尋ねください。</span></p>
+          <div class="image tb">
+            <img src="./images/equipment05/img19.jpg" alt="" class="">
+          </div>
         </li>
         <li class="mr0">
           <p class="tit-img tb">スロップシンク</p>
-          <div class="image">
+          <div class="image pc">
             <img src="./images/equipment05/img09.jpg" alt="" class="">
           </div>
           <p class="lead">バルコニーにスロップシンクを備えました。ガーデニングやお掃除など、便利に活用できます。</p>
+          <div class="image tb">
+            <img src="./images/equipment05/img09.jpg" alt="" class="">
+          </div>
         </li>
         <li class="mb0">
           <p class="tit-img">透明耐熱強化ガラス</p>
@@ -201,7 +220,7 @@
       </ul>
       <ul class="lists list01 clearfix">
         <li class="full">
-          <p class="tit-img">宅配型 外部収納サービス エアトランク</p>
+          <p class="tit-img">宅配型 外部収納サービス <br class="sp">エアトランク</p>
           <p class="lead">たまにしか使わないモノや大事にとっておきたいモノを"毎回、梱包不要、集荷・配送無料”で預けて、必要な時に玄関先までお届けします。新築物件契約時（現居）よりご利用が可能なため、新居お引っ越しの荷物量だけでなく、引っ越し作業軽減にも役立ちます。初期費用なく、最低契約期間3ヶ月にてご利用いただけます。<br><span>※本サービスは有料となります。※規定あり。下記諸条件をご参照ください。</span>
           <div class="image">
             <img src="./images/equipment05/img21.jpg" alt="" class="pc">

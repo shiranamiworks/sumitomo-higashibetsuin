@@ -41,6 +41,9 @@
 .equipment01 .sections .annotation.bt {
   bottom: -20px;
 }
+.equipment01 .sections .annotation.bt0 {
+  bottom: 0;
+}
 .equipment01 .sections .tit {
   font-size: 42px;
   letter-spacing: 0.12em;
@@ -218,12 +221,12 @@
   .equipment01 .sec02 {
     margin-bottom: 20px;
   }
+  .equipment01 .sec02 .lists {
+    margin-bottom: 40px;
+  }
   .equipment01 .sec02 .lists li {
     display: block;
     width: 100%;
-    margin-bottom: 40px;
-  }
-  .equipment01 .sec02 .lists li.full {
     margin-bottom: 40px;
   }
   .equipment01 .sec02 .lists li:last-child {

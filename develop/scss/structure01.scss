@@ -294,7 +294,7 @@
           &:nth-child(5){
             width: 100%;
             .image{
-              width: 60%;
+              // width: 60%;
               max-width: 300px;
               margin: auto;
             }
@@ -375,8 +375,8 @@
         li:last-child {
           margin-bottom: auto;
         }
-        .img06 {
-          width: 70%;
+        li .image.img06 {
+          width: 100%;
           margin: auto;
         }
       }
