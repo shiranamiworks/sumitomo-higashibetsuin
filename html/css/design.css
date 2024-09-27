@@ -93,6 +93,25 @@
 #design .intro .img01 {
   line-height: 0;
 }
+#design .commonspace {
+  padding: 100px 0;
+}
+#design .commonspace .txt01 {
+  font-size: 30px;
+  line-height: 1.6;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#design .commonspace .texts {
+  padding-top: 0;
+  width: 50%;
+  float: left;
+}
+#design .commonspace .image {
+  max-width: 480px;
+  width: 45%;
+  float: right;
+}
 #design .landplan {
   background: #fff;
   color: #000;
@@ -139,12 +158,25 @@
     font-size: 16px;
     margin-bottom: 60px;
   }
-  #design .urban li {
-    float: none;
-    width: 100%;
+  #design .commonspace {
+    padding: 50px 0;
   }
-  #design .urban li:last-child {
+  #design .commonspace .txt01 {
+    font-size: 22px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  #design .commonspace .texts {
+    width: 100%;
     float: none;
-    margin-top: 10px;
+    padding-top: 0;
+  }
+  #design .commonspace .image {
+    width: 100%;
+    float: none;
+    padding-top: 20px;
+  }
+  #design .landplan {
+    padding-top: 50px;
   }
 }/*# sourceMappingURL=design.css.map */
