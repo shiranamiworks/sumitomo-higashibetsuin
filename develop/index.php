@@ -19,23 +19,15 @@
 
 <main>
 
-<div class="top-mv__slide pc">
-  <figure><img src="./images/top/mv03.jpg" alt="" class="w_100 pc"><p class="annotation white">外観完成予想図</p></figure>
-  <figure><img src="./images/top/mv04.jpg" alt="" class="w_100 pc"><p class="annotation white">image photo</p></figure>
-  <figure><img src="./images/top/mv05.jpg" alt="" class="w_100 pc"><p class="annotation white">下茶屋公園（約550m／徒歩7分）</p><p class="annotation white top">東別院（約340m／徒歩5分）</p><p class="annotation white left top">東別院参道（約320ｍ／徒歩4分）</p><p class="annotation white left">下茶屋公園（約550m／徒歩7分）</p></figure>
-  <figure><img src="./images/top/mv06.jpg" alt="" class="w_100 pc"><p class="annotation white">image photo</p></figure>
-  <figure><img src="./images/top/mv07.jpg" alt="" class="w_100 pc"><p class="annotation white">外観完成予想図・東別院（約340m／徒歩5分）</p></figure>
+<div class="top-mv pc">
+  <figure><img src="./images/top/mv08.jpg" alt="" class="w_100 pc"><p class="annotation white">モデルルームDCタイプ（2024年8月撮影）</p></figure>
   </div><!--//top-mv -->
-  <div class="top-mv__slide sp tb">
-  <figure><img src="./images/top/mv03-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">外観完成予想図</p></figure>
-  <figure><img src="./images/top/mv04-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">image photo</p></figure>
-  <figure><img src="./images/top/mv05-sp.jpg" alt="" class="w_100 pc"><p class="annotation white">下茶屋公園（約550m／徒歩7分）</p>><p class="annotation white top">東別院&nbsp<br>（約340m／徒歩5分）</p><p class="annotation white left top">東別院参道（約320ｍ／徒歩4分）</p><p class="annotation white left">下茶屋公園<br>（約550m／徒歩7分）</p></figure>
-  <figure><img src="./images/top/mv06-sp.jpg" alt="" class="w_100 pc"><p class="annotation white">image photo</p></figure>
-  <figure><img src="./images/top/mv07-sp.jpg" alt="" class="w_100 pc"><p class="annotation white">外観完成予想図・東別院（約340m／徒歩5分）</p></figure>
+  <div class="top-mv sp tb">
+  <figure><img src="./images/top/mv08-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">モデルルームDCタイプ（2024年8月撮影）</p></figure>
   </div><!--//top-mv -->
 
 
-  <!-- <p class="top-txt">オンライン<span>（web）</span><br class="sp">事前ご案内会開催<br class="tb"><a href="javascript:online();">ご予約は<br class="pc">こちらから</a></p> -->
+  <p class="top-txt">モデルルーム<br class="sp">オープン<br class="tb"><a href="javascript:online();">ご予約は<br class="pc">こちらから</a></p>
 
   <div class="points">
     <ul class="lists wrap">
@@ -129,11 +121,10 @@
 
 
   
-  <p class="page-annotation js-scroll wrap">※掲載の所要時間は待ち時間・乗り換え時間を含んだ通勤時（カッコ内は平常時）の目安であり、時間帯により多少異なります。<br>※距離表示については地図上の概測距離を、徒歩分数表示については80ｍを1分として算出し、端数を切り上げたものです。<br>※掲載の航空写真は名古屋市中区栄から南方面を撮影（2023年6月）したものに現地部分の光などCG合成・加工をしたものです。また、周辺環境は将来変わる場合があります。<br>※掲載の外観完成予想図は、東別院境内から現地東側方向を撮影した写真（2023年6月撮影）に計画段階の図面を基に描き起こした建物完成予想図をCG合成・加工したもので、実際とは異なります。
+  <p class="page-annotation js-scroll wrap">※掲載の写真はモデルルーム（DCタイプ）を撮影（2024年8月）したもので、家具・調度品等オプション仕様は販売価格に含まれません。
+ <br>※モデルルームの仕様等は、施工上の都合・改良等により一部変更になる場合があります。<br>※掲載の所要時間は待ち時間・乗り換え時間を含んだ通勤時（カッコ内は平常時）の目安であり、時間帯により多少異なります。<br>※距離表示については地図上の概測距離を、徒歩分数表示については80ｍを1分として算出し、端数を切り上げたものです。<br>※掲載の航空写真は名古屋市中区栄から南方面を撮影（2023年6月）したものに現地部分の光などCG合成・加工をしたものです。また、周辺環境は将来変わる場合があります。<br>※掲載の外観完成予想図は、東別院境内から現地東側方向を撮影した写真（2023年6月撮影）に計画段階の図面を基に描き起こした建物完成予想図をCG合成・加工したもので、実際とは異なります。
 また、周辺環境・眺望は将来変わる場合があります。また、形状の細部および設備機器等については省略しております。
-<br>※掲載の完成予想図は計画段階の図面を基に描き起こしたものに人物等をCG合成したもので、実際とは多少異なります。また、形状の細部および設備機器等については省略しております。<br>※掲載の外観完成予想図は、東別院境内から北西方向を撮影した写真（2023年6月撮影）に計画段階の図面を基に描き起こした建物完成予想図をCG合成・加工したもので、実際とは異なります。また、周辺環境・眺望は将来変わる場合があります。また、形状の細部および設備機器等については省略しております。
-<br>※本物件の東側隣接地の一部は、事業主・住友不動産株式会社が所有しておりますが、2024年9月時点において、事業内容は未定です。また、この土地に建築物が建築された場合には、今回分譲する東側の住戸の眺望、通風等に影警が生じる場合がありますので、予めご了承ください。<br>※距離表示については地図上の概測距離を、徒歩分数表示については80mを1分として算出し、端数を切り上げたものです。
-<br>※1.本物件敷地北東側約30m先に、建築主・エスリード株式会社による地上15階建の共同住宅建設計画があります。この建物が竣工しますと、今回分譲する北東側の住戸の眺望、通風等に影轡が生じる場合がありますのであらかじめこ承知ください。
+<br>※掲載の完成予想図は計画段階の図面を基に描き起こしたものに人物等をCG合成したもので、実際とは多少異なります。また、形状の細部および設備機器等については省略しております。
 </p>
 </main>
 

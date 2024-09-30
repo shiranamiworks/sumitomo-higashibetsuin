@@ -7,6 +7,7 @@
 }
 
 .top-mv {
+  position: relative;
   background: #f1e9dc;
 }
 
@@ -159,15 +160,15 @@
 #top .top-txt {
   text-align: center;
   background: #000;
-  color: #fff;
-  font-size: 36px;
+  color: #C2B974;
+  font-size: 48px;
   letter-spacing: 0.1em;
   padding: 40px 0;
 }
 #top .top-txt a {
   display: inline-block;
-  padding: 10px 5px;
-  background-color: #fff;
+  padding: 10px 15px;
+  background-color: #C2B974;
   color: #000;
   font-size: 18px;
   line-height: 1.4;
@@ -180,8 +181,9 @@
 }
 @media screen and (max-width: 768px) {
   #top .top-txt {
-    font-size: 24px;
+    font-size: 30px;
     padding: 20px 0;
+    line-height: 1.2;
   }
   #top .top-txt a {
     margin-top: 10px;
