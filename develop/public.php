@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティタワー東別院｜東別院 マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー名古屋東別院｜東別院 マンション｜トップ</a></li>
       <li><p>共用空間</p></li>
     </ul>
   </div>

@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティタワー東別院｜東別院 マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー名古屋東別院｜東別院 マンション｜トップ</a></li>
       <li><p>室内空間</p></li>
     </ul>
   </div>
@@ -119,7 +119,7 @@
 
 
 <div class="annotation-area">
-<p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（Dcタイプ）を撮影（2024年8月）したもので、家具・調度品等オプション仕様は販売価格に含まれておりません。<br>※バルコニーの家具・植栽・調度品等の配置はイメージです。実際に配置される際には、安全等に十分ご配慮ください。<br>※モデルルームの仕様は、施工上の都合・改良により一部変更になる場合があります。</p></div>
+<p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（Db1タイプ）を撮影（2024年8月）したもので、家具・調度品等オプション仕様は販売価格に含まれておりません。<br>※バルコニーの家具・植栽・調度品等の配置はイメージです。実際に配置される際には、安全等に十分ご配慮ください。<br>※モデルルームの仕様は、施工上の都合・改良により一部変更になる場合があります。</p></div>
 </main>
 
 <?php require(INCLUDES."footer.php"); ?>

@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティタワー東別院｜東別院 マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー名古屋東別院｜東別院 マンション｜トップ</a></li>
       <li><a href="./location01.html">ロケーション</a></li>
       <li><p>静穏な邸宅地</p></li>
     </ul>
@@ -138,7 +138,7 @@
     <ul class="list03 clearfix">
       <li>
         <div class="image">
-          <img src="./images/location02/area02-03.jpg" alt="" class="tb">
+          <img src="./images/location02/area02-03.jpg" alt="">
         </div>
       </li>
       <li>

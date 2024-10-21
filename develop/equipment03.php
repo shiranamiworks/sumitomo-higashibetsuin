@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティタワー東別院｜東別院 マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー名古屋東別院｜東別院 マンション｜トップ</a></li>
       <li><a href="./equipment03.html">設備・仕様</a></li>
       <li><p>収納</p></li>
     </ul>
@@ -55,7 +55,7 @@
           <div class="image pc">
             <img src="./images/equipment03/img02.jpg" alt="" class="">
           </div>
-          <p class="lead">クロゼットは、お使いになる方の好みやライフスタイル、部屋の用途に応じてパーツをオプション（有償）で加えることのできるシステム収納を採用しました。<br><span>※Aa・Abタイプを除く。</span></p>
+          <p class="lead">クロゼットは、お使いになる方の好みやライフスタイル、部屋の用途に応じてパーツをオプション（有償）で加えることのできるシステム収納を採用しました。<br><span>※A1・A2タイプを除く。</span></p>
           <div class="image tb">
             <img src="./images/equipment03/img02.jpg" alt="" class="">
           </div>
@@ -88,7 +88,7 @@
 
 
   <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（Dcタイプ）を撮影（2024年8月）したものです。<br>※設備・仕様はタイプにより異なります。<br>※掲載の参考写真は本物件のモデルルームを撮影したものではありません。<br>※家具・調度品等のオプション仕様は販売価格に含まれません。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（Db1タイプ）を撮影（2024年8月）したものです。<br>※設備・仕様はタイプにより異なります。<br>※掲載の参考写真は本物件のモデルルームを撮影したものではありません。<br>※家具・調度品等のオプション仕様は販売価格に含まれません。</p></div>
 </main>
 
   <div class="equipment-link equipment-link--5">

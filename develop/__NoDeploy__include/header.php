@@ -17,20 +17,20 @@ $site_setting = array(
 $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
 ?>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー東別院,東別院 マンション,東別院 新築マンション,東別院,東別院駅,地下鉄名城線,名古屋市中区,マンション,新築マンション,分譲マンション,住友不動産">
+<meta name="keywords" content="<?= $page_settings["keywords"] ?>シティタワー名古屋東別院,東別院 マンション,東別院 新築マンション,東別院,東別院駅,地下鉄名城線,名古屋市中区,マンション,新築マンション,分譲マンション,住友不動産">
 <meta name="description" content="<?= $page_settings["description"] ?>地下鉄名城線「東別院駅」まで徒歩8分。住友不動産の新築マンションが東別院に誕生。【すみふ東別院】名古屋市中区のマンションなら住友不動産。">
 
 <meta property="og:url" content="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <meta property="og:type" content="article">
-<meta property="og:title" content="<?= $page_settings["title"] ?>【公式】シティタワー東別院｜東別院の新築マンション｜住友不動産">
+<meta property="og:title" content="<?= $page_settings["title"] ?>【公式】シティタワー名古屋東別院｜東別院の新築マンション｜住友不動産">
 <meta property="og:description" content="<?= $page_settings["description"] ?>地下鉄名城線「東別院駅」まで徒歩8分。住友不動産の新築マンションが東別院に誕生。【すみふ東別院】名古屋市中区のマンションなら住友不動産。">
-<meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】シティタワー東別院｜東別院の新築マンション｜住友不動産">
+<meta property="og:site_name" content="<?= $page_settings["title"] ?>【公式】シティタワー名古屋東別院｜東別院の新築マンション｜住友不動産">
 <meta property="og:image" content="<?= $page_settings["directory_pos"] ?>images/top/ogp.jpg" />
 
 <link rel="canonical" href="https://www.sumitomo-rd-mansion.jp/<?= $folder_name?><?= $page_settings["url"] ?>">
 <link rel="icon" href="<?= $page_settings["directory_pos"]  ?>images/favicon.ico" alt="" id="favicon">
 
-<title><?= $page_settings["title"] ?>【公式】シティタワー東別院｜東別院の新築マンション｜住友不動産</title>
+<title><?= $page_settings["title"] ?>【公式】シティタワー名古屋東別院｜東別院の新築マンション｜住友不動産</title>
 
 <link rel="index" href="index.html">
 
@@ -76,7 +76,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
     <h1 class="header-logo">
       <a href="index.html">
         <figure><img src="<?= $page_settings["directory_pos"]  ?>images/common/logo.jpg" alt=""></figure>
-        <p>東別院駅徒歩8分｜シティタワー東別院｜東別院 新築マンション｜<?= $page_settings["logo_text"]  ?>すみふ東別院｜住友不動産</p>
+        <p>東別院駅徒歩8分｜シティタワー名古屋東別院｜東別院 新築マンション｜<?= $page_settings["logo_text"]  ?>すみふ東別院｜住友不動産</p>
       </a>
     </h1><!-- header-logo -->
     <div class="header-right d-flex">

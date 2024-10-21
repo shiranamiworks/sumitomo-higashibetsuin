@@ -39,7 +39,7 @@
       <ul class="footer-recommend__menu f-min">
         <li>東別院 マンション</li>
         <li>東別院 新築マンション</li>
-        <li>シティタワー東別院</li>
+        <li>シティタワー名古屋東別院</li>
         <li>愛知県名古屋市中区</li>
         <li>地下鉄名城線</li>
         <li>東別院駅</li>

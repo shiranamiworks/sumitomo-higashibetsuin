@@ -21,7 +21,7 @@
   <h2 class="ttl">サイトマップ</h2>
   <div class="sitemap_area">
   <ul>
-						<li class="top"><a href="/tokai/higashibetsuin/">シティタワー東別院 トップ</a></li>
+						<li class="top"><a href="/tokai/higashibetsuin/">シティタワー名古屋東別院 トップ</a></li>
 						<li class="concept"><a href="concept.html">コンセプト</a></li>
 						<li class="design"><a href="design.html">デザイン</a></li>
 						<li class="public"><a href="public.html">共用空間</a></li>

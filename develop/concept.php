@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティタワー東別院｜東別院 マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー名古屋東別院｜東別院 マンション｜トップ</a></li>
       <li><p>コンセプト</p></li>
     </ul>
   </div>
@@ -34,7 +34,7 @@
 
   <section class="intro sections clearfix">
     <div class="inner">
-      <p class="text">再開発で進化を続ける名古屋の3大エリア、<br class="pc">名駅、栄、金山の中心に誕生する、シティタワー東別院。<br>地下鉄名城線「東別院」駅をはじめ5駅6路線<sup>※</sup>を徒歩圏にするポジションが<br class="pc">多彩な利便と快適性を演出し、都心にありながら<br class="pc">歴史の面影や緑に彩られたロケーションが暮らしに寛ぎと潤いを届ける。<br>先進の都市性と安らぎが調和する街に際立つ、<br class="pc">地上20階建て全175邸の格調ある造形が街の新しいランドマークとなって<br class="pc">住まう方の未来と可能性を豊かに広げていく。</p>
+      <p class="text">再開発で進化を続ける名古屋の3大エリア、<br class="pc">名駅、栄、金山の中心に誕生する、シティタワー名古屋東別院。<br>地下鉄名城線「東別院」駅をはじめ5駅6路線<sup>※</sup>を徒歩圏にするポジションが<br class="pc">多彩な利便と快適性を演出し、都心にありながら<br class="pc">歴史の面影や緑に彩られたロケーションが暮らしに寛ぎと潤いを届ける。<br>先進の都市性と安らぎが調和する街に際立つ、<br class="pc">地上20階建て全175邸の格調ある造形が街の新しいランドマークとなって<br class="pc">住まう方の未来と可能性を豊かに広げていく。</p>
       </div>
       <div class="image img01">
         <img src="./images/concept/intro01.jpg" alt="" class="pc"><img src="./images/concept/intro01-sp.jpg" alt="" class="tb">

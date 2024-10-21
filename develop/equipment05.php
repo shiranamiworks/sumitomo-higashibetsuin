@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティタワー東別院｜東別院 マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー名古屋東別院｜東別院 マンション｜トップ</a></li>
       <li><a href="./equipment05.html">設備・仕様</a></li>
       <li><p>快適提案</p></li>
     </ul>
@@ -250,7 +250,7 @@
 
 
   <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（Dcタイプ）を撮影（2024年8月）したものです。<br>※設備・仕様はタイプにより異なります。<br>※掲載の参考写真は本物件のモデルルームを撮影したものではありません。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（Db1タイプ）を撮影（2024年8月）したものです。<br>※設備・仕様はタイプにより異なります。<br>※掲載の参考写真は本物件のモデルルームを撮影したものではありません。</p></div>
 </main>
 
   <div class="equipment-link equipment-link--5">
