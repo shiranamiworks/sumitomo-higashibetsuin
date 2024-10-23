@@ -229,7 +229,7 @@
 
 
   <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（Db1タイプ）を撮影（2024年8月）したものです。<br> ※設備・仕様はタイプにより異なります。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※「シティタワー東別院」は「シティタワー名古屋東別院」に物件名を変更いたしました。<br>※掲載の写真はモデルルーム（Db1タイプ）を撮影（2024年8月）したものです。<br> ※設備・仕様はタイプにより異なります。</p></div>
 </main>
 
 <div class="structure-link structure-link--3">

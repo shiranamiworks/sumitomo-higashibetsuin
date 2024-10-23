@@ -667,7 +667,7 @@ $(document).on("click", ".button05", function(){
 
 
 <div class="annotation-area">
-<p class="page-annotation js-scroll wrap clearfix">※掲載の距離表示については地図上の概測距離を、徒歩分数表示については80ｍを1分として算出し、端数を切り上げたものです。<br>※掲載の写真は2023年3月、5月、6月撮影。<br>※掲載の情報は2023年7月現在のものです。<br>※店舗【施設】の内容等は将来変わる場合があります。</p></div>
+<p class="page-annotation js-scroll wrap clearfix">※「シティタワー東別院」は「シティタワー名古屋東別院」に物件名を変更いたしました。<br>※掲載の距離表示については地図上の概測距離を、徒歩分数表示については80ｍを1分として算出し、端数を切り上げたものです。<br>※掲載の写真は2023年3月、5月、6月撮影。<br>※掲載の情報は2023年7月現在のものです。<br>※店舗【施設】の内容等は将来変わる場合があります。</p></div>
 </main>
 
 <div class="location-link location-link--2">

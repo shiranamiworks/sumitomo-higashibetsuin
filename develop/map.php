@@ -43,7 +43,7 @@
 			<div id="PrintMap" class="pc"><a href="JavaScript:;" onclick="print_out(); return false;">印刷する</a></div>
     </div>
     <div class="container">
-	     <p class="txt">※掲載の現地案内図は一部道路・施設等を抜粋して表記しています。</p>
+	     <p class="txt">※「シティタワー東別院」は「シティタワー名古屋東別院」に物件名を変更いたしました。<br>※掲載の現地案内図は一部道路・施設等を抜粋して表記しています。</p>
     </div>
 </section>
 </main>
