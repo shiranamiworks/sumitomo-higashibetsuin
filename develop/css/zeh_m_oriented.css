@@ -1,0 +1,351 @@
+@charset "Shift_JIS";
+
+#contents .caption{
+	max-height : 100% ;
+	font-size:10px;
+	color:#231815;
+	text-align: left;
+	line-height : 15px ;
+}
+
+#contents .inner{
+	position : relative ;
+	width : 960px ;
+	margin-left : auto ;
+	margin-right : auto ;
+	color : #000 ;
+}
+
+#contents .imgBox{
+  position: relative;
+}
+
+#contents .imgBox .imgCaption {
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  font-size: 12px;
+}
+
+#contents #about{
+  margin-top:60px;
+}
+
+#contents #about p{
+  font-size:20px;
+  line-height: 1.8;
+  text-align: center;
+}
+
+#contents #definition{
+  margin:80px auto 0;
+  width:800px;
+}
+
+#contents #definition .housing{
+  background: #EEF5E3;
+  padding:25px;
+  position: relative;
+}
+
+#contents #definition .housing::after{
+  content: '';
+  width:100%;
+  height:52px;
+  background: url("../../images/zeh_m/arrow.svg") top center no-repeat;
+  background-size: cover;
+  position: absolute;
+  left: 0;
+  top:100%;
+}
+
+#contents #definition .housing h4{
+  color:#00693E;
+  font-size:30px;
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+  z-index:1;
+}
+
+#contents #definition .housing .tableTitle{
+  font-size:16px;
+  position: relative;
+  z-index:1;
+}
+
+#contents #definition table{
+  border:2px solid #0E5D35;
+  width:100%;
+}
+
+#contents #definition table th,
+#contents #definition table td{
+	padding:5px 10px;
+  text-align: center;
+}
+
+#contents #definition table th:not(:first-child),
+#contents #definition table td:not(:first-child){
+	border-left:1px solid #0E5D35;
+}
+
+#contents #definition table th{
+	background: #00933C;
+  border-bottom:1px solid #0E5D35;
+	color:#FFF;
+}
+
+#contents #definition table td{
+	background: #FFF;
+}
+
+#contents #definition table+.caption{
+	margin-top:10px;
+}
+
+#contents #definition .housing .caption{
+  position: relative;
+  z-index:1;
+  margin: 10px auto;
+}
+
+#contents #definition .factorWrap{
+	width:100%;
+	margin:40px auto 0;
+	display:flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+#contents #definition .factorItem{
+  width:50%;
+}
+
+#contents #definition .factor{
+	width:278px;
+  margin:0 auto;
+}
+
+#contents #definition .factor .factorTitle{
+	font-size:26px;
+  font-weight: bolder;
+	border-bottom:1px solid #000;
+  text-align: center;
+  padding-bottom:15px;
+  margin-bottom:15px;
+}
+
+#contents #definition .factor .factorCopy{
+  font-size:18px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+#contents #definition .factorImg{
+	margin:20px auto 0;
+}
+
+#contents #definition .factorImg img{
+  max-width: 100%;
+}
+
+#contents #definition #energy1 .puton{
+	position: absolute;
+	top:0;
+	left:0;
+}
+
+#contents #definition #energy1 .factorImg .base{
+	animation: insulation 4s linear infinite;
+}
+
+@keyframes insulation {
+  0%,40% {
+    opacity: 1;
+  }
+
+  20% {
+    opacity: 0;
+  }
+}
+
+#contents #definition .summary{
+  margin-top:40px;
+  padding-bottom:15px;
+  border-bottom:2px solid #7BC27C;
+}
+
+#contents #definition .summary .txtBox p{
+  text-align: center;
+  font-size:21px;
+  line-height: 1.8;
+}
+
+#contents #definition .summary h3{
+  color:#00693E;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.2;
+  margin-top:20px;
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+  letter-spacing: 2px;
+}
+
+#contents #definition .summary h3 .harfsize{
+  font-size: 28px;
+}
+
+#contents #bels{
+  margin: 80px auto;
+}
+
+#contents #bels #belsContents{
+  background: #EEF5E3;
+  padding:22px;
+}
+
+#contents #bels #belsContents .belsbody::after{
+  display : block;
+	clear : both;
+	content : '';
+}
+
+#contents #bels #belsContents .boxleft{
+  float: left;
+  width:406px;
+}
+
+#contents #bels #belsContents .boxright{
+  float: right;
+  width:490px;
+}
+
+#contents #bels #belsContents p.belscopy{
+  font-size:18px;
+  line-height: 1.4;
+  text-align: justify;
+}
+
+#contents #bels #belsContents .belscaption{
+  width:100%;
+  margin-top:10px;
+}
+
+/**************************************************************************************/
+/**************************************************************************************/
+/* SP Site*/
+/**************************************************************************************/
+/**************************************************************************************/
+@media screen and (max-width: 640px) {
+  
+  #contents .inner{
+    width:90%;
+  }
+  
+  #contents #about{
+    margin-top:50px;
+  }
+  
+  #contents #about p{
+    text-align: justify;
+    font-size:3.5vw;
+  }
+  
+  #contents #about p br{
+    display:none;
+  }
+  
+  #contents #definition{
+    width:100%;
+    margin-top:65px;
+  }
+  
+  #contents #definition .housing{
+    padding:15px;
+  }
+  
+  #contents #definition .housing h4{
+    font-size:5.5vw;
+  }
+  
+  #contents #definition .housing h4 span{
+    display:inline-block;
+  }
+  
+  #contents #definition .housing .tableTitle,
+  #contents #definition table th,
+  #contents #definition table td{
+    font-size:3.0vw;
+  }
+  
+  #contents #definition table th,
+  #contents #definition table td{
+    width:33.33%;
+  }
+  
+  #contents #definition table td span{
+    display:inline-block;
+  }
+  
+  #contents #definition .housing::after{
+    height: 30px;
+  }
+  
+  #contents #definition .factorWrap{
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  #contents #definition .factorItem{
+    width:70%;
+    max-width: 400px;
+  }
+  
+  #contents #definition .factorItem:not(:first-child){
+    margin-top:50px;
+  }
+  
+  #contents #definition .factor{
+    width:100%;
+  }
+  
+  #contents #definition .factor .factorTitle{
+    font-size:5.0vw;
+    padding-bottom:10px;
+    margin-bottom:10px;
+  }
+  
+  #contents #definition .factor .factorCopy{
+    font-size:3.5vw;
+  }
+  
+  #contents #definition .summary .txtBox p{
+    font-size:4.5vw;
+  }
+  
+  #contents #definition .summary .ibspan{
+    display: inline-block;
+  }
+  
+  #contents #definition .summary h3{
+    font-size:9.0vw;
+  }
+  
+  #contents #definition .summary h3 .harfsize{
+    font-size:6.0vw;
+  }
+  
+  #contents #bels #belsContents .boxleft,
+  #contents #bels #belsContents .boxright{
+    width:100%;
+    float:none;
+  }
+  
+  #contents #bels #belsContents .boxright{
+    margin:20px auto 0;
+    width:100%;
+    max-width: 490px;
+  }
+}
