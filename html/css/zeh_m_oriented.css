@@ -10,7 +10,7 @@
 
 #contents .inner{
 	position : relative ;
-	width : 960px ;
+	max-width : 960px ;
 	margin-left : auto ;
 	margin-right : auto ;
 	color : #000 ;
@@ -32,14 +32,14 @@
 }
 
 #contents #about p{
-  font-size:20px;
+  font-size:  1.8rem;
   line-height: 1.8;
   text-align: center;
 }
 
 #contents #definition{
   margin:80px auto 0;
-  width:800px;
+  max-width:800px;
 }
 
 #contents #definition .housing{
@@ -178,13 +178,13 @@
 
 #contents #definition .summary .txtBox p{
   text-align: center;
-  font-size:21px;
+  font-size:1.8rem;
   line-height: 1.8;
 }
 
 #contents #definition .summary h3{
   color:#00693E;
-  font-size: 50px;
+  font-size: 4rem;
   font-weight: bold;
   text-align: center;
   line-height: 1.2;
@@ -199,6 +199,11 @@
 
 #contents #bels{
   margin: 80px auto;
+  max-width: 800px;
+}
+
+#contents #bels #belsTitle{
+  line-height: 0;
 }
 
 #contents #bels #belsContents{
@@ -214,23 +219,63 @@
 
 #contents #bels #belsContents .boxleft{
   float: left;
-  width:406px;
+  max-width:406px;
+  width: 46%;
 }
 
 #contents #bels #belsContents .boxright{
   float: right;
-  width:490px;
+  max-width:490px;
+  width: 49%;
 }
 
 #contents #bels #belsContents p.belscopy{
   font-size:18px;
-  line-height: 1.4;
+  line-height: 1.6;
   text-align: justify;
 }
 
 #contents #bels #belsContents .belscaption{
   width:100%;
   margin-top:10px;
+}
+
+#contents #bels #belsContents .belscaption .caption{
+  margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+
+  #contents .inner{
+    width:90%;
+  }
+  
+  #contents .inner #mainImage img{
+    width:100vw;
+  }
+
+  #contents #definition{
+    width:100%;
+    margin-top:65px;
+  }
+
+  #contents #bels #belsTitle img{
+    width:90vw;
+  }
+
+  #contents #bels #belsContents .boxleft,
+  #contents #bels #belsContents .boxright{
+    width:100%;
+    float:none;
+    margin: auto;
+  }
+  
+  #contents #bels #belsContents .boxright{
+    margin:20px auto 0;
+    width:100%;
+    max-width: 490px;
+  }
+
 }
 
 /**************************************************************************************/
@@ -243,7 +288,7 @@
   #contents .inner{
     width:90%;
   }
-  
+
   #contents #about{
     margin-top:50px;
   }
@@ -341,6 +386,7 @@
   #contents #bels #belsContents .boxright{
     width:100%;
     float:none;
+    max-width: none;
   }
   
   #contents #bels #belsContents .boxright{

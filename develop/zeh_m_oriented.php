@@ -28,7 +28,7 @@
   </div>
 	<!--// パンくずリスト -->
 
-  <div class="equipment-link equipment-link--5">
+  <div class="equipment-link equipment-link--6">
     <a href="equipment01.html"><p>キッチン・サニタリー</p></a>
     <a href="equipment02.html"><p>健康・エコ・省エネ</p></a>
     <a href="equipment03.html"><p>収納</p></a>
@@ -45,7 +45,7 @@
         <div id="mainImage">
           <h2>
             <img class="pc" src="images/zeh_m/mainimg.jpg" alt="ZEH-M Oriented">
-            <img class="sp" src="images/zeh_m/mainimg_sp.jpg" alt="ZEH-M Oriented">
+            <img class="tb" src="images/zeh_m/mainimg_sp.jpg" alt="ZEH-M Oriented">
           </h2>
         </div>
         
@@ -123,20 +123,20 @@
         <div id="bels" data-ani="fade-up" data-delighter>
           <div id="belsTitle">
             <img class="pc" src="images/zeh_m/belstitle.png" alt="省エネルギー性能を評価する[BELS（ベルス）]取得">
-            <img class="sp" src="images/zeh_m/belstitle_sp.png" alt="省エネルギー性能を評価する[BELS（ベルス）]取得">
+            <img class="tb" src="images/zeh_m/belstitle_sp.png" alt="省エネルギー性能を評価する[BELS（ベルス）]取得">
           </div>
           <div id="belsContents">
             <div class="belsbody">
               <div class="boxleft">
-                <p class="belscopy">BELS（ベルス）とは、建築物省エネルギー性能表示制度のことで、全ての建築物において、省エネ性能を第三者評価機関が評価し認定する制度です。「（物件名）シティ○○○○」は、○つ星を取得し、省エネ基準比○○％のエネルギー消費量削減及び評価を取得しました。</p>
+                <p class="belscopy">BELS（ベルス）とは、建築物省エネルギー性能表示制度のことで、全ての建築物において、省エネ性能を第三者評価機関が評価し認定する制度です。「シティタワー名古屋東別院」は、エネルギー消費性能でレベル4、断熱性能でレベル5を達成しています。</p>
               </div>
               <div class="boxright">
-                <img src="images/zeh_m/belsmark.png" alt="BELS">
+                <img src="images/zeh_m/belsmark.jpg" alt="BELS">
               </div>
             </div>
             
             <div class="belscaption">
-              <p class="caption">※本表示は「住棟全体」の評価であり、「各住戸」の性能を担保するものではありません。<br>また、住戸プラン変更等により変更が生じる場合があります。</p>
+              <p class="caption">※本表示は「住棟全体」の評価であり、「各住戸」の性能を担保するものではありません。また、住戸プラン変更等により変更が生じる場合があります。</p>
             </div>
           </div>
         </div>
@@ -150,7 +150,7 @@
 			
 		</div>
 		<!-- //contents -->
-  <div class="equipment-link equipment-link--5">
+  <div class="equipment-link equipment-link--6">
     <a href="equipment01.html"><p>キッチン・サニタリー</p></a>
     <a href="equipment02.html"><p>健康・エコ・省エネ</p></a>
     <a href="equipment03.html"><p>収納</p></a>

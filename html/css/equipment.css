@@ -20,7 +20,7 @@
   text-align: center;
   height: 100px;
   padding: 10px 2.5vw;
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-weight: 300;
   letter-spacing: 0.1em;
   background-color: #fefcf7;
@@ -47,6 +47,10 @@
 
 .equipment-link--5 a {
   width: 20%;
+}
+
+.equipment-link--6 a {
+  width: 16.6666666667vw;
 }
 
 .equipment-link a::before {
@@ -93,7 +97,8 @@
 
 @media screen and (max-width: 1400px) {
   .equipment-link a {
-    font-size: 1.28vw;
+    font-size: 1.2rem;
+    height: 60px;
   }
 }
 @media screen and (max-width: 768px) {
