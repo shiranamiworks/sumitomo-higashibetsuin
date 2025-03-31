@@ -28,12 +28,13 @@
   </div>
 	<!--// パンくずリスト -->
 
-  <div class="equipment-link equipment-link--5">
+  <div class="equipment-link equipment-link--6">
     <a href="equipment01.html"><p>キッチン・サニタリー</p></a>
     <a href="equipment02.html"><p>健康・エコ・省エネ</p></a>
     <a href="equipment03.html"><p>収納</p></a>
     <a href="equipment04.html" class="current"><p>マルチメディア</p></a>
     <a href="equipment05.html"><p>快適提案</p></a>
+    <a href="zeh_m_oriented.html"><p>ZEH-M Oriented</p></a>
   </div>
 
   <section class="sections sec01 clearfix">
@@ -70,12 +71,13 @@
   <p class="page-annotation js-scroll wrap clearfix">※「シティタワー東別院」は「シティタワー名古屋東別院」に物件名を変更いたしました。<br>※設備・仕様はタイプにより異なります。</p></div>
 </main>
 
-  <div class="equipment-link equipment-link--5">
+  <div class="equipment-link equipment-link--6">
     <a href="equipment01.html"><p>キッチン・サニタリー</p></a>
     <a href="equipment02.html"><p>健康・エコ・省エネ</p></a>
     <a href="equipment03.html"><p>収納</p></a>
     <a href="equipment04.html" class="current"><p>マルチメディア</p></a>
     <a href="equipment05.html"><p>快適提案</p></a>
+    <a href="zeh_m_oriented.html"><p>ZEH-M Oriented</p></a>
   </div>
 
 <?php require(INCLUDES."footer.php"); ?>
