@@ -20,26 +20,25 @@
 <main>
 
 <div class="top-mv__slide pc">
-  <figure><img src="./images/top/mv04.jpg" alt="" class="w_100 pc"><p class="annotation white">image photo</p></figure>
-  <figure><img src="./images/top/mv06.jpg" alt="" class="w_100 pc"><p class="annotation white">image photo</p></figure>
-  <figure><img src="./images/top/mv05.jpg" alt="" class="w_100 pc"><p class="annotation white">下茶屋公園（約550m／徒歩7分）</p><p class="annotation white top">東別院（約340m／徒歩5分）</p><p class="annotation white left top">東別院参道（約320ｍ／徒歩4分）</p><p class="annotation white left">下茶屋公園（約550m／徒歩7分）</p></figure>
-  <figure><img src="./images/top/mv07.jpg" alt="" class="w_100 pc"><p class="annotation white">外観完成予想図・東別院（約340m／徒歩5分）</p></figure>
+  <figure><img src="./images/top/mv01.jpg" alt="" class="w_100 pc"><p class="annotation white">外観完成予想図</p></figure>
+  <figure><img src="./images/top/mv02.jpg" alt="" class="w_100 pc"><p class="annotation white">エントランス完成予想図</p></figure>
   </div><!--//top-mv -->
   <div class="top-mv__slide sp tb">
-  <figure><img src="./images/top/mv04-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">image photo</p></figure>
-  <figure><img src="./images/top/mv06-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">image photo</p></figure>
-  <figure><img src="./images/top/mv05-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">下茶屋公園（約550m／徒歩7分）</p><p class="annotation white top">東別院（約340m／徒歩5分）</p><p class="annotation white left top">東別院参道（約320ｍ／徒歩4分）</p><p class="annotation white left">下茶屋公園（約550m／徒歩7分）</p></figure>
-  <figure><img src="./images/top/mv07-sp.jpg" alt="" class="w_100 sp tb"><p class="annotation white">外観完成予想図・東別院（約340m／徒歩5分）</p></figure>
+  <figure><img src="./images/top/mv01.jpg" alt="" class="w_100 sp tb"><p class="annotation white">外観完成予想図</p></figure>
+  <figure><img src="./images/top/mv02.jpg" alt="" class="w_100 sp tb"><p class="annotation white">エントランス完成予想図</p></figure>
   </div><!--//top-mv -->
 
 
-  <p class="top-txt">モデルルーム<br class="sp">オープン<br class="tb"><a href="javascript:online();">ご予約は<br class="pc">こちらから</a></p>
+  <p class="top-txt">
+    <span class="txt01">先着順受付中／モデルルームオープン</span><br>
+    <span class="spec">70.27m<sup>2</sup><br>南東向き</span><span class="price">4,900</span><span class="unit">万円&#x301c;<br><span class="intax">（税込）</span></span><br class="tb">
+    <span class="btn"><a href="javascript:raijo();"><span class="raijo">来場予約</span><br>こちらから</a></span></p>
 
   <div class="points">
     <ul class="lists wrap">
-      <li class="list01 text02"><span class="mini">地下鉄名城線</span><br><span class="big">「東別院」駅 徒歩8分<br>「栄」駅 直通6分</span></li>
-      <li class="list02 text02"><span class="big">名古屋市中区アドレス</span><br>地上20階建て・全175邸の大規模レジデンス</li>
-      <li class="list03 text02"><span class="big color">ZEH-M Oriented</span><br><span class="big">「<span class="color">低炭素建築物</span>」</span>認定取得</li>
+      <li class="list01 text02"><span class="mini">5駅6路線<sup>※1</sup>利用可能</span><br><span class="big">「栄」駅 直通6分</span></li>
+      <li class="list02 text02"><span class="big">ZEH-M Oriented</span><br>「低炭素建築物」認定取得</li>
+      <li class="list03 text02"><span class="mini">20階建 タワーレジデンス</span><br><span class="big">全邸70m<sup>2</sup>超</span></li>
     </ul>
   </div><!-- points -->
 
@@ -127,11 +126,10 @@
 
 
   
-  <p class="page-annotation js-scroll wrap">※「シティタワー東別院」は「シティタワー名古屋東別院」に物件名を変更いたしました。<br>※掲載の外観完成予想図は、東別院境内から北西方向を撮影した写真（2023年6月撮影）に計画段階の図面を基に描き起こした建物完成予想図をCG合成・加工したもので、実際とは異なります。また、周辺環境・眺望は将来変わる場合があります。また、形状の細部および設備機器等については省略しております。<br>
-※本物件の東側隣接地の一部は、事業主・住友不動産株式会社が所有しておりますが、2024年9月時点において、事業内容は未定です。また、この土地に建築物が建築された場合には、今回分譲する東側の住戸の眺望、通風等に影警が生じる場合がありますので、予めご了承ください。<br>
-※1.本物件敷地北東側約30m先に、建築主・エスリード株式会社による地上15階建の共同住宅建設計画があります。この建物が竣工しますと、今回分譲する北東側の住戸の眺望、通風等に影轡が生じる場合がありますのであらかじめこ承知ください。<br>※掲載の所要時間は待ち時間・乗り換え時間を含んだ通勤時（カッコ内は平常時）の目安であり、時間帯により多少異なります。<br>※距離表示については地図上の概測距離を、徒歩分数表示については80ｍを1分として算出し、端数を切り上げたものです。<br>※掲載の写真は2023年3月、5月、6月撮影。<br>
-※掲載の航空写真は金山駅付近上空から撮影（2023年6月）したものに光などCG合成・加工をしたものです。また、周辺環境は将来変わる場合があります。<br>※掲載の完成予想図は計画段階の図面を基に描き起こしたものに人物等をCG合成したもので、実際とは多少異なります。また、形状の細部および設備機器等については省略しております。
-</p>
+  <p class="page-annotation js-scroll wrap">※1：5駅6路線とは、地下鉄名城線「東別院」駅（徒歩8分）、地下鉄鶴舞線「大須観音」駅（徒歩12分）、地下鉄名城線・鶴舞線「上前津」駅（徒歩13分）、名鉄名古屋本線「山王」駅（徒歩14分）、地下鉄名城線・名港線「金山」駅（徒歩14分）、JR東海道本線・中央線、名鉄名古屋本線「金山」駅（徒歩15分）のことです。<br>
+  ※「シティタワー東別院」は「シティタワー名古屋東別院」に物件名を変更いたしました。<br>
+  ※掲載の完成予想図は計画段階の図面を基に描き起こしたものに人物等をCG合成したもので、実際とは多少異なります。また、形状の細部および設備機器等については省略しております。<br>
+  ※掲載の所要時間は待ち時間・乗り換え時間を含んだ通勤時（カッコ内は平常時）の目安であり、時間帯により多少異なります。　</p>
 </main>
 
 <?php require(INCLUDES."footer.php"); ?>
