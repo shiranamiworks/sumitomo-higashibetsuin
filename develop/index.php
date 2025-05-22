@@ -32,7 +32,7 @@
   <p class="top-txt">
     <span class="txt01">先着順受付中／モデルルームオープン</span><br>
     <span class="spec">70.27m<sup>2</sup><br>南東向き</span><span class="price">4,900</span><span class="unit">万円&#x301c;<br><span class="intax">（税込）</span></span><br class="tb">
-    <span class="btn"><a href="javascript:raijo();"><span class="raijo">来場予約</span><br>こちらから</a></span></p>
+    <span class="btn"><a href="javascript:online();"><span class="raijo">来場予約</span><br>こちらから</a></span></p>
 
   <div class="points">
     <ul class="lists wrap">
